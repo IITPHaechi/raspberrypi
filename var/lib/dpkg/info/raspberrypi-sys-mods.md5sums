@@ -1,0 +1,6 @@
+f9da5c9d595334ef806a4138332d57fe  lib/systemd/system/rpi-display-backlight.service
+a0a30f073986b42f8333404468958948  lib/udev/rules.d/15-i2c-modprobe.rules
+1b617fcf4f9de51bd06223504d3029f1  usr/lib/raspberrypi-sys-mods/i2cprobe
+23ae8a3433e47295a8ed5627471bb75a  usr/share/doc/raspberrypi-sys-mods/NEWS.Debian.gz
+6b2f8d3af58a693768e8cb4948822d9e  usr/share/doc/raspberrypi-sys-mods/changelog.gz
+b5c3c8bb856fffaa0b83eaf6c7fffd08  usr/share/doc/raspberrypi-sys-mods/copyright

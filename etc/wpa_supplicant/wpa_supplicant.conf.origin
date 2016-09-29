@@ -1,0 +1,8 @@
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+ap_scan=1
+device_name=Terminal-1
+device_type=1-0050F204-1
+driver_param=use_p2p_group_interface=1
+

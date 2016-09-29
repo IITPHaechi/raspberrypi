@@ -1,0 +1,59 @@
+/.
+/usr
+/usr/lib
+/usr/lib/squeak
+/usr/lib/squeak/5.0-201607181657
+/usr/lib/squeak/5.0-201607181657/vm-display-X11
+/usr/lib/squeak/5.0-201607181657/LocalePlugin
+/usr/lib/squeak/5.0-201607181657/UUIDPlugin
+/usr/lib/squeak/5.0-201607181657/vm-sound-null
+/usr/lib/squeak/5.0-201607181657/squeak
+/usr/lib/squeak/5.0-201607181657/WeDoPlugin
+/usr/lib/squeak/5.0-201607181657/vm-sound-ALSA
+/usr/lib/squeak/5.0-201607181657/SqueakFFIPrims
+/usr/lib/squeak/5.0-201607181657/SqueakSSL
+/usr/lib/squeak/5.0-201607181657/XDisplayControlPlugin
+/usr/lib/squeak/5.0-201607181657/UnixOSProcessPlugin
+/usr/lib/squeak/5.0-201607181657/ImmX11Plugin
+/usr/lib/squeak/5.0-201607181657/vm-sound-OSS
+/usr/lib/squeak/5.0-201607181657/vm-display-null
+/usr/lib/squeak/5.0-201607181657/TestPiPriority
+/usr/lib/squeak/5.0-201607181657/UnicodePlugin
+/usr/lib/libpigpioultrasonic.so.1
+/usr/share
+/usr/share/scratch
+/usr/share/scratch/NuScratch20160915.image
+/usr/share/scratch/locale
+/usr/share/scratch/locale/ja.po
+/usr/share/scratch/locale/ja_HIRA.po
+/usr/share/scratch/fritzing
+/usr/share/scratch/fritzing/Scratch GPIOServer basic demo layout.fzz
+/usr/share/scratch/fritzing/Scratch GPIOServer ExplorerHAT layout.fzz
+/usr/share/scratch/fritzing/Scratch GPIOServer ultrasonic demo layout.fzz
+/usr/share/scratch/fritzing/Scratch GPIOServer servo demo layout.fzz
+/usr/share/scratch/Projects
+/usr/share/scratch/Projects/Sensors and Motors
+/usr/share/scratch/Projects/Sensors and Motors/gpio-servoDemo.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-ExplorerHAT.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-ultrasonicIntruderAlarm.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-SenseHAT.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-PiFace.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-demo.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-cputemperaturegraph.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-citytemperaturegraph.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-DS18B20temperaturegraph.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-ultrasonicDemo.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-pibrella.sb
+/usr/share/scratch/Projects/Sensors and Motors/gpio-PiGlow.sb
+/usr/share/scratch/Projects/Demos
+/usr/share/scratch/Projects/Demos/Scratch Invaders.sb
+/usr/share/scratch/Projects/Demos/Asteroid Blaster.sb
+/usr/share/scratch/Projects/Demos/Pacman for Scratch.sb
+/usr/share/scratch/timidityinstall.sh
+/usr/share/doc
+/usr/share/doc/nuscratch
+/usr/share/doc/nuscratch/changelog.gz
+/usr/bin
+/usr/bin/scratch
+/usr/bin/squeak
+/usr/lib/libpigpioultrasonic.so

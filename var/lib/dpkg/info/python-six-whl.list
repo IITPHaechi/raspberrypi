@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/python-wheels
+/usr/share/python-wheels/six-1.8.0-py2.py3-none-any.whl
+/usr/share/doc
+/usr/share/doc/python-six-whl
+/usr/share/doc/python-six-whl/changelog.gz
+/usr/share/doc/python-six-whl/copyright
+/usr/share/doc/python-six-whl/changelog.Debian.gz

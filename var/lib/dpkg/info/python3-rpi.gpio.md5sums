@@ -1,0 +1,9 @@
+470eb19930c356eede18b06818dba3d1  usr/lib/python3/dist-packages/RPi.GPIO-0.6.2.egg-info
+68130892cf6022022c7a9c2d7cadd955  usr/lib/python3/dist-packages/RPi/GPIO/__init__.py
+c300ef1d24f7f7301e37a7b19036c1bc  usr/lib/python3/dist-packages/RPi/_GPIO.cpython-32mu.so
+cf2ce75ce92e23bccdb5f54d0b1e3be3  usr/lib/python3/dist-packages/RPi/_GPIO.cpython-33m-arm-linux-gnueabihf.so
+07e17f686ef054aa2aa3ed45a8454ac6  usr/lib/python3/dist-packages/RPi/_GPIO.cpython-34m-arm-linux-gnueabihf.so
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/RPi/__init__.py
+a2e44972de333881dc90c0061fb57f85  usr/share/doc/python3-rpi.gpio/changelog.Debian.gz
+6aa57b12b60c87992eb04f97d31a65f3  usr/share/doc/python3-rpi.gpio/changelog.gz
+bc53eeda8cbf97674b901727b0c38e49  usr/share/doc/python3-rpi.gpio/copyright

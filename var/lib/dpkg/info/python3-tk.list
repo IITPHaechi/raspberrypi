@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.4
+/usr/lib/python3.4/lib-dynload
+/usr/lib/python3.4/lib-dynload/_tkinter.cpython-34m-arm-linux-gnueabihf.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-tk
+/usr/share/doc/python3-tk/README.Tk
+/usr/share/doc/python3-tk/README.Debian
+/usr/share/doc/python3-tk/copyright
+/usr/share/doc/python3-tk/changelog.Debian.gz

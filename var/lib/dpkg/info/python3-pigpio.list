@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/pigpio.py
+/usr/lib/python3/dist-packages/pigpio-1.30.egg-info
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-pigpio
+/usr/share/doc/python3-pigpio/copyright
+/usr/share/doc/python3-pigpio/changelog.Debian.gz

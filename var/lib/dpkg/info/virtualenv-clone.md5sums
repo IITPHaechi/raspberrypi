@@ -1,0 +1,11 @@
+ca83ab12904a24b08dcaec572bf2e042  usr/bin/virtualenv-clone
+8f4304ec32d81edd59dcceb03108daf8  usr/share/doc/virtualenv-clone/README
+040b974636dcc3f2eaf614b0d10b293d  usr/share/doc/virtualenv-clone/changelog.Debian.gz
+97adce4cb18ffdeea5817b5360e59044  usr/share/doc/virtualenv-clone/copyright
+39077b5cce3ee0f26f148af416d277c9  usr/share/man/man1/virtualenv-clone.1.gz
+1614d0c5d97e5afd52264d7cb0ce2970  usr/share/pyshared/clonevirtualenv.py
+166586cdb1c435631f4c4e5d7ba7426d  usr/share/pyshared/virtualenv_clone-0.2.5.egg-info/PKG-INFO
+252e061a96bebbf56be841970e4e7976  usr/share/pyshared/virtualenv_clone-0.2.5.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/virtualenv_clone-0.2.5.egg-info/dependency_links.txt
+16975c2bd6efb300bec4afaa57182c74  usr/share/pyshared/virtualenv_clone-0.2.5.egg-info/entry_points.txt
+4251f21266b93ffa9b014cabe47d6a30  usr/share/pyshared/virtualenv_clone-0.2.5.egg-info/top_level.txt

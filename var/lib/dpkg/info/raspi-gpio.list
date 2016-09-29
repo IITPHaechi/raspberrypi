@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/raspi-gpio
+/usr/share/doc/raspi-gpio/copyright
+/usr/share/doc/raspi-gpio/changelog.gz
+/usr/bin
+/usr/bin/raspi-gpio

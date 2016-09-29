@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [ configure = "$1" ]; then
+  ldconfig
+fi
+
+

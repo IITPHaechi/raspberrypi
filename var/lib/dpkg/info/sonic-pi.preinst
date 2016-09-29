@@ -1,0 +1,21 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+    install)
+        ;;
+
+    upgrade)
+        if [ -d  /opt/sonic-pi/app/server/native/raspberry/extra-ugens ]; then
+            rm  -rf /opt/sonic-pi/app/server/native/raspberry/extra-ugens
+        fi
+        ;;
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 0
+        ;;
+esac
+
+
+
+exit 0

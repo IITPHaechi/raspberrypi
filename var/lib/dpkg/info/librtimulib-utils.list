@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/librtimulib-utils
+/usr/share/librtimulib-utils/RTEllipsoidFit
+/usr/share/librtimulib-utils/RTEllipsoidFit/mag_fit_display.m
+/usr/share/librtimulib-utils/RTEllipsoidFit/mag_cal.m
+/usr/share/librtimulib-utils/RTEllipsoidFit/RTEllipsoidFit.m
+/usr/share/librtimulib-utils/RTEllipsoidFit/ellipsoid_fit.m
+/usr/share/doc
+/usr/share/doc/librtimulib-utils
+/usr/share/doc/librtimulib-utils/copyright
+/usr/share/doc/librtimulib-utils/changelog.Debian.gz
+/usr/bin
+/usr/bin/RTIMULibDrive11
+/usr/bin/RTIMULibCal

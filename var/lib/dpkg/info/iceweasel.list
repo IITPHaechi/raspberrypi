@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/iceweasel
+/usr/share/applications
+/usr/share/applications/iceweasel.desktop
+/usr/share/doc
+/usr/share/doc/iceweasel
+/usr/share/doc/iceweasel/copyright
+/usr/share/doc/iceweasel/MPL-1.1.gz
+/usr/share/doc/iceweasel/NEWS.Debian.gz
+/usr/share/doc/iceweasel/MPL-2.0.gz
+/usr/share/doc/iceweasel/changelog.Debian.gz
+/usr/bin/iceweasel

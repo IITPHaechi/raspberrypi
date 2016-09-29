@@ -1,0 +1,13 @@
+7af2b75e6b95e66ecbb3b385a0351703  usr/bin/idle-python3.4
+8c5d0021494fed50f4a52c9dc63609c3  usr/share/applications/idle-python3.4.desktop
+7dcc52d0280c2a118421f4fa5fe87c6a  usr/share/doc/idle-python3.4/NEWS.txt
+503b92676fde82fabcb4b751e03fffbe  usr/share/doc/idle-python3.4/README.Debian
+7305d4e0f2e78c09b5b1dc09bb423c1a  usr/share/doc/idle-python3.4/README.txt
+c86180beb5d929bd7f8952f18f1c4acd  usr/share/doc/idle-python3.4/TODO.txt
+ea7a8d4433dc02674d9f0c268ed17abb  usr/share/doc/idle-python3.4/changelog.Debian.gz
+ab13956fae07aef1fcc9d5e183700fcc  usr/share/doc/idle-python3.4/changelog.gz
+e5106ac957f4cd9d8ba1a649866a54c8  usr/share/doc/idle-python3.4/copyright
+1ca784ed757d8705baafa37ce9613258  usr/share/doc/idle-python3.4/extend.txt
+1ebcd40a9057452519a0feeb6a24ff33  usr/share/lintian/overrides/idle-python3.4
+1951b73d1c4094828f4ce142bcf2cb4e  usr/share/man/man1/idle-python3.4.1.gz
+67f2c463cdb2c8f40036b1e4830bfc69  usr/share/menu/idle-python3.4

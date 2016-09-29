@@ -1,0 +1,210 @@
+###############################################################################
+#
+#  MIME media types and programs that process those types
+#
+#  Much of this file is generated automatically by the program "update-mime".
+#  Please see the "update-mime" man page for more information.
+#
+#  Users can add their own rules if they wish by creating a ".mailcap"
+#  file in their home directory.  Entries included there will take
+#  precedence over those listed here.
+#
+###############################################################################
+
+
+###############################################################################
+#
+#  User section follows:  Any entries included in this section will take
+#  precedence over those created by "update-mime".  DO NOT CHANGE the
+#  "User Section Begins" and "User Section Ends" lines, or anything outside
+#  of this section!
+#
+
+# ----- User Section Begins ----- #
+# -----  User Section Ends  ----- #
+
+###############################################################################
+
+application/vnd.oasis.opendocument.database; soffice --nologo --base '%s'; edit=soffice --nologo --base '%s'; print=soffice --nologo --base -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Database"; nametemplate=%s.odb
+application/vnd.oasis.opendocument.chart; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; print=soffice --nologo --calc -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Chart"; nametemplate=%s.odc
+application/vnd.oasis.opendocument.spreadsheet; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; print=soffice --nologo --calc -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Spreadsheet"; nametemplate=%s.ods
+application/vnd.oasis.opendocument.spreadsheet-template; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; print=soffice --nologo --calc -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Spreadsheet Template"; nametemplate=%s.ots
+application/vnd.oasis.opendocument.graphics; soffice --nologo --draw '%s'; edit=soffice --nologo --draw '%s'; print=soffice --nologo --draw -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Drawing"; nametemplate=%s.odg
+application/vnd.oasis.opendocument.graphics-template; soffice --nologo --draw '%s'; edit=soffice --nologo --draw '%s'; print=soffice --nologo --draw -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Drawing Template"; nametemplate=%s.otg
+application/vnd.oasis.opendocument.presentation; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; print=soffice --nologo --impress -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Presentation"; nametemplate=%s.odp
+application/vnd.oasis.opendocument.presentation-template; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; print=soffice --nologo --impress -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Presentation Template"; nametemplate=%s.otp
+application/vnd.oasis.opendocument.formula; soffice --nologo --math '%s'; edit=soffice --nologo --math '%s'; print=soffice --nologo --math -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Formula"; nametemplate=%s.odf
+application/vnd.oasis.opendocument.text; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; print=soffice --nologo --writer -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Text Document"; nametemplate=%s.odt
+application/vnd.oasis.opendocument.text-master; soffice --nologo --global '%s'; edit=soffice --nologo --writer '%s'; print=soffice --nologo --writer -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Master Document"; nametemplate=%s.odm
+application/vnd.oasis.opendocument.text-template; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; print=soffice --nologo --writer -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument Text Document Template"; nametemplate=%s.ott
+application/vnd.oasis.opendocument.text-web; soffice --nologo --web '%s'; edit=soffice --nologo --web '%s'; print=soffice --nologo --web -p '%s'; test=test -n "$DISPLAY"; description="OpenDocument HTML Document Template"; nametemplate=%s.oth
+text/plain; less '%s'; needsterminal
+application/vnd.sun.xml.base; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; description="OpenOffice.org Database"; nametemplate=%s.sdb
+application/vnd.sun.xml.calc; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Spreadsheet"; nametemplate=%s.sxc
+application/vnd.sun.xml.calc.template; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Spreadsheet Template"; nametemplate=%s.stc
+application/vnd.sun.xml.draw; soffice --nologo --draw '%s'; edit=soffice --nologo --draw '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Drawing"; nametemplate=%s.sxd
+application/vnd.sun.xml.draw.template; soffice --nologo --draw '%s'; edit=soffice --nologo --draw '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Drawing Template"; nametemplate=%s.std
+application/vnd.sun.xml.impress; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Presentation"; nametemplate=%s.sxi
+application/vnd.sun.xml.impress.template; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Presentation Template"; nametemplate=%s.sti
+application/vnd.sun.xml.math; soffice --nologo --math '%s'; edit=soffice --nologo --math '%s'; test=test -n "$DISPLAY"; description="OpenOffice.org Formula"; nametemplate=%s.sxm
+application/vnd.sun.xml.writer; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; description="OpenOffice.org Text Document"; nametemplate=%s.sxw
+application/vnd.sun.xml.writer.global; soffice --nologo --global '%s'; edit=soffice --nologo --writer '%s'; description="OpenOffice.org Master Document"; nametemplate=%s.sxg
+application/vnd.sun.xml.writer.template; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; description="OpenOffice.org Text Document Template"; nametemplate=%s.stw
+application/x-troff-man; /usr/bin/man -X100 -l '%s'; test=test -n "$DISPLAY" -a -e /usr/bin/gxditview; description=Man page
+text/troff; /usr/bin/man -X100 -l '%s'; test=test -n "$DISPLAY" -a -e /usr/bin/gxditview; description=Man page
+application/x-troff-man; /usr/bin/man -l '%s'; needsterminal; description=Man page
+text/troff; /usr/bin/man -l '%s'; needsterminal; description=Man page
+application/x-scratch-project; scratch %s; test=test "$DISPLAY" != ""; description=Scratch Application; nametemplate=%s.sb
+text/html; /usr/bin/sensible-browser %s; description=HTML Text; nametemplate=%s.html
+application/pdf; /usr/bin/xpdf %s; test=test "$DISPLAY" != ""; description=Portable Document Format; nametemplate=%s.pdf
+application/x-pdf; /usr/bin/xpdf %s; test=test "$DISPLAY" != ""; description=Portable Document Format; nametemplate=%s.pdf
+text/html; /usr/bin/firefox-esr %s; description=HTML Text; test=test -n "$DISPLAY";  nametemplate=%s.html
+text/xml; /usr/bin/firefox-esr %s; description=XML Text; test=test -n "$DISPLAY";  nametemplate=%s.xml
+application/x-troff-man; /usr/bin/nroff -mandoc -Tutf8; copiousoutput; print=/usr/bin/nroff -mandoc -Tutf8 | print text/plain:-
+application/x-info; /usr/bin/info -f '%s'; needsterminal; description=GNU Info document
+application/x-image;	squeak %s; nametemplate=%s.image; test=test "$DISPLAY" != ""
+application/squeak-image;	squeak %s; nametemplate=%s.image; test=test "$DISPLAY" != ""
+application/squeak-project;	squeak %s; nametemplate=%s.pr; test=test "$DISPLAY" != ""
+text/plain; more %s; needsterminal
+application/x-rar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="RAR Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/unrar
+application/rar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="RAR Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/unrar
+application/x-arj; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="ARJ Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/arj
+application/arj; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="ARJ Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/arj
+application/x-zip; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="ZIP Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/unzip
+application/zip; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="ZIP Archive"; test=test -n "$DISPLAY" && test -e /usr/bin/unzip
+application/x-redhat-package-manager; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="RPM Archive"; test=test -n "$DISPLAY" && test -f /usr/bin/rpm
+application/x-tar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="TAR Archive"; test=test -n "$DISPLAY"
+application/x-gtar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="TAR Archive"; test=test -n "$DISPLAY"
+application/x-ustar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="TAR Archive"; test=test -n "$DISPLAY"
+application/x-gzip; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="GZ compressed file"; test=test -n "$DISPLAY"
+application/x-bzip2; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="BZIP2 compressed file"; test=test -n "$DISPLAY"
+application/x-lzma; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="LZMA compressed file"; test=test -n "$DISPLAY"
+application/x-xz; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="XZ compressed file"; test=test -n "$DISPLAY"
+application/x-xz-compressed-tar; /usr/bin/xarchiver -- '%s'; edit=/usr/bin/xarchiver -- '%s'; description="XZ compressed tar file"; test=test -n "$DISPLAY"
+x-scheme-handler/mailto; claws-mail --compose --attach %s; test=test -n "$DISPLAY"
+text/html; dillo %s; test=test -n "$DISPLAY"
+text/xml; dillo %s; test=test -n "$DISPLAY"
+application/xhtml+xml; dillo %s; test=test -n "$DISPLAY"
+text/html; epiphany-browser %s; test=test -n "$DISPLAY"
+text/xml; epiphany-browser %s; test=test -n "$DISPLAY"
+application/xhtml+xml; epiphany-browser %s; test=test -n "$DISPLAY"
+x-scheme-handler/http; epiphany-browser -n %s; test=test -n "$DISPLAY"
+x-scheme-handler/https; epiphany-browser -n %s; test=test -n "$DISPLAY"
+text/plain; geany %s; test=test -n "$DISPLAY"
+text/x-chdr; geany %s; test=test -n "$DISPLAY"
+text/x-csrc; geany %s; test=test -n "$DISPLAY"
+text/x-c++hdr; geany %s; test=test -n "$DISPLAY"
+text/x-c++src; geany %s; test=test -n "$DISPLAY"
+text/x-java; geany %s; test=test -n "$DISPLAY"
+text/x-dsrc; geany %s; test=test -n "$DISPLAY"
+text/x-pascal; geany %s; test=test -n "$DISPLAY"
+text/x-perl; geany %s; test=test -n "$DISPLAY"
+text/x-python; geany %s; test=test -n "$DISPLAY"
+application/x-php; geany %s; test=test -n "$DISPLAY"
+application/x-httpd-php3; geany %s; test=test -n "$DISPLAY"
+application/x-httpd-php4; geany %s; test=test -n "$DISPLAY"
+application/x-httpd-php5; geany %s; test=test -n "$DISPLAY"
+application/xml; geany %s; test=test -n "$DISPLAY"
+text/html; geany %s; test=test -n "$DISPLAY"
+text/css; geany %s; test=test -n "$DISPLAY"
+text/x-sql; geany %s; test=test -n "$DISPLAY"
+text/x-diff; geany %s; test=test -n "$DISPLAY"
+image/bmp; gpicview %s; test=test -n "$DISPLAY"
+image/gif; gpicview %s; test=test -n "$DISPLAY"
+image/jpeg; gpicview %s; test=test -n "$DISPLAY"
+image/jpg; gpicview %s; test=test -n "$DISPLAY"
+image/png; gpicview %s; test=test -n "$DISPLAY"
+image/tiff; gpicview %s; test=test -n "$DISPLAY"
+image/x-bmp; gpicview %s; test=test -n "$DISPLAY"
+image/x-pcx; gpicview %s; test=test -n "$DISPLAY"
+image/x-tga; gpicview %s; test=test -n "$DISPLAY"
+image/x-portable-pixmap; gpicview %s; test=test -n "$DISPLAY"
+image/x-portable-bitmap; gpicview %s; test=test -n "$DISPLAY"
+image/x-targa; gpicview %s; test=test -n "$DISPLAY"
+image/x-portable-greymap; gpicview %s; test=test -n "$DISPLAY"
+application/pcx; gpicview %s; test=test -n "$DISPLAY"
+image/svg+xml; gpicview %s; test=test -n "$DISPLAY"
+image/svg-xml; gpicview %s; test=test -n "$DISPLAY"
+text/html; firefox-esr %s; test=test -n "$DISPLAY"
+text/xml; firefox-esr %s; test=test -n "$DISPLAY"
+application/xhtml+xml; firefox-esr %s; test=test -n "$DISPLAY"
+application/xml; firefox-esr %s; test=test -n "$DISPLAY"
+application/vnd.mozilla.xul+xml; firefox-esr %s; test=test -n "$DISPLAY"
+application/rss+xml; firefox-esr %s; test=test -n "$DISPLAY"
+application/rdf+xml; firefox-esr %s; test=test -n "$DISPLAY"
+image/gif; firefox-esr %s; test=test -n "$DISPLAY"
+image/jpeg; firefox-esr %s; test=test -n "$DISPLAY"
+image/png; firefox-esr %s; test=test -n "$DISPLAY"
+x-scheme-handler/http; firefox-esr %s; test=test -n "$DISPLAY"
+x-scheme-handler/https; firefox-esr %s; test=test -n "$DISPLAY"
+text/plain; leafpad %s; test=test -n "$DISPLAY"
+application/vnd.openofficeorg.extension; libreoffice --math %s; test=test -n "$DISPLAY"
+application/vnd.oasis.opendocument.text-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
+application/vnd.oasis.opendocument.spreadsheet-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
+application/vnd.oasis.opendocument.graphics-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
+application/vnd.oasis.opendocument.presentation-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
+text/html; netsurf-gtk %s; test=test -n "$DISPLAY"
+text/xml; netsurf-gtk %s; test=test -n "$DISPLAY"
+application/xhtml+xml; netsurf-gtk %s; test=test -n "$DISPLAY"
+application/xml; netsurf-gtk %s; test=test -n "$DISPLAY"
+image/gif; netsurf-gtk %s; test=test -n "$DISPLAY"
+image/jpeg; netsurf-gtk %s; test=test -n "$DISPLAY"
+image/png; netsurf-gtk %s; test=test -n "$DISPLAY"
+inode/directory; pcmanfm %s; test=test -n "$DISPLAY"
+application/x-rpm; pi-gpk-install-local-file %s; test=test -n "$DISPLAY"
+application/x-redhat-package-manager; pi-gpk-install-local-file %s; test=test -n "$DISPLAY"
+application/x-deb; pi-gpk-install-local-file %s; test=test -n "$DISPLAY"
+application/x-app-package; pi-gpk-install-local-file %s; test=test -n "$DISPLAY"
+application/x-image; squeak %s; test=test -n "$DISPLAY"
+application/squeak-image; squeak %s; test=test -n "$DISPLAY"
+application/squeak-project; squeak %s; test=test -n "$DISPLAY"
+text/x-sc; scide %s; test=test -n "$DISPLAY"
+text/plain; vim %s; needsterminal
+application/mathematica; mathematica %s; test=test -n "$DISPLAY"
+application/vnd.wolfram.cdf; mathematica %s; test=test -n "$DISPLAY"
+application/mathematicaplayer; mathematica %s; test=test -n "$DISPLAY"
+text/plain; view %s; edit=vim %s; compose=vim %s; test=test -x /usr/bin/vim; needsterminal
+text/csv; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="CSV Document"; nametemplate=%s.csv
+text/spreadsheet; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Spreadsheet Interchange Document"; nametemplate=%s.slk
+application/x-quattropro; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Quattro Pro 6 for Windows Spreadsheet"; nametemplate=%s.wb2
+application/x-dbf; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="xBase Document"; nametemplate=%s.dbf
+application/vnd.ms-excel.sheet.macroEnabled.12; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Office Open XML Spreadsheet with Macros Enabled"; nametemplate=%s.xlsm
+application/vnd.ms-excel.template.macroEnabled.12; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Office Open XML Spreadsheet Template with Macros Enabled"; nametemplate=%s.xltm
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Office Open XML Spreadsheet"; nametemplate=%s.xlsx
+application/vnd.openxmlformats-officedocument.spreadsheetml.template; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Office Open XML Spreadsheet Template"; nametemplate=%s.xltx
+application/vnd.lotus-1-2-3; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Lotus 1-2-3 spreadsheet"; nametemplate=%s.123
+application/vnd.ms-excel; soffice --nologo --calc '%s'; edit=soffice --nologo --calc '%s'; test=test -n "$DISPLAY"; description="Microsoft Excel Document"; nametemplate=%s.xls
+application/vnd.ms-powerpoint.presentation.macroEnabled.12; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation with Macros Enabled"; nametemplate=%s.pptm
+application/vnd.ms-powerpoint.slideshow.macroEnabled.12; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation Slide Show with Macros Enabled"; nametemplate=%s.ppsm
+application/vnd.ms-powerpoint.template.macroEnabled.12; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation Template with Macros Enabled"; nametemplate=%s.potm
+application/vnd.openxmlformats-officedocument.presentationml.presentation; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation"; nametemplate=%s.pptx
+application/vnd.openxmlformats-officedocument.presentationml.slideshow; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation Slide Show"; nametemplate=%s.ppsx
+application/vnd.openxmlformats-officedocument.presentationml.template; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Office Open XML Presentation Template"; nametemplate=%s.potx
+application/vnd.ms-powerpoint; soffice --nologo --impress '%s'; edit=soffice --nologo --impress '%s'; test=test -n "$DISPLAY"; description="Microsoft PowerPoint Document"; nametemplate=%s.ppt
+text/mathml; soffice --nologo --math '%s'; edit=soffice --nologo --math '%s'; test=test -n "$DISPLAY"; description="MathML Formula"; nametemplate=%s.mml
+application/rtf; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Rich Text Format"; nametemplate=%s.rtf
+application/x-extension-txt; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Plain Text Document"; nametemplate=%s.txt
+application/x-t602; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="T602 Document"; nametemplate=%s.602
+application/vnd.wordperfect; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="WordPerfect Document"; nametemplate=%s.wp
+application/vnd.ms-word.document.macroEnabled.12; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Office Open XML Document with Macros Enabled"; nametemplate=%s.docm
+application/vnd.ms-word.template.macroEnabled.12; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Office Open XML Document Template with Macros Enabled"; nametemplate=%s.dotm
+application/vnd.openxmlformats-officedocument.wordprocessingml.document; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Office Open XML Document"; nametemplate=%s.docx
+application/vnd.openxmlformats-officedocument.wordprocessingml.template; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Office Open XML Document Template"; nametemplate=%s.dotx
+application/msword; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Microsoft Word Document"; nametemplate=%s.doc
+application/vnd.ms-works; soffice --nologo --writer '%s'; edit=soffice --nologo --writer '%s'; test=test -n "$DISPLAY"; description="Microsoft Works Document"; nametemplate=%s.wps
+application/zip; unzip -l %s; nametemplate=%s.zip; copiousoutput
+text/plain; view %s; edit=vi %s; compose=vi %s; needsterminal
+image/png;  /usr/bin/firefox-esr %s; description=PNG Image; test=test -n "$DISPLAY";  nametemplate=%s.png
+image/jpeg;  /usr/bin/firefox-esr %s; description=JPEG Image; test=test -n "$DISPLAY";  nametemplate=%s.jpeg
+image/gif;  /usr/bin/firefox-esr %s; description=GIF Image; test=test -n "$DISPLAY";  nametemplate=%s.gif
+application/x-troff-man; /usr/bin/man -Tascii -l '%s' | col -b; copiousoutput; description=Man page
+text/troff; /usr/bin/man -Tascii -l '%s' | col -b; copiousoutput; description=Man page
+text/*; less '%s'; needsterminal
+text/*; view %s; edit=vim %s; compose=vim %s; test=test -x /usr/bin/vim; needsterminal
+application/x-info; /usr/bin/info --subnodes -o /dev/stdout -f '%s' 2>/dev/null; copiousoutput; description=GNU Info document
+application/x-tar; /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput
+application/x-gtar; /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput
+application/x-ustar; /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput
+text/*; more %s; needsterminal
+text/*; view %s; edit=vi %s; compose=vi %s; needsterminal
+application/vnd.debian.binary-package; /usr/lib/mime/debian-view %s; needsterminal; description=Debian GNU/Linux Package; nametemplate=%s.deb

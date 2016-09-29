@@ -1,0 +1,8 @@
+96abde12b91078f265f347e3b7e34b40  usr/lib/libreoffice/program/librptlo.so
+0dc309de00a8ed55a66d2fccb118dc54  usr/lib/libreoffice/program/librptuilo.so
+b02a10a6034fcc690a48a54308605339  usr/lib/libreoffice/program/librptxmllo.so
+4583c119b7c148a61e54ddbbdc1917a9  usr/share/bug/libreoffice-report-builder-bin/presubj
+a3cf53c9e43e48197b24775a36fbc526  usr/share/doc/libreoffice-report-builder-bin/README.gz
+d77d8bdc22c12747936a24e27dba9f89  usr/share/doc/libreoffice-report-builder-bin/changelog.Debian.gz
+4f5a64bd948f53e6afd60cc926b84fb8  usr/share/doc/libreoffice-report-builder-bin/copyright
+4657bf2e39bbf6a78fe81bdf4b12b0e6  usr/share/lintian/overrides/libreoffice-report-builder-bin

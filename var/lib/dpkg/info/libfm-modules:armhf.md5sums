@@ -1,0 +1,9 @@
+4c82f374b826008357a013a9289db6ea  usr/lib/arm-linux-gnueabihf/libfm/modules/gtk-fileprop-x-desktop.so
+b3d85962edc34a3cff4a400b18a7c808  usr/lib/arm-linux-gnueabihf/libfm/modules/gtk-fileprop-x-shortcut.so
+68793e7494346223a965c41c0713f2b1  usr/lib/arm-linux-gnueabihf/libfm/modules/gtk-menu-actions.so
+82079117d60a8aa15585115027480113  usr/lib/arm-linux-gnueabihf/libfm/modules/gtk-menu-trash.so
+9bc54f4e1b8485cd886554e3d722b873  usr/lib/arm-linux-gnueabihf/libfm/modules/vfs-menu.so
+46b420dc120535d96caaceef764c6742  usr/lib/arm-linux-gnueabihf/libfm/modules/vfs-search.so
+be495ddd196288b49c380f2d75fca0c0  usr/share/doc/libfm-modules/changelog.Debian.gz
+9addb9450336be576acb0ddbc43f4a97  usr/share/doc/libfm-modules/changelog.gz
+81a0a6cfba6d25de70ed059594f8c706  usr/share/doc/libfm-modules/copyright

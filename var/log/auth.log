@@ -1,0 +1,560 @@
+Sep 25 06:25:07 raspberrypi CRON[1485]: pam_unix(cron:session): session closed for user root
+Sep 25 06:47:01 raspberrypi CRON[1652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 06:47:03 raspberrypi CRON[1652]: pam_unix(cron:session): session closed for user root
+Sep 25 07:17:01 raspberrypi CRON[1672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 07:17:01 raspberrypi CRON[1672]: pam_unix(cron:session): session closed for user root
+Sep 25 08:17:01 raspberrypi CRON[1694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 08:17:01 raspberrypi CRON[1694]: pam_unix(cron:session): session closed for user root
+Sep 25 09:17:01 raspberrypi CRON[1716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 09:17:01 raspberrypi CRON[1716]: pam_unix(cron:session): session closed for user root
+Sep 25 10:17:01 raspberrypi CRON[1756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 10:17:01 raspberrypi CRON[1756]: pam_unix(cron:session): session closed for user root
+Sep 25 11:17:01 raspberrypi CRON[1780]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 11:17:01 raspberrypi CRON[1780]: pam_unix(cron:session): session closed for user root
+Sep 25 12:17:01 raspberrypi CRON[1802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 12:17:01 raspberrypi CRON[1802]: pam_unix(cron:session): session closed for user root
+Sep 25 13:17:01 raspberrypi CRON[1825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 13:17:01 raspberrypi CRON[1825]: pam_unix(cron:session): session closed for user root
+Sep 25 14:17:01 raspberrypi CRON[1847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 14:17:02 raspberrypi CRON[1847]: pam_unix(cron:session): session closed for user root
+Sep 25 15:17:01 raspberrypi CRON[1870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 15:17:01 raspberrypi CRON[1870]: pam_unix(cron:session): session closed for user root
+Sep 25 16:17:01 raspberrypi CRON[1894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 16:17:01 raspberrypi CRON[1894]: pam_unix(cron:session): session closed for user root
+Sep 25 17:17:01 raspberrypi CRON[1918]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 17:17:01 raspberrypi CRON[1918]: pam_unix(cron:session): session closed for user root
+Sep 25 18:17:01 raspberrypi CRON[1945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 18:17:01 raspberrypi CRON[1945]: pam_unix(cron:session): session closed for user root
+Sep 25 19:17:01 raspberrypi CRON[1974]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 19:17:01 raspberrypi CRON[1974]: pam_unix(cron:session): session closed for user root
+Sep 25 20:17:01 raspberrypi CRON[2003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 20:17:01 raspberrypi CRON[2003]: pam_unix(cron:session): session closed for user root
+Sep 25 21:17:01 raspberrypi CRON[2038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 21:17:01 raspberrypi CRON[2038]: pam_unix(cron:session): session closed for user root
+Sep 25 22:17:01 raspberrypi CRON[2095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 22:17:01 raspberrypi CRON[2095]: pam_unix(cron:session): session closed for user root
+Sep 25 23:17:01 raspberrypi CRON[2129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 23:17:01 raspberrypi CRON[2129]: pam_unix(cron:session): session closed for user root
+Sep 26 00:17:01 raspberrypi CRON[2169]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 00:17:01 raspberrypi CRON[2169]: pam_unix(cron:session): session closed for user root
+Sep 26 01:17:02 raspberrypi CRON[2196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 01:17:02 raspberrypi CRON[2196]: pam_unix(cron:session): session closed for user root
+Sep 26 01:36:07 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 01:36:07 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:36:07 raspberrypi su[2235]: Successful su for root by root
+Sep 26 01:36:07 raspberrypi su[2235]: + /dev/pts/3 root:root
+Sep 26 01:36:07 raspberrypi su[2235]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 01:37:23 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:40:02 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 26 01:40:02 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:46:32 raspberrypi su[1176]: pam_unix(su:session): session closed for user root
+Sep 26 01:46:32 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:47:59 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:48:57 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 26 01:48:57 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:49:12 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/su
+Sep 26 01:49:12 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:49:12 raspberrypi su[3217]: Successful su for root by root
+Sep 26 01:49:12 raspberrypi su[3217]: + /dev/pts/0 root:root
+Sep 26 01:49:12 raspberrypi su[3217]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 01:59:50 raspberrypi su[3217]: pam_unix(su:session): session closed for user root
+Sep 26 01:59:50 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:59:54 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 02:00:03 raspberrypi su[2235]: pam_unix(su:session): session closed for user root
+Sep 26 02:00:03 raspberrypi polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.9, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8) (disconnected from bus)
+Sep 26 02:00:03 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 02:00:03 raspberrypi sshd[486]: Received signal 15; terminating.
+Sep 26 02:00:03 raspberrypi systemd: pam_unix(systemd-user:session): session closed for user pi
+Sep 26 02:00:03 raspberrypi systemd-logind[373]: Failed to abandon session scope: Connection reset by peer
+Sep 26 02:00:03 raspberrypi systemd-logind[373]: Failed to abandon session scope: Transport endpoint is not connected
+Sep 26 02:00:07 raspberrypi systemd-logind[373]: New seat seat0.
+Sep 26 02:00:07 raspberrypi sshd[477]: Server listening on 0.0.0.0 port 22.
+Sep 26 02:00:07 raspberrypi sshd[477]: Server listening on :: port 22.
+Sep 26 02:00:09 raspberrypi lightdm: pam_unix(lightdm-autologin:session): session opened for user pi by (uid=0)
+Sep 26 02:00:09 raspberrypi systemd-logind[373]: New session c1 of user pi.
+Sep 26 02:00:09 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user pi by (uid=0)
+Sep 26 02:00:12 raspberrypi login[624]: pam_unix(login:session): session opened for user pi by LOGIN(uid=0)
+Sep 26 02:00:12 raspberrypi systemd-logind[373]: New session c2 of user pi.
+Sep 26 02:00:13 raspberrypi polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.9 [lxpolkit], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)
+Sep 26 02:00:18 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:00:18 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:00:18 raspberrypi su[981]: Successful su for root by root
+Sep 26 02:00:18 raspberrypi su[981]: + /dev/pts/0 root:root
+Sep 26 02:00:18 raspberrypi su[981]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:06:03 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:06:03 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:06:03 raspberrypi su[3595]: Successful su for root by root
+Sep 26 02:06:03 raspberrypi su[3595]: + /dev/pts/1 root:root
+Sep 26 02:06:03 raspberrypi su[3595]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:15:51 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:15:51 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:15:51 raspberrypi su[3637]: Successful su for root by root
+Sep 26 02:15:51 raspberrypi su[3637]: + /dev/pts/2 root:root
+Sep 26 02:15:51 raspberrypi su[3637]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:16:17 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:16:17 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:16:17 raspberrypi su[3661]: Successful su for root by root
+Sep 26 02:16:17 raspberrypi su[3661]: + /dev/pts/3 root:root
+Sep 26 02:16:17 raspberrypi su[3661]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:16:50 raspberrypi sudo:       pi : TTY=pts/4 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:16:50 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:16:50 raspberrypi su[3686]: Successful su for root by root
+Sep 26 02:16:50 raspberrypi su[3686]: + /dev/pts/4 root:root
+Sep 26 02:16:50 raspberrypi su[3686]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:17:01 raspberrypi CRON[3693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 02:17:01 raspberrypi CRON[3693]: pam_unix(cron:session): session closed for user root
+Sep 26 02:19:46 raspberrypi sudo:       pi : TTY=pts/5 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:19:46 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:19:46 raspberrypi su[3737]: Successful su for root by root
+Sep 26 02:19:46 raspberrypi su[3737]: + /dev/pts/5 root:root
+Sep 26 02:19:46 raspberrypi su[3737]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:22:19 raspberrypi su[981]: pam_unix(su:session): session closed for user root
+Sep 26 02:22:19 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 02:22:22 raspberrypi su[3595]: pam_unix(su:session): session closed for user root
+Sep 26 02:22:22 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 02:24:20 raspberrypi su[3737]: pam_unix(su:session): session closed for user root
+Sep 26 02:24:20 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 02:39:53 raspberrypi sshd[477]: Received SIGHUP; restarting.
+Sep 26 02:39:53 raspberrypi sshd[477]: Server listening on 0.0.0.0 port 22.
+Sep 26 02:39:53 raspberrypi sshd[477]: Server listening on :: port 22.
+Sep 26 02:40:00 raspberrypi sshd[477]: Received SIGHUP; restarting.
+Sep 26 02:40:00 raspberrypi sshd[477]: Server listening on 0.0.0.0 port 22.
+Sep 26 02:40:00 raspberrypi sshd[477]: Server listening on :: port 22.
+Sep 26 02:46:50 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:46:50 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:46:50 raspberrypi su[7457]: Successful su for root by root
+Sep 26 02:46:50 raspberrypi su[7457]: + /dev/pts/0 root:root
+Sep 26 02:46:50 raspberrypi su[7457]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 02:48:22 raspberrypi su[3661]: pam_unix(su:session): session closed for user root
+Sep 26 02:48:22 raspberrypi su[3637]: pam_unix(su:session): session closed for user root
+Sep 26 02:48:26 raspberrypi systemd-logind[463]: New seat seat0.
+Sep 26 02:48:27 raspberrypi sshd[572]: Server listening on 0.0.0.0 port 22.
+Sep 26 02:48:27 raspberrypi sshd[572]: Server listening on :: port 22.
+Sep 26 02:48:30 raspberrypi lightdm: pam_unix(lightdm-autologin:session): session opened for user pi by (uid=0)
+Sep 26 02:48:30 raspberrypi systemd-logind[463]: New session c1 of user pi.
+Sep 26 02:48:30 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user pi by (uid=0)
+Sep 26 02:48:31 raspberrypi login[685]: pam_unix(login:session): session opened for user pi by LOGIN(uid=0)
+Sep 26 02:48:31 raspberrypi systemd-logind[463]: New session c2 of user pi.
+Sep 26 02:48:34 raspberrypi polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.9 [lxpolkit], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)
+Sep 26 02:48:49 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 02:48:49 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 02:48:49 raspberrypi su[1020]: Successful su for root by root
+Sep 26 02:48:49 raspberrypi su[1020]: + /dev/pts/0 root:root
+Sep 26 02:48:49 raspberrypi su[1020]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 03:03:31 raspberrypi su[1020]: pam_unix(su:session): session closed for user root
+Sep 26 03:03:36 raspberrypi systemd-logind[462]: New seat seat0.
+Sep 26 03:03:37 raspberrypi sshd[546]: Server listening on 0.0.0.0 port 22.
+Sep 26 03:03:37 raspberrypi sshd[546]: Server listening on :: port 22.
+Sep 26 03:03:39 raspberrypi lightdm: pam_unix(lightdm-autologin:session): session opened for user pi by (uid=0)
+Sep 26 03:03:39 raspberrypi systemd-logind[462]: New session c1 of user pi.
+Sep 26 03:03:39 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user pi by (uid=0)
+Sep 26 03:03:41 raspberrypi login[600]: pam_unix(login:session): session opened for user pi by LOGIN(uid=0)
+Sep 26 03:03:41 raspberrypi systemd-logind[462]: New session c2 of user pi.
+Sep 26 03:03:42 raspberrypi polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.9 [lxpolkit], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)
+Sep 26 03:03:49 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 03:03:49 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 03:03:49 raspberrypi su[966]: Successful su for root by root
+Sep 26 03:03:49 raspberrypi su[966]: + /dev/pts/0 root:root
+Sep 26 03:03:49 raspberrypi su[966]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 03:09:20 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 26 03:09:20 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 03:09:20 raspberrypi su[2347]: Successful su for root by root
+Sep 26 03:09:20 raspberrypi su[2347]: + /dev/pts/1 root:root
+Sep 26 03:09:20 raspberrypi su[2347]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 03:17:01 raspberrypi CRON[3493]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 03:17:01 raspberrypi CRON[3493]: pam_unix(cron:session): session closed for user root
+Sep 26 04:17:01 raspberrypi CRON[3527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 04:17:01 raspberrypi CRON[3527]: pam_unix(cron:session): session closed for user root
+Sep 26 05:17:01 raspberrypi CRON[3551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 05:17:01 raspberrypi CRON[3551]: pam_unix(cron:session): session closed for user root
+Sep 26 06:17:01 raspberrypi CRON[3576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 06:17:01 raspberrypi CRON[3576]: pam_unix(cron:session): session closed for user root
+Sep 26 06:25:01 raspberrypi CRON[3594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 06:25:06 raspberrypi CRON[3594]: pam_unix(cron:session): session closed for user root
+Sep 26 07:17:01 raspberrypi CRON[3744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 07:17:01 raspberrypi CRON[3744]: pam_unix(cron:session): session closed for user root
+Sep 26 08:17:01 raspberrypi CRON[3767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 08:17:01 raspberrypi CRON[3767]: pam_unix(cron:session): session closed for user root
+Sep 26 09:17:01 raspberrypi CRON[3794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 09:17:01 raspberrypi CRON[3794]: pam_unix(cron:session): session closed for user root
+Sep 26 10:17:01 raspberrypi CRON[3817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 10:17:01 raspberrypi CRON[3817]: pam_unix(cron:session): session closed for user root
+Sep 26 11:17:01 raspberrypi CRON[3840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 11:17:01 raspberrypi CRON[3840]: pam_unix(cron:session): session closed for user root
+Sep 26 12:17:01 raspberrypi CRON[3865]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 12:17:01 raspberrypi CRON[3865]: pam_unix(cron:session): session closed for user root
+Sep 26 13:17:01 raspberrypi CRON[3910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 13:17:02 raspberrypi CRON[3910]: pam_unix(cron:session): session closed for user root
+Sep 26 14:17:01 raspberrypi CRON[3937]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 14:17:01 raspberrypi CRON[3937]: pam_unix(cron:session): session closed for user root
+Sep 26 15:17:01 raspberrypi CRON[3969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 15:17:01 raspberrypi CRON[3969]: pam_unix(cron:session): session closed for user root
+Sep 26 16:17:01 raspberrypi CRON[3999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 16:17:01 raspberrypi CRON[3999]: pam_unix(cron:session): session closed for user root
+Sep 26 17:17:01 raspberrypi CRON[4031]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 17:17:01 raspberrypi CRON[4031]: pam_unix(cron:session): session closed for user root
+Sep 26 18:17:01 raspberrypi CRON[4062]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 18:17:01 raspberrypi CRON[4062]: pam_unix(cron:session): session closed for user root
+Sep 26 19:17:01 raspberrypi CRON[4090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 19:17:01 raspberrypi CRON[4090]: pam_unix(cron:session): session closed for user root
+Sep 26 20:17:01 raspberrypi CRON[4127]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 20:17:01 raspberrypi CRON[4127]: pam_unix(cron:session): session closed for user root
+Sep 26 21:17:01 raspberrypi CRON[4161]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 21:17:01 raspberrypi CRON[4161]: pam_unix(cron:session): session closed for user root
+Sep 26 22:17:01 raspberrypi CRON[4194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 22:17:01 raspberrypi CRON[4194]: pam_unix(cron:session): session closed for user root
+Sep 26 23:17:01 raspberrypi CRON[4223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 23:17:01 raspberrypi CRON[4223]: pam_unix(cron:session): session closed for user root
+Sep 27 00:17:01 raspberrypi CRON[4251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 00:17:01 raspberrypi CRON[4251]: pam_unix(cron:session): session closed for user root
+Sep 27 01:17:01 raspberrypi CRON[4298]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 01:17:01 raspberrypi CRON[4298]: pam_unix(cron:session): session closed for user root
+Sep 27 01:50:07 raspberrypi sudo:       pi : TTY=unknown ; PWD=/home/pi ; USER=root ; COMMAND=/bin/systemctl start pigpiod
+Sep 27 01:50:07 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 27 01:50:07 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 27 01:50:17 raspberrypi sudo:       pi : TTY=unknown ; PWD=/home/pi ; USER=root ; COMMAND=/bin/systemctl stop pigpiod
+Sep 27 01:50:17 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 27 01:50:17 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 27 02:17:01 raspberrypi CRON[4582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 02:17:01 raspberrypi CRON[4582]: pam_unix(cron:session): session closed for user root
+Sep 27 03:17:01 raspberrypi CRON[4612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 03:17:01 raspberrypi CRON[4612]: pam_unix(cron:session): session closed for user root
+Sep 27 04:17:01 raspberrypi CRON[4646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 04:17:01 raspberrypi CRON[4646]: pam_unix(cron:session): session closed for user root
+Sep 27 05:17:01 raspberrypi CRON[4678]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 05:17:01 raspberrypi CRON[4678]: pam_unix(cron:session): session closed for user root
+Sep 27 06:17:01 raspberrypi CRON[4707]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:17:01 raspberrypi CRON[4707]: pam_unix(cron:session): session closed for user root
+Sep 27 06:25:01 raspberrypi CRON[4725]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:25:04 raspberrypi CRON[4725]: pam_unix(cron:session): session closed for user root
+Sep 27 07:17:01 raspberrypi CRON[4882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 07:17:01 raspberrypi CRON[4882]: pam_unix(cron:session): session closed for user root
+Sep 27 08:17:01 raspberrypi CRON[4910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 08:17:01 raspberrypi CRON[4910]: pam_unix(cron:session): session closed for user root
+Sep 27 09:17:01 raspberrypi CRON[4938]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 09:17:02 raspberrypi CRON[4938]: pam_unix(cron:session): session closed for user root
+Sep 27 10:17:01 raspberrypi CRON[4967]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 10:17:01 raspberrypi CRON[4967]: pam_unix(cron:session): session closed for user root
+Sep 27 11:17:01 raspberrypi CRON[4996]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 11:17:01 raspberrypi CRON[4996]: pam_unix(cron:session): session closed for user root
+Sep 27 12:17:01 raspberrypi CRON[5027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 12:17:01 raspberrypi CRON[5027]: pam_unix(cron:session): session closed for user root
+Sep 27 13:17:01 raspberrypi CRON[5075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 13:17:01 raspberrypi CRON[5075]: pam_unix(cron:session): session closed for user root
+Sep 27 14:17:01 raspberrypi CRON[5106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 14:17:01 raspberrypi CRON[5106]: pam_unix(cron:session): session closed for user root
+Sep 27 15:17:01 raspberrypi CRON[5136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 15:17:01 raspberrypi CRON[5136]: pam_unix(cron:session): session closed for user root
+Sep 27 16:17:01 raspberrypi CRON[5167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 16:17:01 raspberrypi CRON[5167]: pam_unix(cron:session): session closed for user root
+Sep 27 17:17:01 raspberrypi CRON[5199]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 17:17:01 raspberrypi CRON[5199]: pam_unix(cron:session): session closed for user root
+Sep 27 18:17:01 raspberrypi CRON[5231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 18:17:01 raspberrypi CRON[5231]: pam_unix(cron:session): session closed for user root
+Sep 27 19:17:01 raspberrypi CRON[5262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 19:17:01 raspberrypi CRON[5262]: pam_unix(cron:session): session closed for user root
+Sep 27 20:17:01 raspberrypi CRON[5294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 20:17:02 raspberrypi CRON[5294]: pam_unix(cron:session): session closed for user root
+Sep 27 21:17:01 raspberrypi CRON[5326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 21:17:01 raspberrypi CRON[5326]: pam_unix(cron:session): session closed for user root
+Sep 27 22:17:01 raspberrypi CRON[5359]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 22:17:01 raspberrypi CRON[5359]: pam_unix(cron:session): session closed for user root
+Sep 27 23:17:01 raspberrypi CRON[5387]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 23:17:01 raspberrypi CRON[5387]: pam_unix(cron:session): session closed for user root
+Sep 28 00:06:34 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/usr/bin/python
+Sep 28 00:06:34 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 00:17:01 raspberrypi CRON[5495]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 00:17:01 raspberrypi CRON[5495]: pam_unix(cron:session): session closed for user root
+Sep 28 00:19:10 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 00:27:02 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/usr/bin/python
+Sep 28 00:27:02 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 00:33:42 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 00:33:47 raspberrypi su[966]: pam_unix(su:session): session closed for user root
+Sep 28 00:33:47 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 01:17:01 raspberrypi CRON[5601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 01:17:01 raspberrypi CRON[5601]: pam_unix(cron:session): session closed for user root
+Sep 28 02:17:01 raspberrypi CRON[5626]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 02:17:01 raspberrypi CRON[5626]: pam_unix(cron:session): session closed for user root
+Sep 28 03:17:01 raspberrypi CRON[5648]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 03:17:01 raspberrypi CRON[5648]: pam_unix(cron:session): session closed for user root
+Sep 28 04:17:01 raspberrypi CRON[5675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 04:17:01 raspberrypi CRON[5675]: pam_unix(cron:session): session closed for user root
+Sep 28 05:17:01 raspberrypi CRON[5698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 05:17:01 raspberrypi CRON[5698]: pam_unix(cron:session): session closed for user root
+Sep 28 06:17:01 raspberrypi CRON[5723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 06:17:01 raspberrypi CRON[5723]: pam_unix(cron:session): session closed for user root
+Sep 28 06:25:01 raspberrypi CRON[5743]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 06:25:05 raspberrypi CRON[5743]: pam_unix(cron:session): session closed for user root
+Sep 28 07:17:01 raspberrypi CRON[5899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 07:17:01 raspberrypi CRON[5899]: pam_unix(cron:session): session closed for user root
+Sep 28 08:17:01 raspberrypi CRON[5922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 08:17:01 raspberrypi CRON[5922]: pam_unix(cron:session): session closed for user root
+Sep 28 09:17:01 raspberrypi CRON[5944]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 09:17:01 raspberrypi CRON[5944]: pam_unix(cron:session): session closed for user root
+Sep 28 10:17:01 raspberrypi CRON[5966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 10:17:01 raspberrypi CRON[5966]: pam_unix(cron:session): session closed for user root
+Sep 28 11:17:01 raspberrypi CRON[5989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 11:17:01 raspberrypi CRON[5989]: pam_unix(cron:session): session closed for user root
+Sep 28 12:17:01 raspberrypi CRON[6013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 12:17:01 raspberrypi CRON[6013]: pam_unix(cron:session): session closed for user root
+Sep 28 13:17:01 raspberrypi CRON[6059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 13:17:01 raspberrypi CRON[6059]: pam_unix(cron:session): session closed for user root
+Sep 28 14:17:01 raspberrypi CRON[6086]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 14:17:01 raspberrypi CRON[6086]: pam_unix(cron:session): session closed for user root
+Sep 28 15:17:01 raspberrypi CRON[6114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 15:17:01 raspberrypi CRON[6114]: pam_unix(cron:session): session closed for user root
+Sep 28 16:17:01 raspberrypi CRON[6140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 16:17:02 raspberrypi CRON[6140]: pam_unix(cron:session): session closed for user root
+Sep 28 17:17:01 raspberrypi CRON[6169]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 17:17:01 raspberrypi CRON[6169]: pam_unix(cron:session): session closed for user root
+Sep 28 18:17:01 raspberrypi CRON[6198]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 18:17:01 raspberrypi CRON[6198]: pam_unix(cron:session): session closed for user root
+Sep 28 19:08:53 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 19:08:53 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 19:08:53 raspberrypi su[6339]: Successful su for root by root
+Sep 28 19:08:53 raspberrypi su[6339]: + /dev/pts/0 root:root
+Sep 28 19:08:53 raspberrypi su[6339]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 19:17:01 raspberrypi CRON[6362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 19:17:01 raspberrypi CRON[6362]: pam_unix(cron:session): session closed for user root
+Sep 28 19:53:50 raspberrypi lightdm: pam_unix(lightdm-autologin:session): session closed for user pi
+Sep 28 19:53:50 raspberrypi su[6339]: pam_unix(su:session): session closed for user root
+Sep 28 19:53:50 raspberrypi su[2347]: pam_unix(su:session): session closed for user root
+Sep 28 19:53:50 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 19:53:50 raspberrypi polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.9, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8) (disconnected from bus)
+Sep 28 19:53:55 raspberrypi systemd-logind[461]: New seat seat0.
+Sep 28 19:53:56 raspberrypi sshd[560]: Server listening on 0.0.0.0 port 22.
+Sep 28 19:53:56 raspberrypi sshd[560]: Server listening on :: port 22.
+Sep 28 19:53:57 raspberrypi lightdm: pam_unix(lightdm-autologin:session): session opened for user pi by (uid=0)
+Sep 28 19:53:58 raspberrypi systemd-logind[461]: New session c1 of user pi.
+Sep 28 19:53:58 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user pi by (uid=0)
+Sep 28 19:54:00 raspberrypi login[647]: pam_unix(login:session): session opened for user pi by LOGIN(uid=0)
+Sep 28 19:54:00 raspberrypi systemd-logind[461]: New session c2 of user pi.
+Sep 28 19:54:01 raspberrypi polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.9 [lxpolkit], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8)
+Sep 28 19:54:19 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 19:54:19 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 19:54:19 raspberrypi su[1109]: Successful su for root by root
+Sep 28 19:54:19 raspberrypi su[1109]: + /dev/pts/0 root:root
+Sep 28 19:54:19 raspberrypi su[1109]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 19:57:23 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 19:57:23 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 19:57:23 raspberrypi su[2838]: Successful su for root by root
+Sep 28 19:57:23 raspberrypi su[2838]: + /dev/pts/1 root:root
+Sep 28 19:57:23 raspberrypi su[2838]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 20:17:01 raspberrypi CRON[2977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 20:17:01 raspberrypi CRON[2977]: pam_unix(cron:session): session closed for user root
+Sep 28 20:40:39 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/usr/bin/apt-get install chrome-browser
+Sep 28 20:40:39 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 20:40:43 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 20:41:23 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/usr/bin/apt-get install chrome-browser
+Sep 28 20:41:23 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 20:41:24 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 20:53:23 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 20:53:23 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 20:53:23 raspberrypi su[3860]: Successful su for root by root
+Sep 28 20:53:23 raspberrypi su[3860]: + /dev/pts/2 root:root
+Sep 28 20:53:23 raspberrypi su[3860]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 21:17:01 raspberrypi CRON[3991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 21:17:01 raspberrypi CRON[3991]: pam_unix(cron:session): session closed for user root
+Sep 28 21:38:44 raspberrypi su[3860]: pam_unix(su:session): session closed for user root
+Sep 28 21:38:44 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 22:12:48 raspberrypi su[2838]: pam_unix(su:session): session closed for user root
+Sep 28 22:12:48 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 22:12:51 raspberrypi su[1109]: pam_unix(su:session): session closed for user root
+Sep 28 22:12:51 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 22:17:01 raspberrypi CRON[4610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 22:17:01 raspberrypi CRON[4610]: pam_unix(cron:session): session closed for user root
+Sep 28 23:17:01 raspberrypi CRON[4674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 28 23:17:01 raspberrypi CRON[4674]: pam_unix(cron:session): session closed for user root
+Sep 28 23:33:04 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 23:33:04 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 23:33:04 raspberrypi su[4710]: Successful su for root by root
+Sep 28 23:33:04 raspberrypi su[4710]: + /dev/pts/0 root:root
+Sep 28 23:33:04 raspberrypi su[4710]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 23:34:58 raspberrypi sudo:     root : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/usr/bin/apt-get install nginx
+Sep 28 23:34:58 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 23:35:18 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 23:45:16 raspberrypi su[4710]: pam_unix(su:session): session closed for user root
+Sep 28 23:45:16 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 23:47:19 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 28 23:47:19 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 23:47:19 raspberrypi su[5958]: Successful su for root by root
+Sep 28 23:47:19 raspberrypi su[5958]: + /dev/pts/1 root:root
+Sep 28 23:47:19 raspberrypi su[5958]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 28 23:49:54 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 28 23:49:54 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 23:49:55 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 23:50:16 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 28 23:50:16 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 28 23:50:37 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 23:50:56 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 28 23:50:56 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:11:06 raspberrypi su[5958]: pam_unix(su:session): session closed for user root
+Sep 29 00:11:06 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:17:01 raspberrypi CRON[8363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 00:17:01 raspberrypi CRON[8363]: pam_unix(cron:session): session closed for user root
+Sep 29 00:25:41 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/su
+Sep 29 00:25:41 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:25:41 raspberrypi su[8416]: Successful su for root by root
+Sep 29 00:25:41 raspberrypi su[8416]: + /dev/pts/2 root:root
+Sep 29 00:25:41 raspberrypi su[8416]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:28:23 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/ln -s haechi_nginx.conf /etc/nginx/conf.d/
+Sep 29 00:28:23 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:28:23 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:28:37 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/sbin/nginx restart
+Sep 29 00:28:37 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:28:37 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:29:44 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/kill 5886
+Sep 29 00:29:44 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:29:44 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:29:54 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/sbin/nginx start
+Sep 29 00:29:54 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:29:54 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:29:57 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/sbin/nginx
+Sep 29 00:29:57 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:29:57 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:30:42 raspberrypi su[8416]: pam_unix(su:session): session closed for user root
+Sep 29 00:30:42 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:30:45 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/su
+Sep 29 00:30:45 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:30:45 raspberrypi su[8578]: Successful su for root by root
+Sep 29 00:30:45 raspberrypi su[8578]: + /dev/pts/1 root:root
+Sep 29 00:30:45 raspberrypi su[8578]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:32:01 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:41:27 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 29 00:41:27 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:41:27 raspberrypi su[8681]: Successful su for root by root
+Sep 29 00:41:27 raspberrypi su[8681]: + /dev/pts/2 root:root
+Sep 29 00:41:27 raspberrypi su[8681]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:51:37 raspberrypi su[8681]: pam_unix(su:session): session closed for user root
+Sep 29 00:51:37 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:52:50 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/su
+Sep 29 00:52:50 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:52:50 raspberrypi su[8784]: Successful su for root by root
+Sep 29 00:52:50 raspberrypi su[8784]: + /dev/pts/2 root:root
+Sep 29 00:52:50 raspberrypi su[8784]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:53:14 raspberrypi su[8784]: pam_unix(su:session): session closed for user root
+Sep 29 00:53:14 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:53:28 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 29 00:53:28 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:53:28 raspberrypi su[8836]: Successful su for root by root
+Sep 29 00:53:28 raspberrypi su[8836]: + /dev/pts/3 root:root
+Sep 29 00:53:28 raspberrypi su[8836]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:54:42 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/su
+Sep 29 00:54:42 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:54:42 raspberrypi su[8856]: Successful su for root by root
+Sep 29 00:54:42 raspberrypi su[8856]: + /dev/pts/2 root:root
+Sep 29 00:54:42 raspberrypi su[8856]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 00:56:44 raspberrypi su[8856]: pam_unix(su:session): session closed for user root
+Sep 29 00:56:44 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:58:34 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/chown -R pi:raspberrypi /home/pi/haechiProject/log/
+Sep 29 00:58:34 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:58:34 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:58:48 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/chown -R pi:pi /home/pi/haechiProject/log/
+Sep 29 00:58:48 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:58:48 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:58:58 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/chown -R pi:pi /home/pi/haechiProject/static/
+Sep 29 00:58:58 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:58:58 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:59:02 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/chown -R pi:pi /home/pi/haechiProject/templates/
+Sep 29 00:59:02 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 00:59:02 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:59:46 raspberrypi su[8836]: pam_unix(su:session): session closed for user root
+Sep 29 00:59:46 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 00:59:51 raspberrypi su[8578]: pam_unix(su:session): session closed for user root
+Sep 29 00:59:51 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 01:01:05 raspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/usr/bin/python hello-template.py
+Sep 29 01:01:05 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 01:01:21 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 29 01:01:21 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 01:01:21 raspberrypi su[9044]: Successful su for root by root
+Sep 29 01:01:21 raspberrypi su[9044]: + /dev/pts/1 root:root
+Sep 29 01:01:21 raspberrypi su[9044]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 01:01:59 raspberrypi su[9044]: pam_unix(su:session): session closed for user root
+Sep 29 01:01:59 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 01:17:01 raspberrypi CRON[9107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 01:17:01 raspberrypi CRON[9107]: pam_unix(cron:session): session closed for user root
+Sep 29 01:57:37 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/home/pi/haechiProject ; USER=root ; COMMAND=/bin/su
+Sep 29 01:57:37 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 01:57:38 raspberrypi su[9368]: Successful su for root by root
+Sep 29 01:57:38 raspberrypi su[9368]: + /dev/pts/1 root:root
+Sep 29 01:57:38 raspberrypi su[9368]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:01:44 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:06:41 raspberrypi su[9368]: pam_unix(su:session): session closed for user root
+Sep 29 02:06:41 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:12:11 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/var/www/demoapp ; USER=root ; COMMAND=/bin/su
+Sep 29 02:12:11 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:12:11 raspberrypi su[11626]: Successful su for root by root
+Sep 29 02:12:11 raspberrypi su[11626]: + /dev/pts/1 root:root
+Sep 29 02:12:11 raspberrypi su[11626]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:12:27 raspberrypi su[11626]: pam_unix(su:session): session closed for user root
+Sep 29 02:12:27 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:13:16 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/var/www/demoapp ; USER=root ; COMMAND=/bin/su
+Sep 29 02:13:16 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:13:16 raspberrypi su[11650]: Successful su for root by root
+Sep 29 02:13:16 raspberrypi su[11650]: + /dev/pts/1 root:root
+Sep 29 02:13:16 raspberrypi su[11650]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:13:31 raspberrypi su[11650]: pam_unix(su:session): session closed for user root
+Sep 29 02:13:31 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:13:46 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/var/www/demoapp ; USER=root ; COMMAND=/bin/ln -s demoapp_nginx.conf /etc/nginx/conf.d/
+Sep 29 02:13:46 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:13:46 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:14:02 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/var/www/demoapp ; USER=root ; COMMAND=/etc/init.d/nginx restart
+Sep 29 02:14:02 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:14:02 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:15:08 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/var/www ; USER=root ; COMMAND=/bin/su
+Sep 29 02:15:08 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:15:08 raspberrypi su[11752]: Successful su for root by root
+Sep 29 02:15:08 raspberrypi su[11752]: + /dev/pts/1 root:root
+Sep 29 02:15:08 raspberrypi su[11752]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:15:35 raspberrypi su[11752]: pam_unix(su:session): session closed for user root
+Sep 29 02:15:35 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:16:06 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 29 02:16:06 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:16:06 raspberrypi su[11792]: Successful su for root by root
+Sep 29 02:16:06 raspberrypi su[11792]: + /dev/pts/2 root:root
+Sep 29 02:16:06 raspberrypi su[11792]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:17:01 raspberrypi CRON[11805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 02:17:01 raspberrypi CRON[11805]: pam_unix(cron:session): session closed for user root
+Sep 29 02:21:22 raspberrypi su[11792]: pam_unix(su:session): session closed for user root
+Sep 29 02:21:22 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:24:11 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/kill 11484
+Sep 29 02:24:11 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:24:11 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:24:16 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/su
+Sep 29 02:24:16 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:24:16 raspberrypi su[12608]: Successful su for root by root
+Sep 29 02:24:16 raspberrypi su[12608]: + /dev/pts/3 root:root
+Sep 29 02:24:16 raspberrypi su[12608]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:28:56 raspberrypi su[12608]: pam_unix(su:session): session closed for user root
+Sep 29 02:28:56 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:29:09 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/etc/nginx/conf.d ; USER=root ; COMMAND=/usr/bin/vi demoapp_nginx.conf
+Sep 29 02:29:09 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:29:12 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:29:50 raspberrypi sudo:       pi : TTY=pts/3 ; PWD=/etc/nginx/conf.d ; USER=root ; COMMAND=/bin/su
+Sep 29 02:29:50 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:29:50 raspberrypi su[12807]: Successful su for root by root
+Sep 29 02:29:50 raspberrypi su[12807]: + /dev/pts/3 root:root
+Sep 29 02:29:50 raspberrypi su[12807]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:33:43 raspberrypi su[12807]: pam_unix(su:session): session closed for user root
+Sep 29 02:33:43 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:54:05 raspberrypi sudo:       pi : TTY=pts/1 ; PWD=/etc/nginx/conf.d ; USER=root ; COMMAND=/bin/su
+Sep 29 02:54:05 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:54:06 raspberrypi su[13062]: Successful su for root by root
+Sep 29 02:54:06 raspberrypi su[13062]: + /dev/pts/1 root:root
+Sep 29 02:54:06 raspberrypi su[13062]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 02:54:37 raspberrypi su[13062]: pam_unix(su:session): session closed for user root
+Sep 29 02:54:37 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 02:56:48 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/var/www/demoapp/static ; USER=root ; COMMAND=/bin/su
+Sep 29 02:56:48 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 02:56:48 raspberrypi su[13126]: Successful su for root by root
+Sep 29 02:56:48 raspberrypi su[13126]: + /dev/pts/2 root:root
+Sep 29 02:56:48 raspberrypi su[13126]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 29 03:17:01 raspberrypi CRON[13294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 29 03:17:01 raspberrypi CRON[13294]: pam_unix(cron:session): session closed for user root
+Sep 29 03:19:24 raspberrypi su[13126]: pam_unix(su:session): session closed for user root
+Sep 29 03:19:24 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Sep 29 03:24:27 raspberrypi sudo:       pi : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/bin/su
+Sep 29 03:24:27 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 29 03:24:27 raspberrypi su[13383]: Successful su for root by root
+Sep 29 03:24:27 raspberrypi su[13383]: + /dev/pts/2 root:root
+Sep 29 03:24:27 raspberrypi su[13383]: pam_unix(su:session): session opened for user root by (uid=0)

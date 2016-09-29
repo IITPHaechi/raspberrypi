@@ -1,0 +1,6 @@
+db2a6418ed4c232060220cd27124fae0  usr/lib/arm-linux-gnueabihf/libXm.so.4.0.4
+2b06e38070b3cfacbfe8864338bd2a2d  usr/share/doc/libxm4/README.Debian
+7e8d9c6d18c4ac7b29bc2fb9b6bb7118  usr/share/doc/libxm4/changelog.Debian.gz
+e432d9cb993bc5950eb76bab007c33ad  usr/share/doc/libxm4/changelog.gz
+b0a28c8fed05b1e129bc1d82eaf2d86f  usr/share/doc/libxm4/copyright
+0442c44f11d70723e3c8aaefbccc2467  usr/share/lintian/overrides/libxm4

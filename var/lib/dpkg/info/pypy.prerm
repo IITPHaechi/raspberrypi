@@ -1,0 +1,43 @@
+#!/bin/sh
+
+if [ 'armhf' = 'i386' ]; then
+    pypy -c '' 2>/dev/null
+    if [ $? -eq 132 ]; then
+        echo "PyPy doesn't appear to support this CPU." >&2
+        echo "SSE2 is required." >&2
+        exit 0
+    fi
+fi
+
+set -e
+
+case "$1" in
+    remove|deconfigure|upgrade)
+        # We may have to clean up after pypy-lib-testsuite, too, if we're
+        # removed before it
+        pypyclean /usr/lib/pypy/lib-python /usr/lib/pypy/lib_pypy
+    ;;
+
+    failed-upgrade)
+    ;;
+
+    *)
+        echo "prerm called with unknown argument \`$1'" >&2
+        exit 1
+    ;;
+esac
+
+# Automatically added by dh_usrlocal
+(
+	while read dir; do
+		rmdir "$dir" 2>/dev/null || true
+	done
+) << DATA
+/usr/local/lib/pypy2.7/dist-packages
+/usr/local/lib/pypy2.7
+DATA
+# End automatically added section
+
+
+exit 0
+# vim:set et ts=4 sw=4:

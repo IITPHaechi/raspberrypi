@@ -1,0 +1,14 @@
+0fe1ceb0268dfbb14e5e838f06945898  usr/bin/pi-gpk-install-local-file
+c6bf6de1d942300bde4b53e15624f607  usr/bin/pi-gpk-update-viewer
+ec25283d3a773e7c4aa32638adbbb47d  usr/bin/pi-packages
+12caeb232cb6433c36c8a30a13d1726c  usr/share/appdata/gpk-application.appdata.xml
+ad9d0b60df78cc920cbf0bb9a2834352  usr/share/appdata/gpk-update-viewer.appdata.xml
+469269ab09952519a1a1631109b068f9  usr/share/applications/pi-gpk-install-local-file.desktop
+3ef8c2cf4d2f67aebc29214ad8b87ded  usr/share/applications/pi-gpk-update-viewer.desktop
+59bab6ed4976120cf86975af456ce9c6  usr/share/applications/pi-packages.desktop
+20cd1377ca6421add079ce798afc9a21  usr/share/doc/pi-package/AUTHORS
+0b411cd9b723694b2ad59375a8e7646f  usr/share/doc/pi-package/NEWS.gz
+a1d18f1a43110009055d9b3aefae330f  usr/share/doc/pi-package/README
+57b69120fc5a6e8707101d23d38a7526  usr/share/doc/pi-package/TODO
+03a1848c15917060864c9dfefdec186b  usr/share/doc/pi-package/changelog.Debian.gz
+9027eb5fade1048047928e0dea401e79  usr/share/doc/pi-package/copyright

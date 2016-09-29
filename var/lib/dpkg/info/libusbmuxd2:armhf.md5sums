@@ -1,0 +1,4 @@
+fa127ead8c47b5f0c5584e06649a900a  usr/lib/arm-linux-gnueabihf/libusbmuxd.so.2.1.0
+544a73e20a0b489887bd85e80cbcfd59  usr/share/doc/libusbmuxd2/changelog.Debian.gz
+40a7284b1114cf985796ae91d17d7261  usr/share/doc/libusbmuxd2/copyright
+abf5b438b7caee4e05776e5735366bcf  usr/share/lintian/overrides/libusbmuxd2

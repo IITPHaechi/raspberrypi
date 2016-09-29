@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-urllib3-whl
+/usr/share/doc/python-urllib3-whl/copyright
+/usr/share/doc/python-urllib3-whl/changelog.Debian.gz
+/usr/share/doc/python-urllib3-whl/changelog.gz
+/usr/share/python-wheels
+/usr/share/python-wheels/urllib3-1.9.1-py2.py3-none-any.whl

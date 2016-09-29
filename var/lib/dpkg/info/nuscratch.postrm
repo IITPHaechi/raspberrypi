@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if [ remove = "$1" -o abort-install = "$1" -o disappear = "$1" ]; then
+  dpkg-divert --package nuscratch --rename --remove /usr/bin/scratch
+  dpkg-divert --package nuscratch --rename --remove /usr/bin/squeak
+  dpkg-divert --package nuscratch --rename --remove /usr/share/scratch/locale/ja_HIRA.po
+  dpkg-divert --package nuscratch --rename --remove /usr/share/scratch/locale/ja.po
+fi
+
+if [ remove = "$1" ]; then
+  ldconfig
+fi
+
+

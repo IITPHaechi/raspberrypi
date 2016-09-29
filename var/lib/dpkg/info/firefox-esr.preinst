@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+if [ "$1" = "upgrade" ] || [ "$1" = "install" ] ; then
+    if [ "$(dpkg-divert --listpackage /usr/bin/firefox)" = "iceweasel" ] ; then
+        dpkg-divert --package iceweasel --rename --remove /usr/bin/firefox
+    fi
+    dpkg-divert --package firefox-esr --divert /usr/bin/firefox.real --rename /usr/bin/firefox
+fi
+
+

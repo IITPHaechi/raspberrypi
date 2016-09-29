@@ -1,0 +1,13 @@
+7086e2d69813248623b51136d2afaf01  usr/lib/arm-linux-gnueabihf/libQtGui.so.4.8.6
+5fc2f4d268e4ae91c578847ce0ef35da  usr/lib/arm-linux-gnueabihf/qt4/plugins/accessible/libqtaccessiblewidgets.so
+1aea4827473732ec008bc31d3306b70c  usr/lib/arm-linux-gnueabihf/qt4/plugins/graphicssystems/libqtracegraphicssystem.so
+8191f40f8d721a107e4de603e9efd171  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqgif.so
+d57f69bbb3918f4e24495193d5fba9d0  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqico.so
+90aa464812c9b0f31b2840ffb0cd6f95  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqjpeg.so
+effa006a11f18c478a5be40e6a0ca3fe  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqmng.so
+181e201caa9fe9a2984b20126bda9eeb  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqtga.so
+4b76cedad9316de4e7ed5cb0bf05d926  usr/lib/arm-linux-gnueabihf/qt4/plugins/imageformats/libqtiff.so
+7213256a05e6cfa7444c99b934b95581  usr/lib/arm-linux-gnueabihf/qt4/plugins/inputmethods/libqimsw-multi.so
+eb6c371255e1262c55ae9b652a90b528  usr/share/doc/libqtgui4/LGPL_EXCEPTION.txt
+b8b6d0ae96f0fa483a29aad1428dc16a  usr/share/doc/libqtgui4/changelog.Debian.gz
+d49cf542b1b3ba75bad90e9560c459d3  usr/share/doc/libqtgui4/copyright

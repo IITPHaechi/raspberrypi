@@ -1,0 +1,78 @@
+#!/bin/sh
+
+set -e
+
+case "${1}" in
+  configure)
+    update-alternatives --install /usr/bin/x-session-manager \
+      x-session-manager /usr/bin/startlxde-pi 90 \
+      --slave /usr/share/man/man1/x-session-manager.1.gz \
+      x-session-manager.1.gz /usr/share/man/man1/startlxde.1.gz
+    HOME_DIR=/home/pi
+    BACKUP_DIR=${HOME_DIR}/oldconffiles
+    CONF_DIR=${HOME_DIR}/.config
+    THEME_DIR=${HOME_DIR}/.themes
+    if [ ! -d $HOME_DIR ]; then
+      exit 0;
+    fi
+    if dpkg --compare-versions "${2}" lt "1.20150908"; then
+      CHANGED_FILES="${CHANGED_FILES} \
+                     ${CONF_DIR}/gtk-3.0/gtk.css \
+                     ${CONF_DIR}/Trolltech.conf \
+                     ${CONF_DIR}/pcmanfm/LXDE-pi \
+                     ${CONF_DIR}/lxsession/LXDE-pi/desktop.conf"
+    fi
+    if dpkg --compare-versions "${2}" lt "1.20160527"; then
+      CHANGED_FILES="${CHANGED_FILES} \
+                     ${THEME_DIR}/PiX"
+    fi
+    if dpkg --compare-versions "${2}" lt "1.20160329"; then
+      CHANGED_FILES="${CHANGED_FILES} \
+                     ${CONF_DIR}/openbox/lxde-pi-rc.xml"
+    fi
+    if dpkg --compare-versions "${2}" lt "1.20160426"; then
+      CHANGED_FILES="${CHANGED_FILES} \
+                     ${CONF_DIR}/lxpanel/LXDE-pi"
+    fi
+
+    if [ -n "${CHANGED_FILES}" ]; then
+      echo "Backing up old config files..."
+      rm -rf ${BACKUP_DIR}
+      for file in $CHANGED_FILES; do
+        if [ -e $file ]; then
+          CHANGED=1
+          NEWLOC=${BACKUP_DIR}/`dirname $file | cut -d / -f 4-`
+          echo $file
+          mkdir -p $NEWLOC
+          mv $file $NEWLOC
+        fi
+      done
+      if [ "$CHANGED" = "1" ]; then
+        chown -R pi:pi $BACKUP_DIR
+        mkdir -p /home/pi/.config/autostart
+        cat << EOF >> /home/pi/.config/autostart/pi-conf-backup.desktop
+[Desktop Entry]
+Exec=sh -c 'zenity --info --text="Your Raspbian system has been upgraded to the latest version.\n\nTo ensure compatibility with the new version, some configuration files have been overwritten -\nif you had customised your system, some of your changes may have been lost.\n\nYour original configuration files have been backed up and put in the directory /home/pi/oldconffiles\n" && rm ~/.config/autostart/pi-conf-backup.desktop'
+Type=Application
+EOF
+        chown pi:pi /home/pi/.config
+        chown pi:pi /home/pi/.config/autostart
+        chown pi:pi /home/pi/.config/autostart/pi-conf-backup.desktop
+      fi
+    fi
+    ;;
+
+  abort-upgrade|abort-remove|abort-deconfigure)
+
+    ;;
+
+  *)
+    echo "postinst called with unknown argument \`${1}'" >&2
+    exit 1
+    ;;
+esac
+
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/X11/Xsession.d/90xmodmap 1.0-7 −− "$@" -- "$@"
+# End automatically added section
+

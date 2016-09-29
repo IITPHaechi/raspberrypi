@@ -1,0 +1,6 @@
+Sep 26 02:00:13 raspberrypi org.gtk.Private.AfcVolumeMonitor[747]: Volume monitor alive
+Sep 26 02:48:35 raspberrypi org.gtk.Private.AfcVolumeMonitor[794]: Volume monitor alive
+Sep 26 03:03:31 raspberrypi org.gtk.vfs.Daemon[794]: A connection to the bus can't be made
+Sep 26 03:03:31 raspberrypi org.gtk.vfs.Daemon[794]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Sep 26 03:03:43 raspberrypi org.gtk.Private.AfcVolumeMonitor[718]: Volume monitor alive
+Sep 28 19:54:02 raspberrypi org.gtk.Private.AfcVolumeMonitor[765]: Volume monitor alive

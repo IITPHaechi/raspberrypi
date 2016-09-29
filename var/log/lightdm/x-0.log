@@ -1,0 +1,18 @@
+
+X.Org X Server 1.17.2
+Release Date: 2015-06-16
+X Protocol Version 11, Revision 0
+Build Operating System: Linux 3.8.11-2-ARCH armv7l Raspbian
+Current Operating System: Linux raspberrypi 4.4.13-v7+ #894 SMP Mon Jun 13 13:13:27 BST 2016 armv7l
+Kernel command line: 8250.nr_uarts=0 dma.dmachans=0x7f35 bcm2708_fb.fbwidth=1360 bcm2708_fb.fbheight=768 bcm2709.boardrev=0xa22082 bcm2709.serial=0x7c45a1d8 smsc95xx.macaddr=B8:27:EB:45:A1:D8 bcm2708_fb.fbswap=1 bcm2709.uart_clock=48000000 vc_mem.mem_base=0x3dc00000 vc_mem.mem_size=0x3f000000  dwc_otg.lpm_enable=0 console=ttyS0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
+Build Date: 11 January 2016  01:32:44PM
+xorg-server 2:1.17.2-1+rpi1 (http://www.debian.org/support) 
+Current version of pixman: 0.33.3
+	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+(==) Log file: "/var/log/Xorg.0.log", Time: Wed Sep 28 19:53:56 2016
+(==) Using system config directory "/usr/share/X11/xorg.conf.d"
+modprobe: FATAL: Module g2d_23 not found.

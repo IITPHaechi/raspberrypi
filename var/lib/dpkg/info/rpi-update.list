@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/rpi-update
+/usr/share
+/usr/share/doc
+/usr/share/doc/rpi-update
+/usr/share/doc/rpi-update/LICENSE
+/usr/share/doc/rpi-update/changelog.gz

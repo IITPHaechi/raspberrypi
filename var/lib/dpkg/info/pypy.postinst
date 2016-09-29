@@ -1,0 +1,85 @@
+#!/bin/sh
+
+if [ 'armhf' = 'i386' ]; then
+    pypy -c '' 2>/dev/null
+    if [ $? -eq 132 ]; then
+        echo "PyPy doesn't appear to support this CPU." >&2
+        echo "SSE2 is required." >&2
+        exit 1
+    fi
+fi
+
+set -e
+
+hook() {
+    local action old new
+    hook=$1
+    action=$2
+    old_v=$3
+    new_v=$4
+    old=pypy
+    new=pypy
+    echo "running pypy $action hooks for $new_v"
+    for script in /usr/lib/pypy/runtime.d/*."$hook"; do
+        [ -x "$script" ] || continue
+        if ! "$script" "$action" "$old" "$new"; then
+            echo >&2 "error running pypy $action hook $(basename "$script")"
+            return 1
+        fi
+    done
+}
+
+case "$1" in
+    configure)
+        if [ -n "$2" ] && dpkg --compare-versions "$2" le 2.2; then
+            # We weren't running pypyclean in prerm in versions before 2.2
+            pypyclean /usr/lib/pypy/lib-python /usr/lib/pypy/lib_pypy
+        fi
+
+        pypycompile -p pypy -p pypy-lib
+
+        old_version=$(echo $2 | sed 's/\([[:digit:]]*\.[[:digit:]]*\).*/\1/')
+        new_version=$(echo "4.0.1" | sed 's/\([[:digit:]]*\.[[:digit:]]*\).*/\1/')
+        if [ "$old_version" != "$new_version" ]; then
+            hook rtupdate rtupdate "$old_version" "$new_version" || exit 4
+            hook rtupdate post-rtupdate "$old_version" "$new_version" || exit 5
+        elif [ -n "$2" ] && dpkg --compare-versions "$2" le 4.0.0+dfsg-1; then
+            # Force a re-byte-compile. PyPy 4.0.0+dfsg-1 had tag pypy-40, but
+            # 4.0.0+dfsg-2 goes back to pypy-26 #803689
+            /usr/lib/pypy/runtime.d/public_modules.rtupdate rtupdate
+        fi
+    ;;
+
+    abort-upgrade|abort-remove|abort-deconfigure)
+    ;;
+
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 1
+    ;;
+esac
+
+# Automatically added by dh_usrlocal
+if [ "$1" = configure ]; then
+(
+	while read line; do
+		set -- $line
+		dir="$1"; mode="$2"; user="$3"; group="$4"
+		if [ ! -e "$dir" ]; then
+			if mkdir "$dir" 2>/dev/null; then
+				chown "$user":"$group" "$dir"
+				chmod "$mode" "$dir"
+			fi
+		fi
+	done
+) << DATA
+/usr/local/lib 2775 root staff
+/usr/local/lib/pypy2.7 2775 root staff
+/usr/local/lib/pypy2.7/dist-packages 2775 root staff
+DATA
+fi
+# End automatically added section
+
+
+exit 0
+# vim:set et ts=4 sw=4:

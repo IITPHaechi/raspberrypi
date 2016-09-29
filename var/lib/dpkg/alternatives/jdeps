@@ -1,0 +1,9 @@
+auto
+/usr/bin/jdeps
+jdeps.1.gz
+/usr/share/man/man1/jdeps.1.gz
+
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jdeps
+318
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jdeps.1.gz
+

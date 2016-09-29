@@ -1,0 +1,13 @@
+3b42663bcfcb936069036f13b3d47a4b  usr/lib/ure/lib/libreglo.so
+e5acc0f3fd4275de6e0ac731afc5205d  usr/lib/ure/lib/libstorelo.so
+5e47906c7ebab47508609e76976837e3  usr/lib/ure/lib/libuno_cppu.so.3
+9ef94f7d54adc1c7729f8e30de581055  usr/lib/ure/lib/libuno_cppuhelpergcc3.so.3
+ab1da1ada93086bb422499fd43805d08  usr/lib/ure/lib/libuno_purpenvhelpergcc3.so.3
+32946b52f42b1cc68e6bd9a8957390cd  usr/lib/ure/lib/libuno_sal.so.3
+4239428270dcde232dcd661081c6e69a  usr/lib/ure/lib/libuno_salhelpergcc3.so.3
+563c470f287fc9462daa53cb5dc37e04  usr/lib/ure/lib/libxmlreaderlo.so
+4583c119b7c148a61e54ddbbdc1917a9  usr/share/bug/uno-libs3/presubj
+a3cf53c9e43e48197b24775a36fbc526  usr/share/doc/uno-libs3/README.gz
+133be1bcb1b7d60b72fbd35d78072de8  usr/share/doc/uno-libs3/changelog.Debian.gz
+4f5a64bd948f53e6afd60cc926b84fb8  usr/share/doc/uno-libs3/copyright
+a901405d75c08ee5eb0ff77914111c4e  usr/share/lintian/overrides/uno-libs3

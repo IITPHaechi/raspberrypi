@@ -1,0 +1,9 @@
+c534a97bbf0263f0e4c089cd78163bf4  usr/lib/pulse-5.0/modules/module-x11-bell.so
+100ae70229a12b5da463203277b70a3b  usr/lib/pulse-5.0/modules/module-x11-cork-request.so
+abe06110a9daa90a2aa70c6128f6eac7  usr/lib/pulse-5.0/modules/module-x11-publish.so
+fb17a52b0c556dc0734711b50bc45891  usr/lib/pulse-5.0/modules/module-x11-xsmp.so
+5ecec95df7745f71e65b54a1f66ea678  usr/share/doc/pulseaudio-module-x11/NEWS.gz
+a17c7bf6f9b9321f4cf389682cf0d058  usr/share/doc/pulseaudio-module-x11/README
+3ecdbdde1f84cad4ec6f8284f17f106a  usr/share/doc/pulseaudio-module-x11/changelog.Debian.gz
+1a70969fd317243739e917dee33e532a  usr/share/doc/pulseaudio-module-x11/copyright
+885fdd2ef8e6ba86112ba4cdcc0bb68b  usr/share/lintian/overrides/pulseaudio-module-x11

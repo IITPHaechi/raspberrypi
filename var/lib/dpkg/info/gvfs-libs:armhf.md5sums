@@ -1,0 +1,9 @@
+2a6eaca997f24824a7ace7e4ddb9ccf8  usr/lib/arm-linux-gnueabihf/gvfs/libgvfscommon.so
+908fa7f340e8191b1b6f0fc81e2d2c9a  usr/lib/arm-linux-gnueabihf/gvfs/libgvfsdaemon.so
+355218e0db119e15d271a773ca9033af  usr/share/doc/gvfs-libs/AUTHORS
+a8c019f411348aba517d6554764b7e35  usr/share/doc/gvfs-libs/NEWS.gz
+53285e73360285d5c8557444c918d0f0  usr/share/doc/gvfs-libs/README
+d17de82c9a85d7dad9bf743c374d3fc3  usr/share/doc/gvfs-libs/TODO
+294fe10baf5fe40cd106f32f70596a08  usr/share/doc/gvfs-libs/changelog.Debian.gz
+cdae592bd6289ac7454554a85a1365d7  usr/share/doc/gvfs-libs/changelog.gz
+be76aefb66643670103c46607915f7a8  usr/share/doc/gvfs-libs/copyright

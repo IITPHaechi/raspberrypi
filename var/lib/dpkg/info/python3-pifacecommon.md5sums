@@ -1,0 +1,11 @@
+d305b360452c584ef46344ac4e9d9c19  usr/lib/python3/dist-packages/pifacecommon-4.2.1.egg-info
+fcb14421829aae28f70ff1c052d3899b  usr/lib/python3/dist-packages/pifacecommon/__init__.py
+0a49f891dbfbd31635c7066a4d254140  usr/lib/python3/dist-packages/pifacecommon/asm_generic_ioctl.py
+45162bd95a7cc233dd047dbb1f8f8325  usr/lib/python3/dist-packages/pifacecommon/core.py
+1c8c2ee42e6df653cd38f37791652bd2  usr/lib/python3/dist-packages/pifacecommon/interrupts.py
+7faf6216928d8402ea2b3430d19c9347  usr/lib/python3/dist-packages/pifacecommon/linux_spi_spidev.py
+0774b2ed07b78889372f5db4a8f95be6  usr/lib/python3/dist-packages/pifacecommon/mcp23s17.py
+24b568099dd39e131f11adc7e5ad1659  usr/lib/python3/dist-packages/pifacecommon/spi.py
+faff67b04841a312a2597539ab168deb  usr/lib/python3/dist-packages/pifacecommon/version.py
+94c2b782f73d86408f610404b5678580  usr/share/doc/python3-pifacecommon/changelog.Debian.gz
+4873753d1376d5dbcf83e6a78fd26839  usr/share/doc/python3-pifacecommon/copyright

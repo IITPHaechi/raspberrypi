@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/spidev-3.0.egg-info
+/usr/lib/python2.7/dist-packages/spidev.arm-linux-gnueabihf.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-spidev
+/usr/share/doc/python-spidev/changelog.gz

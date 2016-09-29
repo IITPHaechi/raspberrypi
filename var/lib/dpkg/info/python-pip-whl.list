@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-pip-whl
+/usr/share/doc/python-pip-whl/changelog.Debian.gz
+/usr/share/doc/python-pip-whl/copyright
+/usr/share/doc/python-pip-whl/changelog.gz
+/usr/share/python-wheels
+/usr/share/python-wheels/pip.dependencies
+/usr/share/python-wheels/pip-1.5.6-py2.py3-none-any.whl

@@ -1,0 +1,41 @@
+[+0.00s] DEBUG: Logging to /var/log/lightdm/lightdm.log
+[+0.00s] DEBUG: Starting Light Display Manager 1.10.3, UID=0 PID=631
+[+0.00s] DEBUG: Loading configuration dirs from /usr/share/lightdm/lightdm.conf.d
+[+0.00s] DEBUG: Loading configuration from /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+[+0.00s] DEBUG: Loading configuration dirs from /usr/local/share/lightdm/lightdm.conf.d
+[+0.00s] DEBUG: Loading configuration dirs from /etc/xdg/lightdm/lightdm.conf.d
+[+0.00s] DEBUG: Loading configuration from /etc/lightdm/lightdm.conf
+[+0.00s] DEBUG: Using D-Bus name org.freedesktop.DisplayManager
+[+0.05s] DEBUG: Registered seat module xlocal
+[+0.05s] DEBUG: Registered seat module xremote
+[+0.05s] DEBUG: Registered seat module unity
+[+0.05s] DEBUG: Registered seat module surfaceflinger
+[+0.39s] DEBUG: Adding default seat
+[+0.39s] DEBUG: Seat: Starting
+[+0.39s] DEBUG: Seat: Creating user session
+[+0.39s] WARNING: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+[+0.39s] DEBUG: Loading user config from /etc/lightdm/users.conf
+[+0.40s] DEBUG: User pi added
+[+0.41s] DEBUG: Seat: Creating display server of type x
+[+0.41s] DEBUG: Using VT 7
+[+0.41s] DEBUG: Seat: Starting local X display on VT 7
+[+0.41s] DEBUG: DisplayServer x-0: Logging to /var/log/lightdm/x-0.log
+[+0.41s] DEBUG: DisplayServer x-0: Writing X server authority to /var/run/lightdm/root/:0
+[+0.41s] DEBUG: DisplayServer x-0: Launching X Server
+[+0.41s] DEBUG: Launching process 709: /usr/bin/X :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+[+0.41s] DEBUG: DisplayServer x-0: Waiting for ready signal from X server :0
+[+0.41s] DEBUG: Acquired bus name org.freedesktop.DisplayManager
+[+0.41s] DEBUG: Registering seat with bus path /org/freedesktop/DisplayManager/Seat0
+[+1.90s] DEBUG: Got signal 10 from process 709
+[+1.90s] DEBUG: DisplayServer x-0: Got signal from X server :0
+[+1.90s] DEBUG: DisplayServer x-0: Connecting to XServer :0
+[+1.90s] DEBUG: Seat: Display server ready, starting session authentication
+[+1.90s] DEBUG: Session pid=723: Started with service 'lightdm-autologin', username 'pi'
+[+1.99s] DEBUG: Session pid=723: Authentication complete with return value 0: Success
+[+1.99s] DEBUG: Seat: Session authenticated, running command
+[+1.99s] DEBUG: Registering session with bus path /org/freedesktop/DisplayManager/Session0
+[+2.00s] DEBUG: Session pid=723: Running command /etc/X11/Xsession default
+[+2.00s] DEBUG: Creating shared data directory /var/lib/lightdm/data/pi
+[+2.00s] DEBUG: Session pid=723: Logging to .xsession-errors
+[+2.15s] DEBUG: Activating VT 7
+[+2.15s] DEBUG: Activating login1 session c1

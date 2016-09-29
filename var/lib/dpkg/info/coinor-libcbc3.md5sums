@@ -1,0 +1,6 @@
+e2ba4f85ef19ac59a638d8ff4cc54836  usr/lib/arm-linux-gnueabihf/libCbc.so.3.8.12
+2ef296582eddf54c169e27ecf597267d  usr/lib/arm-linux-gnueabihf/libCbcSolver.so.3.8.12
+09a56b3cc2a44f348b1468ebc8a0dda3  usr/lib/arm-linux-gnueabihf/libOsiCbc.so.3.8.12
+c1026990076bedecc5752cafddc96616  usr/share/doc/coinor-libcbc3/changelog.Debian.gz
+f3f2f8eed334382a2b436e6f78c76ce5  usr/share/doc/coinor-libcbc3/copyright
+3721b76642497a49220a3c6c0059a7a6  usr/share/lintian/overrides/coinor-libcbc3

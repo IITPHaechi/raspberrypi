@@ -1,0 +1,10 @@
+6c0602f3f45367a18f0c1dfc6bb93d7e  usr/lib/python3/dist-packages/mcpi-0.1.1.egg-info
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/mcpi/__init__.py
+34c5d9b9b614b122d8b2700380e2446d  usr/lib/python3/dist-packages/mcpi/block.py
+3a749d6036b84fd96bd64acc3a4d232c  usr/lib/python3/dist-packages/mcpi/connection.py
+46736ce1fc3274e7b29ed8860851ddd9  usr/lib/python3/dist-packages/mcpi/event.py
+78db036c8213965edc5a58e1ac37e486  usr/lib/python3/dist-packages/mcpi/minecraft.py
+b44445b2f520bdcdb0818662c4721c7e  usr/lib/python3/dist-packages/mcpi/util.py
+7fa75e60a514197c6f884ffa8aa06575  usr/lib/python3/dist-packages/mcpi/vec3.py
+ce27c57ce884d2969f6f2ba4c4cd8508  usr/share/doc/python3-minecraftpi/LICENSE.txt
+72c9dfc3f9f1d965015428ca32040fa1  usr/share/doc/python3-minecraftpi/changelog.Debian.gz

@@ -1,0 +1,5 @@
+7c554c82530775d4064c1e123338577d  usr/lib/xorg/modules/drivers/fbturbo_drv.la
+c213719220447fbe22e9f2b0bcf4074a  usr/lib/xorg/modules/drivers/fbturbo_drv.so
+ceb8f46fa99f59faf254a9c2b6810270  usr/share/X11/xorg.conf.d/99-fbturbo.conf
+ed2cda1d2544f657a4f79d8a1b53145c  usr/share/doc/xserver-xorg-video-fbturbo/changelog.gz
+33724f1cea5b60abcbf8babf6a04998e  usr/share/man/man4/fbturbo.4.gz

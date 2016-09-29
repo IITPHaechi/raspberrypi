@@ -1,0 +1,9 @@
+auto
+/usr/bin/rmic
+rmic.1.gz
+/usr/share/man/man1/rmic.1.gz
+
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/rmic
+318
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/rmic.1.gz
+

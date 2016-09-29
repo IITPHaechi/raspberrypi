@@ -1,0 +1,11 @@
+efb3628f56976ec85cc8487eea3040c7  usr/bin/pi-gpk-dbus-service
+458472b933fe900a4626cbf7efa5b348  usr/bin/pi-gpk-log
+120d962744c1d0d8ef0a2a756f39923d  usr/bin/pi-gpk-prefs
+5c80caef6b808a8320efafdf77e3dc07  usr/share/GConf/gsettings/org.rpi.pipackage.gschema.migrate
+80749f8b472bac8bf70f48a5916b82e4  usr/share/applications/pi-gpk-dbus-service.desktop
+65825b319a534467579579ace6f80736  usr/share/applications/pi-gpk-log.desktop
+64d41778df84c7196f74803637cf169d  usr/share/applications/pi-gpk-prefs.desktop
+5c20e10ebf346c83694637c41f38121f  usr/share/dbus-1/services/org.freedesktop.PackageKit.service
+03a1848c15917060864c9dfefdec186b  usr/share/doc/pi-package-session/changelog.Debian.gz
+9027eb5fade1048047928e0dea401e79  usr/share/doc/pi-package-session/copyright
+fb8523cc242316b3668245ad397d8b6b  usr/share/glib-2.0/schemas/org.rpi.pipackage.gschema.xml

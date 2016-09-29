@@ -1,0 +1,10 @@
+TARGETS = unattended-upgrades hostapd fake-hwclock dhcpcd triggerhappy isc-dhcp-server lightdm avahi-daemon bluetooth nginx plymouth alsa-utils urandom dnsmasq sendsigs rsyslog umountnfs.sh nfs-common rpcbind hwclock.sh networking umountfs umountroot halt reboot
+dnsmasq: nginx
+sendsigs: dnsmasq isc-dhcp-server hostapd triggerhappy unattended-upgrades plymouth alsa-utils lightdm avahi-daemon bluetooth nginx
+rsyslog: sendsigs dnsmasq isc-dhcp-server avahi-daemon bluetooth nginx
+umountnfs.sh: rsyslog dnsmasq isc-dhcp-server hostapd sendsigs triggerhappy unattended-upgrades plymouth alsa-utils lightdm avahi-daemon bluetooth nginx
+networking: dnsmasq isc-dhcp-server rpcbind umountnfs.sh nginx
+umountfs: dnsmasq isc-dhcp-server rpcbind hostapd dhcpcd triggerhappy unattended-upgrades umountnfs.sh plymouth alsa-utils lightdm networking urandom hwclock.sh avahi-daemon bluetooth nginx
+umountroot: umountfs fake-hwclock
+halt: umountroot
+reboot: umountroot

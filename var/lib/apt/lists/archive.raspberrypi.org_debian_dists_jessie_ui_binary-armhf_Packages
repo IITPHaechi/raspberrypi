@@ -1,0 +1,1316 @@
+Package: alacarte
+Version: 3.11.91-2+rpi1
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 1179
+Depends: python:any (>= 2.6.6-7~), gnome-menus (>= 3.5.3), python-gi (>= 3.0), gir1.2-gtk-3.0, gir1.2-gmenu-3.0 (>= 3.5.3), gir1.2-glib-2.0, gir1.2-gdkpixbuf-2.0
+Priority: optional
+Section: utils
+Filename: pool/ui/a/alacarte/alacarte_3.11.91-2+rpi1_all.deb
+Size: 110556
+SHA256: 076f3f46f7f05e1c90eb321ef4a2f5a2abcd3c6dac2f8a62a6989e62e2b90a7e
+SHA1: 701598ff9aa1a0296debb63e6efdda96fb30c512
+MD5sum: 33811d53f6bf248ae4ce0ec695fe15b2
+Description: easy GNOME menu editing tool
+ Alacarte is an easy-to-use menu editor for GNOME that can add
+ and edit new entries and menus. It works with the freedesktop.org
+ menu specification and should work with any desktop environment
+ that uses the spec.
+
+Package: dhcpcd5
+Version: 6.7.1-1+rpi3
+Architecture: armhf
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 334
+Depends: libc6 (>= 2.17)
+Recommends: openresolv | resolvconf
+Suggests: dhcpcd-gtk
+Conflicts: dhcpcd (<< 3.2.3-6), dhcpcd-sv
+Provides: dhcp-client
+Homepage: http://roy.marples.name/projects/dhcpcd
+Priority: optional
+Section: net
+Filename: pool/ui/d/dhcpcd5/dhcpcd5_6.7.1-1+rpi3_armhf.deb
+Size: 119156
+SHA256: c3266a20555000939d87832ef40eb1d8e86a7eb2698fbb3062a53432003a8aa5
+SHA1: d2de7656d748f7f7a840f9a0d81929c065056ebd
+MD5sum: aea6936163c9cf3b684eb19a88ae3ce9
+Description: DHCPv4, IPv6RA and DHCPv6 client with IPv4LL support
+ dhcpcd is a one stop network management daemon which includes
+  * RFC compliant DHCPv4 and DHCPv6 clients
+  * DHCPv6 Prefix Delegation support
+  * IPv4LL (aka ZeroConf) support
+  * ARP address conflict resolution
+  * Link carrier detection
+  * Wireless SSID profiles
+  * ARP ping profiles
+
+Package: fontconfig-infinality
+Version: 20130104-0ubuntu0ppa1+rpi
+Architecture: all
+Maintainer: Bob Chez <no1wantdthisname@gmail.com>
+Installed-Size: 331
+Multi-Arch: foreign
+Priority: optional
+Section: fonts
+Filename: pool/ui/f/fontconfig-infinality/fontconfig-infinality_20130104-0ubuntu0ppa1+rpi_all.deb
+Size: 32868
+SHA256: dbecefff830412ac8ec98c5744ef3ee270bef93954941ae3d4afebaa2340bff4
+SHA1: cafac167f8679f1c3846d8dbd27413fd73899798
+MD5sum: 164a2d1c8d0c31d010c4999b4f02598c
+Description: Packages up http://www.infinality.net/fedora/linux/zips/fontconfig-infinality-1-20130104_1.tar.bz2
+
+Package: fonts-droid
+Source: fonts-android
+Version: 1:4.4.4r2-6+rpi1
+Architecture: all
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Installed-Size: 15003
+Pre-Depends: dpkg (>= 1.15.7.2)
+Breaks: ttf-droid (<< 1:4.2~r1-1~)
+Replaces: ttf-droid (<< 1:4.2~r1-1~)
+Multi-Arch: foreign
+Homepage: https://android.googlesource.com/platform/frameworks/base/
+Priority: optional
+Section: fonts
+Filename: pool/ui/f/fonts-android/fonts-droid_4.4.4r2-6+rpi1_all.deb
+Size: 3727714
+SHA256: 84e3029190e64087993c61533fca3594ac2e8f2a2c9e23abbfb285a7569e58bd
+SHA1: b411c9b866ce524dcb1cb452d5895126d68364da
+MD5sum: 37e7295f641031973020024a6cbd72f3
+Description: handheld device font with extensive style and language support
+ The Droid family of fonts consists of Droid Sans (Regular and Bold),
+ Droid Sans Mono (Regular) and Droid Serif (Regular, Bold, Italic and
+ BoldItalic).
+ .
+ Each contains extensive character set coverage including
+ Western Europe, Eastern/Central Europe, Baltic, Cyrillic, Greek and
+ Turkish support. The Droid Sans regular font also includes support for
+ Arabic, Simplified and Traditional Chinese, Hebrew, Japanese, Korean and
+ Thai.
+ .
+ Droid was designed by Ascender's Steve Matteson and hinted to provide
+ optimal quality for screen text.
+
+Package: fonts-roboto
+Source: fonts-android
+Version: 1:4.4.4r2-6+rpi1
+Architecture: all
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Installed-Size: 1705
+Pre-Depends: dpkg (>= 1.15.6~)
+Multi-Arch: foreign
+Homepage: https://android.googlesource.com/platform/frameworks/base/
+Priority: optional
+Section: fonts
+Filename: pool/ui/f/fonts-android/fonts-roboto_4.4.4r2-6+rpi1_all.deb
+Size: 505352
+SHA256: 88b50fd936091601023b48d6bf22890571a4ef8975c195e141f8e7025b28b9c5
+SHA1: 99b5c8442cb4fc7c2c46800e4a08fa0fe81361b5
+MD5sum: abf46383ac8bba373d793b1b271b883f
+Description: sans-serif font family released with Android Ice Cream Sandwich
+ This package contains fonts released with Android Ice Cream Sandwich OS.
+ Google describes the font as "modern yet approachable and emotional". This
+ family includes regular and oblique styles of Thin, Light, Regular, Medium,
+ Bold, Black, and Condensed widths.
+
+Package: gir1.2-pango-1.0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 288
+Depends: gir1.2-freedesktop, gir1.2-glib-2.0, libgirepository-1.0-1 (>= 1.41.4-1), libpango-1.0-0 (>= 1.36.0), libpangocairo-1.0-0 (>= 1.22.0), libpangoft2-1.0-0 (>= 1.14.0), libpangoxft-1.0-0 (>= 1.14.0)
+Conflicts: gir1.0-pango-1.0
+Replaces: gir1.0-gtk-2.0 (<< 2.22), gir1.0-pango-1.0, gobject-introspection-repository
+Multi-Arch: same
+Priority: optional
+Section: introspection
+Filename: pool/ui/p/pango1.0/gir1.2-pango-1.0_1.36.8-3+rpi1_armhf.deb
+Size: 200642
+SHA256: 4421667d50f0b67d2d07b31250d26019c0808a2b845357c9ff14f1a4086c0519
+SHA1: f7332258e61d4cd8e11dcf36ccceb8c4d435e13c
+MD5sum: 851571856fbe769ab1c0585f21f5fcb9
+Description: Layout and rendering of internationalized text - gir bindings
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package can be used by other packages using the GIRepository format to
+ generate dynamic bindings.
+
+Package: gnome-panel-control
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: armhf
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 51
+Depends: libc6 (>= 2.4), libx11-6
+Breaks: openbox (<< 3.4.11.2)
+Replaces: openbox (<< 3.4.11.2)
+Homepage: http://www.openbox.org
+Priority: optional
+Section: x11
+Filename: pool/ui/o/openbox/gnome-panel-control_3.5.2-8+rpi2_armhf.deb
+Size: 43394
+SHA256: 7929f0454f7b7c7a7239a7339f032ae7729edc823131d04f98cae114d0c22b71
+SHA1: b749e4ad97d4bda2dc8325eb45d21d093a33ce37
+MD5sum: 2702ea8ce8175096331a0c5d549d949b
+Description: command line utility to invoke GNOME panel run dialog/menu
+ gnome-panel-control can be used to invoke the GNOME panel run or main
+ menu from the command line. This is originally a helper utility of openbox
+ since gnome-panel is no longer managing its own key bindings.
+
+Package: gtk2-engines-clearlookspix
+Version: 1:2.20.4
+Architecture: armhf
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 154
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.19.7-2), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0)
+Breaks: gnome-themes-extras (<< 2)
+Multi-Arch: same
+Priority: optional
+Section: gnome
+Filename: pool/ui/g/gtk2-engines-clearlookspix/gtk2-engines-clearlookspix_2.20.4_armhf.deb
+Size: 66826
+SHA256: 2ea96c1e6ee276e88fe43ba9f26d72be183654bc8bcd54bf46815a9e939ce5f7
+SHA1: bb0f0226f93b1fc2130763f444ddf6313d8ff8df
+MD5sum: ce95c021b941c10a0b68c20a9951eab2
+Description: clearlookspix theme for GTK+ 2.x
+ GTK+ is a multi-platform toolkit for creating graphical user
+ interfaces. Offering a complete set of widgets, GTK+ is suitable
+ for projects ranging from small one-off tools to complete application
+ suites.
+ .
+ This package contains the clearlookspix theme engine.
+
+Package: libobrender29
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: armhf
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 136
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.35.9), libice6 (>= 1:1.0.0), libimlib2 (>= 1.4.5), libobt2 (>= 3.5.2), libpango-1.0-0 (>= 1.18.0), libpangoft2-1.0-0 (>= 1.14.0), libpangoxft-1.0-0 (>= 1.14.0), librsvg2-2 (>= 2.14.4), libsm6, libx11-6, libxft2 (>> 2.1.1), libxml2 (>= 2.6.27)
+Conflicts: libobrender15, libobrender16
+Replaces: libobrender15, libobrender16
+Homepage: http://www.openbox.org
+Priority: optional
+Section: libs
+Filename: pool/ui/o/openbox/libobrender29_3.5.2-8+rpi2_armhf.deb
+Size: 69552
+SHA256: dfb56ce57099e0db48617bcf585f8e3d95e559a65ff3eb3d9b3551abc86b1771
+SHA1: c87e967396bf09b11f5fc62a51041253bca0772c
+MD5sum: 9bce249d051082005994df63c2e62a94
+Description: rendering library for openbox themes
+ Openbox works with your applications, and makes your desktop easier to manage.
+ This is because the approach to its development was the opposite of what seems
+ to be the general case for window managers. Openbox was written first to
+ comply with standards and to work properly. Only when that was in place did
+ the team turn to the visual interface.
+ .
+ Openbox is fully functional as a stand-alone working environment, or can be
+ used as a drop-in replacement for the default window manager in the GNOME or
+ KDE desktop environments.
+ .
+ Openbox 3 is a completely new breed of window manager. It is not based upon
+ any existing code base, although the visual appearance has been based upon
+ that of Blackbox. Openbox 2 was based on the Blackbox 0.65.0 codebase.
+ .
+ This package contains the libobrender library files used by openbox
+ for theme rendering.
+
+Package: libobt2
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: armhf
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 98
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.35.9), libice6 (>= 1:1.0.0), libsm6, libx11-6, libxext6, libxinerama1, libxml2 (>= 2.7.4), libxrandr2, libxrender1
+Conflicts: libobparser15, libobparser16
+Replaces: libobparser15, libobparser16
+Homepage: http://www.openbox.org
+Priority: optional
+Section: libs
+Filename: pool/ui/o/openbox/libobt2_3.5.2-8+rpi2_armhf.deb
+Size: 60494
+SHA256: 97c216d3a4946902e4fcf01e14c5945319b92a02f97bb30af9a0eb620d8c6d8d
+SHA1: 85b14c28574c5d3b762ac8075ec2f8cede170c19
+MD5sum: 39f1fa467b14c65d7e2d9ed14d08f346
+Description: parsing library for openbox
+ Openbox works with your applications, and makes your desktop easier to manage.
+ This is because the approach to its development was the opposite of what seems
+ to be the general case for window managers. Openbox was written first to
+ comply with standards and to work properly. Only when that was in place did
+ the team turn to the visual interface.
+ .
+ Openbox is fully functional as a stand-alone working environment, or can be
+ used as a drop-in replacement for the default window manager in the GNOME or
+ KDE desktop environments.
+ .
+ Openbox 3 is a completely new breed of window manager. It is not based upon
+ any existing code base, although the visual appearance has been based upon
+ that of Blackbox. Openbox 2 was based on the Blackbox 0.65.0 codebase.
+ .
+ This package contains the libobt library files used by openbox
+ to load and parse configuration and theme files of openbox.
+
+Package: libpango-1.0-0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 492
+Pre-Depends: multiarch-support
+Depends: fontconfig (>= 2.1.91), libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libthai0 (>= 0.1.12)
+Breaks: libpango1.0-0 (<< 1.32.5-2), plymouth (<< 0.8.3-19)
+Replaces: libpango1.0-0 (<< 1.32.5-2)
+Provides: pango1.0-multiarch-modver-1.8.0
+Multi-Arch: same
+Priority: optional
+Section: libs
+Filename: pool/ui/p/pango1.0/libpango-1.0-0_1.36.8-3+rpi1_armhf.deb
+Size: 274198
+SHA256: 984b4ecbb32c2ee48678e2339f0a3b1da2f624f262f8ba2947ae4eae631bb840
+SHA1: c48867f8eeb6aa38f04a8c173c1d6f24e2f63017
+MD5sum: 5f60cb4e0a2ae43437efb23e39710c56
+Description: Layout and rendering of internationalized text
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the shared libraries.
+
+Package: libpango1.0-0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 205
+Depends: libpango-1.0-0 (= 1.36.8-3+rpi1), libpangocairo-1.0-0 (= 1.36.8-3+rpi1), libpangoft2-1.0-0 (= 1.36.8-3+rpi1), libpangox-1.0-0 (>= 0.0.2-2~), libpangoxft-1.0-0 (= 1.36.8-3+rpi1)
+Provides: pango1.0-multiarch-modver-1.8.0
+Multi-Arch: same
+Priority: extra
+Section: oldlibs
+Filename: pool/ui/p/pango1.0/libpango1.0-0_1.36.8-3+rpi1_armhf.deb
+Size: 183194
+SHA256: ad48bc1d96f4dd4d7ea6ac993c49ad0a4cc19f910448a2b6b5efcfa9148c9830
+SHA1: 3291f648e8a7e92617f3b17bbfee9b67df7962ee
+MD5sum: c9e893c5c4a375b97ba413fd635243e3
+Description: Layout and rendering of internationalized text
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This is a transitional package.
+
+Package: libpango1.0-0-dbg
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 1802
+Depends: libpango-1.0-0 (= 1.36.8-3+rpi1) | libpangocairo-1.0-0 (= 1.36.8-3+rpi1) | libpangoft2-1.0-0 (= 1.36.8-3+rpi1) | libpangoxft-1.0-0 (= 1.36.8-3+rpi1)
+Priority: extra
+Section: debug
+Filename: pool/ui/p/pango1.0/libpango1.0-0-dbg_1.36.8-3+rpi1_armhf.deb
+Size: 659280
+SHA256: 8e001e5eecf309bb93350c42178de8af7d1233d29d29db35c9c905caf34e084a
+SHA1: 0129f3764ea13d289868800bef23c9c42bcf05c6
+MD5sum: 5281db4d443f2e1266cba0cefd36add5
+Description: Pango library and debugging symbols
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the debugging symbols. Most people will not need this
+ package.
+
+Package: libpango1.0-dev
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 1763
+Depends: gir1.2-pango-1.0 (= 1.36.8-3+rpi1), libcairo2-dev (>= 1.12.10), libfontconfig1-dev (>= 2.10.91), libfreetype6-dev, libglib2.0-dev (>= 2.34.0), libharfbuzz-dev (>= 0.9.9), libpango-1.0-0 (= 1.36.8-3+rpi1), libpangocairo-1.0-0 (= 1.36.8-3+rpi1), libpangoft2-1.0-0 (= 1.36.8-3+rpi1), libpangoxft-1.0-0 (= 1.36.8-3+rpi1), libx11-dev, libxft-dev, libxrender-dev, pkg-config, libc6 (>= 2.7), libcairo2 (>= 1.12.10), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.34.0), libx11-6, libxft2 (>> 2.1.1), libxrender1
+Recommends: debhelper
+Suggests: imagemagick, libpango1.0-doc
+Replaces: gir-repository-dev, gobject-introspection-repository
+Priority: optional
+Section: libdevel
+Filename: pool/ui/p/pango1.0/libpango1.0-dev_1.36.8-3+rpi1_armhf.deb
+Size: 440330
+SHA256: 699bd0289135ef86aae8eaf8e78ed381c56210ac3ab70c2755202943d157640a
+SHA1: 485d8566ff109bccc45c705d80fc661b732a51ce
+MD5sum: 9dd4174d513df6e1f439ea31438d7626
+Description: Development files for the Pango
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the header files and some files needed for development
+ with Pango.
+
+Package: libpango1.0-doc
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 2448
+Depends: lynx | www-browser
+Recommends: libglib2.0-doc
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Filename: pool/ui/p/pango1.0/libpango1.0-doc_1.36.8-3+rpi1_all.deb
+Size: 370284
+SHA256: bc102f4a9c546ce0b1c619820e36dbe3c988aca095a00743b747df1b146c6b5e
+SHA1: 48e6940ea44f548cc466d175963ff4f0930960cd
+MD5sum: fc517cfefc5529e58ca5ab635d7ff077
+Description: Documentation files for the Pango
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the HTML documentation for the Pango in
+ /usr/share/doc/libpango1.0-doc/ .
+
+Package: libpangocairo-1.0-0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 253
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.12.10), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.37.3), libpango-1.0-0 (>= 1.32.4), libpangoft2-1.0-0 (>= 1.28.1)
+Breaks: libpango1.0-0 (<< 1.32.5-2)
+Replaces: libpango1.0-0 (<< 1.32.5-2)
+Multi-Arch: same
+Priority: optional
+Section: libs
+Filename: pool/ui/p/pango1.0/libpangocairo-1.0-0_1.36.8-3+rpi1_armhf.deb
+Size: 197344
+SHA256: d73506e3c11e17c97c78378e3755cc4ca1f747a221840b06f6f976ef860a5425
+SHA1: 5423059e1e79ced7bf76d48f6e4e91711d42210b
+MD5sum: 074d711d7ac6877227819872c1d5026d
+Description: Layout and rendering of internationalized text
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the shared libraries.
+
+Package: libpangoft2-1.0-0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 284
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.37.3), libharfbuzz0b (>= 0.9.9), libpango-1.0-0 (>= 1.36.0)
+Breaks: libpango1.0-0 (<< 1.32.5-2)
+Replaces: libpango1.0-0 (<< 1.32.5-2)
+Multi-Arch: same
+Priority: optional
+Section: libs
+Filename: pool/ui/p/pango1.0/libpangoft2-1.0-0_1.36.8-3+rpi1_armhf.deb
+Size: 207612
+SHA256: d587a778eeb243364c3e7f10ded7158b75051aad6d14811b14c571d416699570
+SHA1: 5371f5db38e863acce9316125bb05b8bd5cbd1b2
+MD5sum: 43bd726ed8f3f958bcc090586f9d6d13
+Description: Layout and rendering of internationalized text
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the shared libraries.
+
+Package: libpangoxft-1.0-0
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 240
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.37.3), libpango-1.0-0 (>= 1.22.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6, libxft2 (>> 2.1.1), libxrender1
+Breaks: libpango1.0-0 (<< 1.32.5-2)
+Replaces: libpango1.0-0 (<< 1.32.5-2)
+Multi-Arch: same
+Priority: optional
+Section: libs
+Filename: pool/ui/p/pango1.0/libpangoxft-1.0-0_1.36.8-3+rpi1_armhf.deb
+Size: 192826
+SHA256: bd551efd4c551436edbd8fd4f395869ecbb4b2bc1b62521ed3990a4866e21edb
+SHA1: 3bdeca6293d1764153bfdee2892838b61c4b16cd
+MD5sum: 9b3a70955f4406d0540f1f1b4a1dc79f
+Description: Layout and rendering of internationalized text
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains the shared libraries.
+
+Package: libplymouth-dev
+Source: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 437
+Depends: libplymouth4 (= 0.9.2-3+rpi1)
+Breaks: plymouth-dev (<< 0.9.2-1~)
+Replaces: plymouth-dev (<< 0.9.2-1~)
+Multi-Arch: same
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: optional
+Section: libdevel
+Filename: pool/ui/p/plymouth/libplymouth-dev_0.9.2-3+rpi1_armhf.deb
+Size: 93846
+SHA256: ff1deaf8f608faace779ccab75cbd5cf549e53ee402938f8e0135e939992086c
+SHA1: 3bbe4ebdb3d0582fb082d39b973d59065b59ca44
+MD5sum: d9af6cfd5674bfce1d5e77fe6d74e657
+Description: graphical boot animation and logger - development files
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the development files to build Plymouth plugins.
+
+Package: libplymouth4
+Source: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 239
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.9), libpng12-0 (>= 1.2.13-4), libudev1 (>= 183)
+Breaks: plymouth (<< 0.9.2-1~)
+Replaces: plymouth (<< 0.9.2-1~)
+Multi-Arch: same
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: optional
+Section: libs
+Filename: pool/ui/p/plymouth/libplymouth4_0.9.2-3+rpi1_armhf.deb
+Size: 80240
+SHA256: 8d54f99f7a762cbce98b792f1cf469a2249f6b5bc60c0a9d8e5ddc058844b3d0
+SHA1: 2be57dbaf3b53a10b7009386490621459c3b71ef
+MD5sum: 5a2367ef33d2ad1a777121d2318fe497
+Description: graphical boot animation and logger - shared libraries
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the shared libraries.
+
+Package: lxinput
+Version: 0.3.4-1+rpi6
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 787
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.18.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6
+Suggests: lxsession
+Homepage: http://www.lxde.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/l/lxinput/lxinput_0.3.4-1+rpi6_armhf.deb
+Size: 57836
+SHA256: b89b94a59426ab4190195b434d152936cad949cd667c4c7ea2f620662e434674
+SHA1: b5f4ae5b6e5a28b3d1688cb2e5ac395906a0bd81
+MD5sum: ed9f8f5dafbc6d00b9e96bd462481165
+Description: LXDE keyboard and mouse configuration
+ LXInput is a GUI application for the Lightweight X11 Desktop Environment
+ (LXDE).
+ .
+ It configures keyboard and mouse settings:
+ .
+  * Delay and Interval for character repeat
+  * Enable/Disable beeps of keyboard input error
+  * Swap left and right mouse buttons
+  * Mouse acceleration and sensitivity
+
+Package: lxinput-dbg
+Source: lxinput
+Version: 0.3.4-1+rpi6
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 73
+Depends: lxinput (= 0.3.4-1+rpi6)
+Homepage: http://www.lxde.org/
+Priority: extra
+Section: debug
+Filename: pool/ui/l/lxinput/lxinput-dbg_0.3.4-1+rpi6_armhf.deb
+Size: 26030
+SHA256: d73af4030d9007b4edd25ac6a898e227113cbca0e1c977e0d685bbe6930cb1cb
+SHA1: 16e5ab916eefcd5594b58b0bae148c1d2bc55d04
+MD5sum: 252480a8a333df31ef501ccd68ee3677
+Description: LXDE keyboard and mouse configuration (debug)
+ LXInput is a GUI application for the Lightweight X11 Desktop Environment
+ (LXDE).
+ .
+ This package contains the debugging symbols.
+
+Package: lxkeymap
+Version: 0.8.0~bzr25-1+rpi3
+Architecture: all
+Maintainer: Julien Lavergne <gilir@ubuntu.com>
+Installed-Size: 337
+Depends: python (>= 2.7), python (<< 2.8), python-gtk2, python-xklavier, python-dbus
+Homepage: https://launchpad.net/lxkeymap
+Priority: extra
+Section: python
+Filename: pool/ui/l/lxkeymap/lxkeymap_0.8.0~bzr25-1+rpi3_all.deb
+Size: 120818
+SHA256: 00245b91c2bed958d714fd8efad24c7ee12c6f379b16c6b3b0ec093fb6e3594b
+SHA1: e4589bf80cd4df0d1ec9dc5b4661166901e6b534
+MD5sum: 8a2c19e5e0d28490ccbdf4e7f75bc752
+Description: Application that allows to easily switch between keyboard layouts
+ LXKeymap is an application that allows you to easily switch between
+ keyboard layouts. It contains an easy mode showing the keyboard layouts.
+
+Package: lxpanel
+Version: 0.7.2-1+rpi12
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 662
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.8), libcairo2 (>= 1.2.4), libfm-gtk4 (>= 1.2.0), libfm4 (>= 1.2.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgstreamer-plugins-base0.10-0 (>= 0.10.2), libgstreamer0.10-0 (>= 0.10.0), libgtk2.0-0 (>= 2.24.0), libiw30 (>= 30~pre1), libmenu-cache3 (>= 0.5.0), libpango-1.0-0 (>= 1.14.0), libwnck22 (>= 2.30.0-3), libx11-6, libxml2 (>= 2.7.4), lxmenu-data, lxpanel-data (= 0.7.2-1+rpi12), libfm-modules, gstreamer0.10-alsa
+Recommends: xkb-data, pulseaudio-module-bluetooth, pi-bluetooth, rfkill
+Suggests: lxsession | menu, iceweasel | www-browser
+Homepage: http://www.lxde.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/l/lxpanel/lxpanel_0.7.2-1+rpi12_armhf.deb
+Size: 208308
+SHA256: 1c55cb74ef9a833cea565091af8f5e244aa3291904d007b423584a9f3e19ee06
+SHA1: 15121649d025f274cc50c48b2ecadffe3a1d60e8
+MD5sum: e0d122e38fa599e2a68b58e583a7bdd6
+Description: LXDE panel
+ LXPanel is a GUI application for the Lightweight X11 Desktop Environment
+ (LXDE).
+ .
+ It is derived from fbpanel and includes the following features:
+ .
+  * User-friendly application menu automatically generated from .desktop
+    files on the system
+  * Launcher bar (small icons clicked to launch apps)
+  * Task bar supporting ICCCM/EWMH `urgency' hint (Pidgin IM windows
+    can flash on new incoming messages)
+  * Run dialog (type a command to run, without opening a terminal)
+  * Net status icon plug-in (optional).
+  * Volume control plug-in (optional).
+  * Notification area (system tray).
+  * Digital clock.
+  * Keyboard LEDs plug-in (display caps/num locks).
+  * lxpanelctl: control lxpanel from other programs.
+    For example, "lxpanelctl run" will show the Run dialog in lxpanel,
+    and "lxpanelctl menu" will show the application menu. This is
+    useful in combination with window manager key bindings.
+
+Package: lxpanel-data
+Source: lxpanel
+Version: 0.7.2-1+rpi12
+Architecture: all
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 2450
+Breaks: lxpanel (<< 0.7.0)
+Replaces: lxpanel (<< 0.7.0)
+Homepage: http://www.lxde.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/l/lxpanel/lxpanel-data_0.7.2-1+rpi12_all.deb
+Size: 1083326
+SHA256: 38b29aa16c250e3d4a0bb883d3129fddb7f1a841a2290c812d7882786a8f5711
+SHA1: 9b6d2aaddee694715023ae9e1a6ea44c956289f5
+MD5sum: f8e47f1e03229a8561ed091926835bc3
+Description: LXDE panel (data files)
+ LXPanel is a GUI application for the Lightweight X11 Desktop Environment
+ (LXDE).
+ .
+ This package contains the data required for panel.
+
+Package: lxpanel-dbg
+Source: lxpanel
+Version: 0.7.2-1+rpi12
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 1162
+Depends: lxpanel (= 0.7.2-1+rpi12)
+Homepage: http://www.lxde.org/
+Priority: extra
+Section: debug
+Filename: pool/ui/l/lxpanel/lxpanel-dbg_0.7.2-1+rpi12_armhf.deb
+Size: 984878
+SHA256: b9056a06eb899ae71b1b4f1fb1614616455ffbd7a8577be59997d6a5bcbe4845
+SHA1: 9789c00eff07009ff640c5a0e9f943cc91ed4797
+MD5sum: 1dfad1b39726cd7f5a2b7a1f636e2872
+Description: LXDE panel (debug)
+ LXPanel is a GUI application for the Lightweight X11 Desktop Environment
+ (LXDE).
+ .
+ This package contains the debugging symbols.
+
+Package: lxterminal
+Version: 0.2.0-1+rpi1
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 397
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libvte9 (>= 1:0.28.0), libx11-6, libxext6
+Provides: x-terminal-emulator
+Homepage: http://www.lxde.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/l/lxterminal/lxterminal_0.2.0-1+rpi1_armhf.deb
+Size: 90980
+SHA256: 2729b28e10aae0d59b742a891acdbfdbda7bf735d8cae95427b93b30fc82acdb
+SHA1: a1e462d0b68a5b0042c96014c392559ca0830acf
+MD5sum: a187c2dbb55a1b068f88d75963e139f4
+Description: LXDE terminal emulator
+ LXTerminal is a VTE-based terminal emulator for the Lightweight X11 Desktop
+ Environment (LXDE).
+ .
+ It supports multiple tabs and has only minimal dependencies thus being
+ completely desktop-independent. In order to reduce memory usage and increase
+ the performance, all instances of the terminal are sharing a single process.
+
+Package: lxterminal-dbg
+Source: lxterminal
+Version: 0.2.0-1+rpi1
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 89
+Depends: lxterminal (= 0.2.0-1+rpi1)
+Homepage: http://www.lxde.org/
+Priority: extra
+Section: debug
+Filename: pool/ui/l/lxterminal/lxterminal-dbg_0.2.0-1+rpi1_armhf.deb
+Size: 75030
+SHA256: 05c2eda72a2a46d0f8b9b116ac0bb7d4da9882700b7764dbc06fcd71aadddbba
+SHA1: 0d69ce338b10c1a4e7466ae3eda8c30bc001df56
+MD5sum: ff8da7fa7151503ceec7d18b232fdebe
+Description: LXDE terminal emulator (debug)
+ LXTerminal is a VTE-based terminal emulator for the Lightweight X11 Desktop
+ Environment (LXDE).
+ .
+ This package contains the debugging symbols.
+
+Package: openbox
+Version: 3.5.2-8+rpi2
+Architecture: armhf
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 918
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.35.9), libice6 (>= 1:1.0.0), libobrender29 (>= 3.5.2), libobt2 (>= 3.5.2), libsm6, libstartup-notification0 (>= 0.7), libx11-6, libxau6, libxcursor1 (>> 1.1.2), libxext6, libxi6 (>= 2:1.2.99.4), libxinerama1, libxrandr2
+Recommends: obconf, python-xdg, scrot
+Suggests: menu, fonts-dejavu, python, libxml2-dev, tint2, openbox-menu, openbox-gnome-session (= 3.5.2-8+rpi2), openbox-kde-session (= 3.5.2-8+rpi2)
+Breaks: menu (<< 2.1.12)
+Provides: x-session-manager, x-window-manager
+Homepage: http://www.openbox.org
+Priority: optional
+Section: x11
+Filename: pool/ui/o/openbox/openbox_3.5.2-8+rpi2_armhf.deb
+Size: 276486
+SHA256: 7ffe857e4f7c589aa01303640b50c643ed285ab8801554085b09625b126d4453
+SHA1: fff4a62f3bdb2fdfd90ddcb19e7a3fe90921cbc0
+MD5sum: 08c54d457339fbb66d8cfc6564642838
+Description: standards-compliant, fast, light-weight and extensible window manager
+ Openbox works with your applications, and makes your desktop easier to manage.
+ This is because the approach to its development was the opposite of what seems
+ to be the general case for window managers. Openbox was written first to
+ comply with standards and to work properly. Only when that was in place did
+ the team turn to the visual interface.
+ .
+ Openbox is fully functional as a stand-alone working environment, or can be
+ used as a drop-in replacement for the default window manager in the GNOME or
+ KDE desktop environments.
+ .
+ Openbox 3 is a completely new breed of window manager. It is not based upon
+ any existing code base, although the visual appearance has been based upon
+ that of Blackbox. Openbox 2 was based on the Blackbox 0.65.0 codebase.
+ .
+ Some of the things to look for in Openbox are:
+ .
+  * ICCCM and EWMH compliance!
+  * Very fast
+  * Chainable key bindings
+  * Customizable mouse actions
+  * Window resistance
+  * Multi-head Xinerama support!
+  * Pipe menus
+
+Package: openbox-dev
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: armhf
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 300
+Depends: libobrender29 (= 3.5.2-8+rpi2), libobt2 (= 3.5.2-8+rpi2), libxml2-dev, libglib2.0-dev, libpango1.0-dev, libimlib2-dev, librsvg2-dev
+Homepage: http://www.openbox.org
+Priority: optional
+Section: libdevel
+Filename: pool/ui/o/openbox/openbox-dev_3.5.2-8+rpi2_armhf.deb
+Size: 104560
+SHA256: 1f3042ae3136a623b42101ea738613b824b3ae821a156ec6c6ee8f3ee387906c
+SHA1: aa85803890073012747914ed2b8b3f1005556cf6
+MD5sum: 4daa9f7abc9240dab9a433e295c56ceb
+Description: development files for the openbox window manager
+ Openbox works with your applications, and makes your desktop easier to manage.
+ This is because the approach to its development was the opposite of what seems
+ to be the general case for window managers. Openbox was written first to
+ comply with standards and to work properly. Only when that was in place did
+ the team turn to the visual interface.
+ .
+ Openbox is fully functional as a stand-alone working environment, or can be
+ used as a drop-in replacement for the default window manager in the GNOME or
+ KDE desktop environments.
+ .
+ Openbox 3 is a completely new breed of window manager. It is not based upon
+ any existing code base, although the visual appearance has been based upon
+ that of Blackbox. Openbox 2 was based on the Blackbox 0.65.0 codebase.
+ .
+ This package contains the development headers for building openbox stuff.
+
+Package: openbox-gnome-session
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: all
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 43
+Depends: openbox (>= 3.5.2-8+rpi2), gnome-session-bin, gconf2, x11-utils
+Enhances: gnome-session
+Breaks: openbox (<< 3.5.2-5)
+Replaces: openbox (<< 3.5.2-5)
+Homepage: http://www.openbox.org
+Priority: optional
+Section: x11
+Filename: pool/ui/o/openbox/openbox-gnome-session_3.5.2-8+rpi2_all.deb
+Size: 40198
+SHA256: 77a592994608b7141863df92324518348b6bc2d4ea1aa305abbb0300b24215a4
+SHA1: 526d256273203a4016b1b5404ba46e5041deaca8
+MD5sum: cfa608bea3cee233e928f746fe5760b2
+Description: command line utility to run Openbox as GNOME session
+ openbox-gnome-session can provide GNOME session with openbox as
+ a default window manager. It can replace the original window manager
+ in GNOME Shell and GNOME Fallback sessions.
+
+Package: openbox-kde-session
+Source: openbox
+Version: 3.5.2-8+rpi2
+Architecture: all
+Maintainer: Mateusz Łukasik <mati75@linuxmint.pl>
+Installed-Size: 40
+Depends: openbox (>= 3.5.2-8+rpi2), kde-workspace-bin, x11-utils
+Enhances: kde-workspace
+Breaks: openbox (<< 3.5.2-5)
+Replaces: openbox (<< 3.5.2-5)
+Homepage: http://www.openbox.org
+Priority: optional
+Section: x11
+Filename: pool/ui/o/openbox/openbox-kde-session_3.5.2-8+rpi2_all.deb
+Size: 39172
+SHA256: 18adb23666c39fe1753d626c7611cb7d2b06506035e3df3a28bc9b953011ae93
+SHA1: fbfb72de380db359009b6737530f837da2d3cc2a
+MD5sum: b94b600fdd5994b14b5dce824402ac5d
+Description: command line utility to run Openbox as KDE SC session
+ openbox-kde-session can provide KDE SC session with openbox as
+ a default window manager. Can replace the original window manager
+ called KWin.
+
+Package: pango1.0-tests
+Source: pango1.0
+Version: 1.36.8-3+rpi1
+Architecture: armhf
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 846
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.12.10), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.37.2), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.22.0), libpangoft2-1.0-0 (>= 1.18.0), libstdc++6 (>= 4.1.1), fonts-cantarell
+Priority: optional
+Section: libs
+Filename: pool/ui/p/pango1.0/pango1.0-tests_1.36.8-3+rpi1_armhf.deb
+Size: 257858
+SHA256: 19d3a756bd3ea3afb565160e12e034b96ab969469c2e3d61904bd91c863f2083
+SHA1: c6ca93367cabb7151aa7df92f462bc5fe2b00a97
+MD5sum: 49cea6542b439c1c028b27da7a293e0e
+Description: Layout and rendering of internationalized text - installed tests
+ Pango is a library for layout and rendering of text, with an emphasis
+ on internationalization. Pango can be used anywhere that text layout is
+ needed. however, most of the work on Pango-1.0 was done using the GTK+
+ widget toolkit as a test platform. Pango forms the core of text and
+ font handling for GTK+-2.0.
+ .
+ Pango is designed to be modular; the core Pango layout can be used with
+ four different font backends:
+  - Core X windowing system fonts
+  - Client-side fonts on X using the Xft library
+  - Direct rendering of scalable fonts using the FreeType library
+  - Native fonts on Microsoft backends
+ .
+ This package contains test programs, designed to be run as part of a
+ regression testsuite.
+
+Package: pcmanfm
+Version: 1.2.3-1.1+rpi5
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 1231
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfm-gtk4 (>= 1.2.0), libfm4 (>= 1.2.0), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.20.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6
+Recommends: gvfs-backends, gvfs-fuse, policykit-1-gnome | mate-polkit | lxpolkit (<< 0.4.9), lxde-icon-theme | gnome-icon-theme | oxygen-icon-theme | tango-icon-theme
+Homepage: http://pcmanfm.sourceforge.net/
+Priority: optional
+Section: utils
+Filename: pool/ui/p/pcmanfm/pcmanfm_1.2.3-1.1+rpi5_armhf.deb
+Size: 255420
+SHA256: b406218aed3c8815e58a9ad3bd215ea64e1bf9cc8e3350ab2e314bc8efe2a09f
+SHA1: 7fb6683ed719faa9f2f14bab11d019dfb893b15e
+MD5sum: 9f0c8e27b2c98ff439f6fa71ce13c26f
+Description: extremely fast and lightweight file manager
+ PCMan File Manager is a GTK+ based file manager, featuring:
+ .
+  * Extremly fast and lightweight
+  * Can be started in one second on normal machine
+  * Tabbed browsing (similar to Firefox)
+  * Drag & Drop support
+  * Files can be dragged among tabs
+  * Load large directories in reasonable time
+  * File association support (Default application)
+  * Basic thumbnail support
+  * Bookmarks support
+  * Handles non-UTF-8 encoded filenames correctly
+  * Provide icon view and detailed list view
+  * Standard compliant (Follows FreeDesktop.org)
+  * Clean and user-friendly interface (GTK+ 2)
+  * Support GVFS for auto-mount handling on removable devices
+
+Package: pcmanfm-dbg
+Source: pcmanfm
+Version: 1.2.3-1.1+rpi5
+Architecture: armhf
+Maintainer: Debian LXDE Maintainers <lxde-debian@lists.lxde.org>
+Installed-Size: 341
+Pre-Depends: dpkg (>= 1.17.13)
+Depends: pcmanfm (= 1.2.3-1.1+rpi5)
+Homepage: http://pcmanfm.sourceforge.net/
+Priority: extra
+Section: debug
+Filename: pool/ui/p/pcmanfm/pcmanfm-dbg_1.2.3-1.1+rpi5_armhf.deb
+Size: 295936
+SHA256: 3283a8d72ee27d6fd82a28c4a721ce1f2fa9bf21e37b5675c3fabea76c3bacfb
+SHA1: 557eb684ccb48ea90849b7f84df109c2a974f103
+MD5sum: fd6f31c7e099ccb688ec0c9a1e644fe7
+Description: extremely fast and lightweight file manager (debug)
+ PCMan File Manager is a GTK+ based file manager. It is a primary file
+ manager for the LXDE but can be used in any other desktop environment.
+ .
+ This package contains the debugging symbols.
+
+Package: pi-greeter
+Version: 0.1-2
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 178
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.30.0), libgtk2.0-0 (>= 2.24.0), liblightdm-gobject-1-0 (>= 1.8.7), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6
+Recommends: desktop-base, gnome-themes-standard, gnome-icon-theme-symbolic, policykit-1
+Homepage: http://raspberrypi.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/p/pi-greeter/pi-greeter_0.1-2_armhf.deb
+Size: 41160
+SHA256: d33bd267f6987869f0e2d73527bebf83ea4e96bcb3184123d619a757eb1eb356
+SHA1: bca6a7fa2bb26c55a56b2a0e5b0b9e2d373df2c9
+MD5sum: 54124f0d25e0988eef7dfdd8662ca52f
+Description: GTK greeter for Raspberry Pi
+ A simple GTK-based greeter for the Raspbian LXDE desktop.
+
+Package: piclone
+Version: 0.3
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 42
+Depends: libc6 (>= 2.7), libglib2.0-0 (>= 2.31.8), libgtk2.0-0 (>= 2.24.0), parted, dosfstools, e2fsprogs, coreutils, mount
+Priority: optional
+Section: utils
+Filename: pool/ui/p/piclone/piclone_0.3_armhf.deb
+Size: 12878
+SHA256: 1fa06658c76b841cc50ede80950188ae10f995dccd24a68b74304773c413bb80
+SHA1: e0da2e73ed69eaa6bf23f1e69f68f7c1831891eb
+MD5sum: 52228711b8d63b2d0f3589ae5c9417a3
+Description: SD Card backup program for Raspberry Pi
+ This is a GTK application to copy the contents of SD cards and other USB
+ drives. It mirrors the partition layout of the source device onto the
+ target device, with the exception of the last partition, which is created
+ to be the largest which will fit onto the target device.
+ Files are then copied between all partitions - the result should be a
+ bootable card with an image of the source device.
+
+Package: pimixer
+Version: 0.20160527~090638-1
+Architecture: armhf
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 975
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.35.9), libgstreamer-plugins-base0.10-0 (>= 0.10.14), libgstreamer0.10-0 (>= 0.10.0), libgtk2.0-0 (>= 2.14.0), libxfce4util6 (>= 4.9.0), libxfconf-0-2 (>= 4.6.0), gstreamer0.10-alsa | gstreamer0.10-audiosink, gstreamer0.10-plugins-base
+Breaks: xfce4-mixer (= 4.8.0-3+rpi2)
+Replaces: xfce4-mixer (= 4.8.0-3+rpi2), xfce4-mixer-alsa, xfce4-mixer-oss
+Homepage: http://raspberrypi.org
+Priority: optional
+Section: utils
+Filename: pool/ui/p/pimixer/pimixer_0.20160527~090638-1_armhf.deb
+Size: 187790
+SHA256: f98a42327ef5104e747b5223e32d0fea09b2e016708a118c2c7814ec0c73bf79
+SHA1: 7e36ef08834d2b04f5e3257167ce44ca139133bb
+MD5sum: 5cb044b8a406defb160fd14a69ed0f75
+Description: Fork of Xfce mixer application for the Raspberry Pi
+ This is the frontend for mixer settings delivered together
+ with the Raspberry Pi desktop environment.
+ .
+ It uses GStreamer as a backend.
+
+Package: pipanel
+Version: 20160719~175800
+Architecture: armhf
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 66
+Depends: libc6 (>= 2.7), libglib2.0-0 (>= 2.35.9), libgtk2.0-0 (>= 2.12.0), libxml2 (>= 2.7.4), openbox, lxsession
+Homepage: https://www.raspberrypi.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/p/pipanel/pipanel_20160719~175800_armhf.deb
+Size: 12992
+SHA256: 21cd596b1c5b07507c9e4375449008926204ac526b35830f79158865595ca5b0
+SHA1: b23c96f21cf2787de98bb6a95ad263743ae1fd0d
+MD5sum: 54fc80ccf2f720aad93f6952ba413fca
+Description: Settings panel for Raspberry Pi desktop appearance
+ pipanel is an application which allows the configuration of the LX Desktop
+ user interface from one convenient dialog.
+
+Package: pishutdown
+Version: 0.4
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 15
+Depends: libc6 (>= 2.7), libgdk-pixbuf2.0-0 (>= 2.22.0), libgtk2.0-0 (>= 2.8.0)
+Homepage: http://github.com/raspberrypi/pishutdown
+Priority: optional
+Section: utils
+Filename: pool/ui/p/pishutdown/pishutdown_0.4_armhf.deb
+Size: 5840
+SHA256: 4e247cc8a1096abe88a10293e0358eae98766fe9edffe58c11a9ba016a624a8b
+SHA1: 489e7c3957fcb04e98d2adeaaa732364881ca12e
+MD5sum: 6906ff2f415fc03f8013a1a0fcf457af
+Description: Desktop shutdown helper for Raspberry Pi
+ Small application offering shutdown / reboot / logout options, run from the
+ shutdown option on the main menu.
+
+Package: pix-icons
+Version: 0.1-1
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 819
+Homepage: http://raspberrypi.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/p/pix-icons/pix-icons_0.1-1_armhf.deb
+Size: 263822
+SHA256: f635d72610b16340f4e7ee28f457dd116accab01c70cc56430027545c26ec34d
+SHA1: 82fc1c19d6dc8b9f744b31d05cbcfe02f8e6441b
+MD5sum: c0abd31a4676f78b0282b5dd3637ae63
+Description: Icons for PIXEL
+ Custom icon set for the PIXEL desktop environment.
+
+Package: pix-plym-splash
+Version: 0.1-1
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 3094
+Depends: plymouth (>= 0.9.2), plymouth-themes (>= 0.9.2)
+Homepage: http://raspberrypi.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/p/pix-plym-splash/pix-plym-splash_0.1-1_armhf.deb
+Size: 21476
+SHA256: bf7692b47fbe17a02f2a162434c7a2599f46549e52e38297a9ebcb7aee5137cb
+SHA1: 23991b3a3f869af13834c8c6c168a03f95cac375
+MD5sum: d91ac6487b0bb0e691617688b165b85d
+Description: PIXEL splashscreen
+ Plymouth theme with PIXEL splashscreen
+
+Package: pixel-wallpaper
+Version: 0.1-1
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 27417
+Homepage: http://raspberrypi.org/
+Priority: optional
+Section: x11
+Filename: pool/ui/p/pixel-wallpaper/pixel-wallpaper_0.1-1_armhf.deb
+Size: 27574804
+SHA256: cf1723929de1d062ed26ce1fc3c5f9f2d77f2ff252210b84a581ee12acc0409f
+SHA1: fe175b4edd8054b41a19a6e684f842a3508b08d8
+MD5sum: b519ac8c9c5e1918c0ed649f78d1650c
+Description: Wallpaper for PIXEL
+ Custom wallpaper graphic files for PIXEL desktop environment.
+
+Package: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 304
+Depends: libc6 (>= 2.10), libdrm2 (>= 2.4.25), libplymouth4 (>= 0.9.2), initramfs-tools | dracut, init-system-helpers (>= 1.18)
+Suggests: desktop-base, plymouth-themes
+Conflicts: console-common
+Breaks: plymouth-drm (<< 0.9.0-6~), plymouth-themes (<< 0.9.0-8~)
+Replaces: plymouth-drm (<< 0.9.0-6~), plymouth-themes (<< 0.9.0-8~)
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: optional
+Section: misc
+Filename: pool/ui/p/plymouth/plymouth_0.9.2-3+rpi1_armhf.deb
+Size: 103756
+SHA256: 44872551a88b5f3bd32555422a81b05a494d15f89f8ab710c9b7060a0a4d0b67
+SHA1: 996d44d3e8163fe692d4a9f6546d869559e0b9ba
+MD5sum: dc58d85e825a845bee2231b19f68704b
+Description: boot animation, logger and I/O multiplexer
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package provides the basic framework, enabling a text-mode animation.
+
+Package: plymouth-dbg
+Source: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 733
+Depends: plymouth (= 0.9.2-3+rpi1), libplymouth4 (= 0.9.2-3+rpi1), plymouth-x11 (= 0.9.2-3+rpi1), libplymouth-dev (= 0.9.2-3+rpi1), plymouth-themes (= 0.9.2-3+rpi1)
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: extra
+Section: debug
+Filename: pool/ui/p/plymouth/plymouth-dbg_0.9.2-3+rpi1_armhf.deb
+Size: 557394
+SHA256: 7d075a61e0d720700dc05611823dc67f6a448d968a1e9cbf94218862a2c03402
+SHA1: 4d78ebdcf4db0ce91f0a8898b4efe4d4d2e52bf8
+MD5sum: d1e7193d448f8ec1e7c3c6769fab0ea9
+Description: boot animation, logger and I/O multiplexer - debug symbols
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package contains the debugging symbols.
+
+Package: plymouth-themes
+Source: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 831
+Depends: libc6 (>= 2.8), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.12.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libplymouth4 (>= 0.9.2), plymouth (= 0.9.2-3+rpi1), fontconfig-config, fonts-dejavu-core | ttf-dejavu-core
+Conflicts: plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Breaks: plymouth-drm (<< 0.9.0-6~)
+Replaces: plymouth-drm (<< 0.9.0-6~), plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Provides: plymouth-theme, plymouth-themes-all, plymouth-themes-fade-in, plymouth-themes-glow, plymouth-themes-script, plymouth-themes-solar, plymouth-themes-spinfinity, plymouth-themes-spinner
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: optional
+Section: misc
+Filename: pool/ui/p/plymouth/plymouth-themes_0.9.2-3+rpi1_armhf.deb
+Size: 735814
+SHA256: 9c9d4afb89d04a723a0f0168272bfbabaaac4ebc3ad5a21b60f2e8b068345378
+SHA1: 30f83b41e3b49227c280f3f610d25e2320339646
+MD5sum: 4535a046b07214072e60a16134c77e44
+Description: boot animation, logger and I/O multiplexer - themes
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package provides the following themes:
+ .
+  * fade-in: features a centered logo that fades in and out while stars twinkle
+    around the logo during system boot up.
+  * glow: features a pie chart as progress indicator.
+  * script: features a simple base theme.
+  * solar: features a blue flamed sun with animated solar flares.
+  * spinfinity: features a centered logo and animated spinner that spins in the
+    shape of an infinity sign.
+  * spinner: features a simple theme with a small spinner on a dark background.
+
+Package: plymouth-x11
+Source: plymouth
+Version: 0.9.2-3+rpi1
+Architecture: armhf
+Maintainer: Laurent Bigonville <bigon@debian.org>
+Installed-Size: 27
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.12.0), libgtk-3-0 (>= 3.14.0), libplymouth4 (>= 0.9.2), plymouth (= 0.9.2-3+rpi1)
+Recommends: plymouth-themes
+Suggests: gdm
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Priority: optional
+Section: misc
+Filename: pool/ui/p/plymouth/plymouth-x11_0.9.2-3+rpi1_armhf.deb
+Size: 16294
+SHA256: 6eddf92a86f225cde11d0e7b5d0e250651de22fab2b2800e868bb7fcd024c239
+SHA1: 22f3de7552d560b851c33efc2a9fd5c49f4dfac8
+MD5sum: 80a88eccab0f4467d4a230569729a3e2
+Description: boot animation, logger and I/O multiplexer - X11 renderer
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package contains the X11 renderer for a graphical boot splash.
+
+Package: point-rpi
+Version: 0.20160905
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 8
+Depends: libc6 (>= 2.7), libglib2.0-0 (>= 2.12.0), libx11-6
+Homepage: https://www.raspberrypi.org/
+Priority: optional
+Section: utils
+Filename: pool/ui/p/point-rpi/point-rpi_0.20160905_armhf.deb
+Size: 4322
+SHA256: 669e32dacd745964481e61094158f3e3baf798fdf49b866cc3bc6240ddecf92a
+SHA1: 3eb12dfd2e17cd66b7380fdf3b70f9a251fb6600
+MD5sum: 8dd41b33bfdcebb78512fb58de8a3fdb
+Description: Locate the mouse pointer over the menu button
+ This tool determines the current location of the menu button on the
+ taskbar, and positions the mouse pointer over it, to trigger the
+ hover behaviour (button highlight and tooltip).
+
+Package: raspberrypi-ui-mods
+Version: 1.20160718
+Architecture: all
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 1458
+Depends: lxpanel, pcmanfm, openbox, x11-xserver-utils, fonts-roboto, pimixer, pipanel, lxinput, raspberrypi-artwork, gtk2-engines-pixbuf, gtk2-engines-clearlookspix, scrot, raspberrypi-sys-mods, lightdm, pishutdown, gnome-icon-theme, xserver-xorg-video-fbturbo, xserver-xorg, policykit-1, pix-icons, pi-greeter, fonts-droid, pix-plym-splash, pixel-wallpaper, fontconfig-infinality, point-rpi
+Priority: extra
+Section: x11
+Filename: pool/ui/r/raspberrypi-ui-mods/raspberrypi-ui-mods_1.20160718_all.deb
+Size: 424252
+SHA256: f79db86bf536e1388f3a99f2260bff02c97d50d9af97a93ca2251cf168d93061
+SHA1: 887506f140640ec098d92bfd7f4877ac5b7c276e
+MD5sum: 934001b72e4e019f05d7ed7728fb52c7
+Description: Config to customise the LXDE UI for the Raspberry Pi
+ Customised theme and configuration for LXDE desktop on Raspberry Pi.
+
+Package: rc-gui
+Version: 1.1-1
+Architecture: armhf
+Maintainer: Serge Schneider <serge@raspberrypi.org>
+Installed-Size: 267
+Depends: libc6 (>= 2.7), libglib2.0-0 (>= 2.31.8), libgtk2.0-0 (>= 2.24.0), raspi-config, lxkeymap
+Homepage: https://github.com/RPi-Distro/rc_gui
+Priority: optional
+Section: admin
+Filename: pool/ui/r/rc-gui/rc-gui_1.1-1_armhf.deb
+Size: 36852
+SHA256: af189154fb67c1bf423a81669307d1a90bb511834be531802fcaa4f1667591e9
+SHA1: 4cae85317143abc45d52f0a46f3aa63ae8c4209b
+MD5sum: 1445e5dcae80afc26f69f9188066b0e9
+Description: raspi-config GUI
+ Application which allows the configuration of Raspberry Pi system settings
+
+Package: rpi-chromium-mods
+Version: 0.1-1
+Architecture: armhf
+Maintainer: Simon Long <simon@raspberrypi.org>
+Installed-Size: 7
+Depends: chromium-browser
+Replaces: chromium-browser
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/ui/r/rpi-chromium-mods/rpi-chromium-mods_0.1-1_armhf.deb
+Size: 3858
+SHA256: 7ca09e7c5357e8bd8b71a0adc93974a33029d8e29f767280e8888999390480f5
+SHA1: b289f3c47cc593ceccb8beb4a7d7f1231146b43d
+MD5sum: be3c61ad1f6d4b60548505c63235459a
+Description: Raspberry Pi-specific mods to Chromium
+ Package contains Raspberry Pi-specific modifications to the
+ default Chromium browser install, including optimized settings
+ and command-line flags. Also sets chromium as the default browser.
+

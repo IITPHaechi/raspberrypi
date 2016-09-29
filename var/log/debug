@@ -1,0 +1,82 @@
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000] On node 0 totalpages: 241664
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 808c0e00, node_mem_map b9fa6000
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000]   Normal zone: 2124 pages used for memmap
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000]   Normal zone: 241664 pages, LIFO batch:31
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000] pcpu-alloc: s22592 r8192 d22464 u53248 alloc=13*4096
+Sep 26 02:00:07 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 26 02:00:07 raspberrypi kernel: [    1.638922] dwc_otg: Microframe scheduler enabled
+Sep 26 02:00:07 raspberrypi kernel: [    1.685063] dwc_otg: FIQ enabled
+Sep 26 02:00:07 raspberrypi kernel: [    1.685072] dwc_otg: NAK holdoff enabled
+Sep 26 02:00:07 raspberrypi kernel: [    1.685080] dwc_otg: FIQ split-transaction FSM enabled
+Sep 26 02:00:07 raspberrypi kernel: [    1.685111] Module dwc_common_port init
+Sep 26 02:00:07 raspberrypi ntpd[576]: signal_no_reset: signal 17 had flags 4000000
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Successfully called chroot.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Successfully dropped privileges.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Successfully limited resources.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Running.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Canary thread running.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Watchdog thread running.
+Sep 26 02:00:13 raspberrypi rtkit-daemon[861]: Supervising 1 threads of 1 processes of 1 users.
+Sep 26 02:26:06 raspberrypi PackageKit: daemon start
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000] On node 0 totalpages: 241664
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 808c0e00, node_mem_map b9fa6000
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000]   Normal zone: 2124 pages used for memmap
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000]   Normal zone: 241664 pages, LIFO batch:31
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000] pcpu-alloc: s22592 r8192 d22464 u53248 alloc=13*4096
+Sep 26 02:48:26 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 26 02:48:26 raspberrypi kernel: [    1.635714] dwc_otg: Microframe scheduler enabled
+Sep 26 02:48:26 raspberrypi kernel: [    1.681764] dwc_otg: FIQ enabled
+Sep 26 02:48:26 raspberrypi kernel: [    1.681773] dwc_otg: NAK holdoff enabled
+Sep 26 02:48:26 raspberrypi kernel: [    1.681781] dwc_otg: FIQ split-transaction FSM enabled
+Sep 26 02:48:26 raspberrypi kernel: [    1.681813] Module dwc_common_port init
+Sep 26 02:48:27 raspberrypi ntpd[687]: signal_no_reset: signal 17 had flags 4000000
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Successfully called chroot.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Successfully dropped privileges.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Successfully limited resources.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Running.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Watchdog thread running.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Canary thread running.
+Sep 26 02:48:35 raspberrypi rtkit-daemon[864]: Supervising 1 threads of 1 processes of 1 users.
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000] On node 0 totalpages: 241664
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 808c0e00, node_mem_map b9fa6000
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000]   Normal zone: 2124 pages used for memmap
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000]   Normal zone: 241664 pages, LIFO batch:31
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000] pcpu-alloc: s22592 r8192 d22464 u53248 alloc=13*4096
+Sep 26 03:03:36 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 26 03:03:36 raspberrypi kernel: [    1.636477] dwc_otg: Microframe scheduler enabled
+Sep 26 03:03:36 raspberrypi kernel: [    1.682494] dwc_otg: FIQ enabled
+Sep 26 03:03:36 raspberrypi kernel: [    1.682503] dwc_otg: NAK holdoff enabled
+Sep 26 03:03:36 raspberrypi kernel: [    1.682511] dwc_otg: FIQ split-transaction FSM enabled
+Sep 26 03:03:36 raspberrypi kernel: [    1.682543] Module dwc_common_port init
+Sep 26 03:03:36 raspberrypi ntpd[631]: signal_no_reset: signal 17 had flags 4000000
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Successfully called chroot.
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Successfully dropped privileges.
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Successfully limited resources.
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Running.
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Watchdog thread running.
+Sep 26 03:03:42 raspberrypi rtkit-daemon[800]: Canary thread running.
+Sep 26 03:03:43 raspberrypi rtkit-daemon[800]: Supervising 1 threads of 1 processes of 1 users.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] On node 0 totalpages: 241664
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 808c0e00, node_mem_map b9fa6000
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 2124 pages used for memmap
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 241664 pages, LIFO batch:31
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] pcpu-alloc: s22592 r8192 d22464 u53248 alloc=13*4096
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 28 19:53:55 raspberrypi kernel: [    1.639999] dwc_otg: Microframe scheduler enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686025] dwc_otg: FIQ enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686034] dwc_otg: NAK holdoff enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686043] dwc_otg: FIQ split-transaction FSM enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686081] Module dwc_common_port init
+Sep 28 19:53:56 raspberrypi ntpd[694]: signal_no_reset: signal 17 had flags 4000000
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully called chroot.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully dropped privileges.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully limited resources.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Running.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Canary thread running.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Watchdog thread running.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Supervising 1 threads of 1 processes of 1 users.
+Sep 28 20:47:57 raspberrypi PackageKit: daemon start

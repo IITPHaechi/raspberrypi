@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/sbin
+/usr/sbin/nginx
+/usr/share
+/usr/share/doc
+/usr/share/doc/nginx-full
+/usr/share/doc/nginx-full/copyright
+/usr/share/doc/nginx-full/changelog.Debian.gz
+/usr/share/doc/nginx-full/changelog.gz
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/nginx-full

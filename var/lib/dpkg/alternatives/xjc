@@ -1,0 +1,9 @@
+auto
+/usr/bin/xjc
+xjc.1.gz
+/usr/share/man/man1/xjc.1.gz
+
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/xjc
+318
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/xjc.1.gz
+

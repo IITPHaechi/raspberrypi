@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/supercollider-language
+/usr/share/doc/supercollider-language/AUTHORS
+/usr/share/doc/supercollider-language/README.txt
+/usr/share/doc/supercollider-language/copyright
+/usr/share/doc/supercollider-language/README_LINUX.txt.gz
+/usr/share/doc/supercollider-language/changelog.Debian.gz
+/usr/share/doc/supercollider-language/changelog.gz
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/sclang.1.gz
+/usr/bin
+/usr/bin/sclang

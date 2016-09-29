@@ -1,0 +1,7 @@
+#!/bin/sh
+
+dpkg-divert --package nuscratch --divert /usr/bin/scratch.old --rename /usr/bin/scratch
+dpkg-divert --package nuscratch --divert /usr/bin/squeak.old --rename /usr/bin/squeak
+dpkg-divert --package nuscratch --divert /usr/share/scratch/locale/ja_HIRA.po.old --rename /usr/share/scratch/locale/ja_HIRA.po
+dpkg-divert --package nuscratch --divert /usr/share/scratch/locale/ja.po.old --rename /usr/share/scratch/locale/ja.po
+

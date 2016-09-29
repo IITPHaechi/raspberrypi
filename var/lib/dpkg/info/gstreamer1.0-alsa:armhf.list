@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/gstreamer1.0-alsa
+/usr/share/doc/gstreamer1.0-alsa/AUTHORS
+/usr/share/doc/gstreamer1.0-alsa/README.Debian
+/usr/share/doc/gstreamer1.0-alsa/copyright
+/usr/share/doc/gstreamer1.0-alsa/README.gz
+/usr/share/doc/gstreamer1.0-alsa/NEWS.gz
+/usr/share/doc/gstreamer1.0-alsa/changelog.Debian.gz
+/usr/share/doc/gstreamer1.0-alsa/changelog.gz
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/gstreamer-1.0
+/usr/lib/arm-linux-gnueabihf/gstreamer-1.0/libgstalsa.so

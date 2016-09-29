@@ -1,0 +1,9 @@
+e25bc4c50868407d23d1cb8208c72252  usr/bin/ephy-profile-migrator
+49dc3498ac6c379ab94ebf6b0b9b81e1  usr/bin/epiphany
+af0795d64e2f77716b12079564f4018e  usr/bin/epiphany-browser
+c75bafa13076917ef2ec0183875c07e0  usr/share/bug/epiphany-browser/control
+2c638f858388580e4ffadaceebc6e923  usr/share/doc/epiphany-browser/README.Debian
+d21c28a17a6d6ae977c45ca3cd6324f2  usr/share/doc/epiphany-browser/changelog.Debian.gz
+8ef1f30affb8cf5607c50b632eec156e  usr/share/doc/epiphany-browser/changelog.gz
+86b421827776696e97a0e2ee0cf541ea  usr/share/doc/epiphany-browser/copyright
+33b828064f8f4667fe5d3d2ed60d0fc4  usr/share/menu/epiphany-browser

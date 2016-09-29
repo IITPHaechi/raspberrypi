@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libxfconf-0.so.2.0.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libxfconf-0-2
+/usr/share/doc/libxfconf-0-2/copyright
+/usr/share/doc/libxfconf-0-2/changelog.Debian.gz
+/usr/share/doc/libxfconf-0-2/changelog.gz
+/usr/lib/arm-linux-gnueabihf/libxfconf-0.so.2

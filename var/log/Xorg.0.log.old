@@ -1,0 +1,206 @@
+[     7.645] 
+X.Org X Server 1.17.2
+Release Date: 2015-06-16
+[     7.645] X Protocol Version 11, Revision 0
+[     7.645] Build Operating System: Linux 3.8.11-2-ARCH armv7l Raspbian
+[     7.645] Current Operating System: Linux raspberrypi 4.4.13-v7+ #894 SMP Mon Jun 13 13:13:27 BST 2016 armv7l
+[     7.645] Kernel command line: 8250.nr_uarts=0 dma.dmachans=0x7f35 bcm2708_fb.fbwidth=1360 bcm2708_fb.fbheight=768 bcm2709.boardrev=0xa22082 bcm2709.serial=0x7c45a1d8 smsc95xx.macaddr=B8:27:EB:45:A1:D8 bcm2708_fb.fbswap=1 bcm2709.uart_clock=48000000 vc_mem.mem_base=0x3dc00000 vc_mem.mem_size=0x3f000000  dwc_otg.lpm_enable=0 console=ttyS0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
+[     7.645] Build Date: 11 January 2016  01:32:44PM
+[     7.645] xorg-server 2:1.17.2-1+rpi1 (http://www.debian.org/support) 
+[     7.645] Current version of pixman: 0.33.3
+[     7.645] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[     7.645] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[     7.645] (==) Log file: "/var/log/Xorg.0.log", Time: Mon Sep 26 03:03:37 2016
+[     7.647] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[     7.650] (==) No Layout section.  Using the first Screen section.
+[     7.650] (==) No screen section available. Using defaults.
+[     7.650] (**) |-->Screen "Default Screen Section" (0)
+[     7.650] (**) |   |-->Monitor "<default monitor>"
+[     7.655] (==) No device specified for screen "Default Screen Section".
+	Using the first device section listed.
+[     7.655] (**) |   |-->Device "Allwinner A10/A13 FBDEV"
+[     7.655] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[     7.656] (==) Automatically adding devices
+[     7.656] (==) Automatically enabling devices
+[     7.656] (==) Automatically adding GPU devices
+[     7.663] (WW) The directory "/usr/share/fonts/X11/misc" does not exist.
+[     7.663] 	Entry deleted from font path.
+[     7.663] (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[     7.663] 	Entry deleted from font path.
+[     7.665] (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[     7.665] 	Entry deleted from font path.
+[     7.671] (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[     7.671] 	Entry deleted from font path.
+[     7.671] (==) FontPath set to:
+	/usr/share/fonts/X11/100dpi/:unscaled,
+	/usr/share/fonts/X11/Type1,
+	/usr/share/fonts/X11/100dpi,
+	built-ins
+[     7.671] (==) ModulePath set to "/usr/lib/xorg/modules"
+[     7.671] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[     7.671] (II) Loader magic: 0x54d58f00
+[     7.671] (II) Module ABI versions:
+[     7.671] 	X.Org ANSI C Emulation: 0.4
+[     7.671] 	X.Org Video Driver: 19.0
+[     7.671] 	X.Org XInput driver : 21.0
+[     7.672] 	X.Org Server Extension : 9.0
+[     7.672] (II) no primary bus or device found
+[     7.673] (II) LoadModule: "glx"
+[     7.675] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[     7.727] (II) Module glx: vendor="X.Org Foundation"
+[     7.728] 	compiled for 1.17.2, module version = 1.0.0
+[     7.728] 	ABI class: X.Org Server Extension, version 9.0
+[     7.728] (==) AIGLX enabled
+[     7.728] (II) LoadModule: "fbturbo"
+[     7.729] (II) Loading /usr/lib/xorg/modules/drivers/fbturbo_drv.so
+[     7.732] (II) Module fbturbo: vendor="X.Org Foundation"
+[     7.732] 	compiled for 1.17.2, module version = 0.5.1
+[     7.732] 	Module class: X.Org Video Driver
+[     7.732] 	ABI class: X.Org Video Driver, version 19.0
+[     7.732] (II) FBTURBO: driver for framebuffer: fbturbo
+[     7.732] (++) using VT number 7
+
+[     7.738] (WW) Falling back to old probe method for fbturbo
+[     7.738] (II) Loading sub module "fbdevhw"
+[     7.738] (II) LoadModule: "fbdevhw"
+[     7.738] (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+[     7.740] (II) Module fbdevhw: vendor="X.Org Foundation"
+[     7.740] 	compiled for 1.17.2, module version = 0.0.2
+[     7.740] 	ABI class: X.Org Video Driver, version 19.0
+[     7.740] (II) FBTURBO(0): using /dev/fb0
+[     7.740] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[     7.741] (II) FBTURBO(0): Creating default Display subsection in Screen section
+	"Default Screen Section" for depth/fbbpp 16/16
+[     7.741] (==) FBTURBO(0): Depth 16, (==) framebuffer bpp 16
+[     7.741] (==) FBTURBO(0): RGB weight 565
+[     7.741] (==) FBTURBO(0): Default visual is TrueColor
+[     7.741] (==) FBTURBO(0): Using gamma correction (1.0, 1.0, 1.0)
+[     7.741] (II) FBTURBO(0): hardware: BCM2708 FB (video memory: 2040kB)
+[     7.741] (**) FBTURBO(0): Option "fbdev" "/dev/fb0"
+[     7.741] (**) FBTURBO(0): Option "SwapbuffersWait" "true"
+[     7.741] (II) FBTURBO(0): processor: Unknown
+[     7.741] (II) FBTURBO(0): checking modes against framebuffer device...
+[     7.741] (II) FBTURBO(0): checking modes against monitor...
+[     7.741] (--) FBTURBO(0): Virtual size is 1360x768 (pitch 1360)
+[     7.741] (**) FBTURBO(0):  Built-in mode "current"
+[     7.741] (==) FBTURBO(0): DPI set to (96, 96)
+[     7.741] (II) Loading sub module "fb"
+[     7.741] (II) LoadModule: "fb"
+[     7.741] (II) Loading /usr/lib/xorg/modules/libfb.so
+[     7.747] (II) Module fb: vendor="X.Org Foundation"
+[     7.747] 	compiled for 1.17.2, module version = 1.0.0
+[     7.747] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[     7.766] (II) FBTURBO(0): using backing store heuristics
+[     7.771] (II) FBTURBO(0): can't load 'g2d_23' kernel module
+[     7.771] (II) FBTURBO(0): failed to enable the use of sunxi display controller
+[     7.771] (II) FBTURBO(0): No sunxi-g2d hardware detected (check /dev/disp and /dev/g2d)
+[     7.771] (II) FBTURBO(0): G2D hardware acceleration can't be enabled
+[     7.771] (II) FBTURBO(0): enabled fbdev copyarea acceleration
+[     7.771] (==) FBTURBO(0): Backing store enabled
+[     7.778] (==) FBTURBO(0): DPMS enabled
+[     7.779] (II) FBTURBO(0): failed to enable hardware cursor
+[     7.779] (II) FBTURBO(0): no 3D acceleration because the driver has been compiled without libUMP
+[     7.779] (II) FBTURBO(0): if this is wrong and needs to be fixed, please check ./configure log
+[     7.779] (==) RandR enabled
+[     7.812] (II) SELinux: Disabled on system
+[     7.816] (II) AIGLX: Screen 0 is not DRI2 capable
+[     7.816] (EE) AIGLX: reverting to software rendering
+[     9.140] (II) AIGLX: Loaded and initialized swrast
+[     9.140] (II) GLX: Initialized DRISWRAST GL provider for screen 0
+[     9.518] (II) config/udev: Adding input device CHICONY HP USB Multimedia Keyboard (/dev/input/event0)
+[     9.518] (**) CHICONY HP USB Multimedia Keyboard: Applying InputClass "evdev keyboard catchall"
+[     9.518] (II) LoadModule: "evdev"
+[     9.519] (II) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[     9.537] (II) Module evdev: vendor="X.Org Foundation"
+[     9.537] 	compiled for 1.17.2, module version = 2.9.2
+[     9.537] 	Module class: X.Org XInput Driver
+[     9.537] 	ABI class: X.Org XInput driver, version 21.0
+[     9.537] (II) Using input driver 'evdev' for 'CHICONY HP USB Multimedia Keyboard'
+[     9.537] (**) CHICONY HP USB Multimedia Keyboard: always reports core events
+[     9.538] (**) evdev: CHICONY HP USB Multimedia Keyboard: Device: "/dev/input/event0"
+[     9.538] (--) evdev: CHICONY HP USB Multimedia Keyboard: Vendor 0x4f2 Product 0x841
+[     9.538] (--) evdev: CHICONY HP USB Multimedia Keyboard: Found keys
+[     9.538] (II) evdev: CHICONY HP USB Multimedia Keyboard: Configuring as keyboard
+[     9.538] (**) Option "config_info" "udev:/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3/1-1.3:1.0/0003:04F2:0841.0001/input/input0/event0"
+[     9.538] (II) XINPUT: Adding extended input device "CHICONY HP USB Multimedia Keyboard" (type: KEYBOARD, id 6)
+[     9.538] (**) Option "xkb_rules" "evdev"
+[     9.538] (**) Option "xkb_model" "hpnx9020"
+[     9.539] (**) Option "xkb_layout" "us"
+[     9.539] (**) Option "xkb_options" "terminate:ctrl_alt_bksp"
+[     9.693] (II) config/udev: Adding input device CHICONY HP USB Multimedia Keyboard (/dev/input/event1)
+[     9.693] (**) CHICONY HP USB Multimedia Keyboard: Applying InputClass "evdev keyboard catchall"
+[     9.693] (II) Using input driver 'evdev' for 'CHICONY HP USB Multimedia Keyboard'
+[     9.693] (**) CHICONY HP USB Multimedia Keyboard: always reports core events
+[     9.693] (**) evdev: CHICONY HP USB Multimedia Keyboard: Device: "/dev/input/event1"
+[     9.693] (--) evdev: CHICONY HP USB Multimedia Keyboard: Vendor 0x4f2 Product 0x841
+[     9.694] (--) evdev: CHICONY HP USB Multimedia Keyboard: Found keys
+[     9.694] (II) evdev: CHICONY HP USB Multimedia Keyboard: Configuring as keyboard
+[     9.694] (**) Option "config_info" "udev:/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3/1-1.3:1.1/0003:04F2:0841.0002/input/input1/event1"
+[     9.694] (II) XINPUT: Adding extended input device "CHICONY HP USB Multimedia Keyboard" (type: KEYBOARD, id 7)
+[     9.694] (**) Option "xkb_rules" "evdev"
+[     9.694] (**) Option "xkb_model" "hpnx9020"
+[     9.694] (**) Option "xkb_layout" "us"
+[     9.694] (**) Option "xkb_options" "terminate:ctrl_alt_bksp"
+[     9.698] (II) config/udev: Adding input device HID 413c:3010 (/dev/input/event2)
+[     9.698] (**) HID 413c:3010: Applying InputClass "evdev pointer catchall"
+[     9.698] (II) Using input driver 'evdev' for 'HID 413c:3010'
+[     9.698] (**) HID 413c:3010: always reports core events
+[     9.698] (**) evdev: HID 413c:3010: Device: "/dev/input/event2"
+[     9.698] (--) evdev: HID 413c:3010: Vendor 0x413c Product 0x3010
+[     9.698] (--) evdev: HID 413c:3010: Found 3 mouse buttons
+[     9.698] (--) evdev: HID 413c:3010: Found scroll wheel(s)
+[     9.698] (--) evdev: HID 413c:3010: Found relative axes
+[     9.698] (--) evdev: HID 413c:3010: Found x and y relative axes
+[     9.699] (II) evdev: HID 413c:3010: Configuring as mouse
+[     9.699] (II) evdev: HID 413c:3010: Adding scrollwheel support
+[     9.699] (**) evdev: HID 413c:3010: YAxisMapping: buttons 4 and 5
+[     9.699] (**) evdev: HID 413c:3010: EmulateWheelButton: 4, EmulateWheelInertia: 10, EmulateWheelTimeout: 200
+[     9.699] (**) Option "config_info" "udev:/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.5/1-1.5:1.0/0003:413C:3010.0003/input/input2/event2"
+[     9.699] (II) XINPUT: Adding extended input device "HID 413c:3010" (type: MOUSE, id 8)
+[     9.699] (II) evdev: HID 413c:3010: initialized for relative axes.
+[     9.700] (**) HID 413c:3010: (accel) keeping acceleration scheme 1
+[     9.700] (**) HID 413c:3010: (accel) acceleration profile 0
+[     9.700] (**) HID 413c:3010: (accel) acceleration factor: 2.000
+[     9.700] (**) HID 413c:3010: (accel) acceleration threshold: 4
+[     9.702] (II) config/udev: Adding input device HID 413c:3010 (/dev/input/mouse0)
+[     9.702] (II) No input driver specified, ignoring this device.
+[     9.702] (II) This device may have been added with another device file.
+[153299.563] (II) config/udev: removing device HID 413c:3010
+[153299.594] (II) evdev: HID 413c:3010: Close
+[153299.595] (II) UnloadModule: "evdev"
+[164211.972] (II) config/udev: Adding input device HID 413c:3010 (/dev/input/event2)
+[164211.972] (**) HID 413c:3010: Applying InputClass "evdev pointer catchall"
+[164211.972] (II) Using input driver 'evdev' for 'HID 413c:3010'
+[164211.972] (**) HID 413c:3010: always reports core events
+[164211.973] (**) evdev: HID 413c:3010: Device: "/dev/input/event2"
+[164211.973] (--) evdev: HID 413c:3010: Vendor 0x413c Product 0x3010
+[164211.973] (--) evdev: HID 413c:3010: Found 3 mouse buttons
+[164211.973] (--) evdev: HID 413c:3010: Found scroll wheel(s)
+[164211.973] (--) evdev: HID 413c:3010: Found relative axes
+[164211.973] (--) evdev: HID 413c:3010: Found x and y relative axes
+[164211.973] (II) evdev: HID 413c:3010: Configuring as mouse
+[164211.973] (II) evdev: HID 413c:3010: Adding scrollwheel support
+[164211.973] (**) evdev: HID 413c:3010: YAxisMapping: buttons 4 and 5
+[164211.973] (**) evdev: HID 413c:3010: EmulateWheelButton: 4, EmulateWheelInertia: 10, EmulateWheelTimeout: 200
+[164211.974] (**) Option "config_info" "udev:/sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.5/1-1.5:1.0/0003:413C:3010.0004/input/input3/event2"
+[164211.974] (II) XINPUT: Adding extended input device "HID 413c:3010" (type: MOUSE, id 8)
+[164211.974] (II) evdev: HID 413c:3010: initialized for relative axes.
+[164211.975] (**) HID 413c:3010: (accel) keeping acceleration scheme 1
+[164211.975] (**) HID 413c:3010: (accel) acceleration profile 0
+[164211.975] (**) HID 413c:3010: (accel) acceleration factor: 2.000
+[164211.975] (**) HID 413c:3010: (accel) acceleration threshold: 4
+[164212.072] (II) config/udev: Adding input device HID 413c:3010 (/dev/input/mouse0)
+[164212.072] (II) No input driver specified, ignoring this device.
+[164212.072] (II) This device may have been added with another device file.
+[233413.957] (II) evdev: HID 413c:3010: Close
+[233413.957] (II) UnloadModule: "evdev"
+[233413.957] (II) evdev: CHICONY HP USB Multimedia Keyboard: Close
+[233413.959] (II) UnloadModule: "evdev"
+[233413.959] (II) evdev: CHICONY HP USB Multimedia Keyboard: Close
+[233413.959] (II) UnloadModule: "evdev"
+[233413.993] (II) Server terminated successfully (0). Closing log file.

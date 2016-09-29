@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/menu-cache
+/usr/lib/menu-cache/menu-cache-gen
+/usr/lib/menu-cache/menu-cached
+/usr/share
+/usr/share/doc
+/usr/share/doc/libmenu-cache-bin
+/usr/share/doc/libmenu-cache-bin/copyright
+/usr/share/doc/libmenu-cache-bin/changelog.Debian.gz
+/usr/share/doc/libmenu-cache-bin/changelog.gz
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libmenu-cache-bin

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/spidev.cpython-34m-arm-linux-gnueabihf.so
+/usr/lib/python3/dist-packages/spidev-3.0.egg-info
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-spidev
+/usr/share/doc/python3-spidev/changelog.gz

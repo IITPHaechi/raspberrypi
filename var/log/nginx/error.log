@@ -1,0 +1,32 @@
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to [::]:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to [::]:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to [::]:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to [::]:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: bind() to [::]:80 failed (98: Address already in use)
+2016/09/28 23:35:58 [emerg] 5830#0: still could not bind()
+2016/09/29 00:35:28 [emerg] 8642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/29 00:35:28 [emerg] 8642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/29 00:35:28 [emerg] 8642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/29 00:35:28 [emerg] 8642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/29 00:35:28 [emerg] 8642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/09/29 00:38:46 [crit] 8658#0: *1 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 00:50:09 [crit] 8658#0: *3 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 01:01:43 [error] 9057#0: *1 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:10:11 [error] 11485#0: *1 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:14:16 [error] 11485#0: *3 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:16:58 [error] 11485#0: *5 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:23:01 [error] 11485#0: *7 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:23:16 [error] 11485#0: *7 connect() to unix:/home/pi/haechiProject/haechi_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/home/pi/haechiProject/haechi_uwsgi.sock:", host: "localhost"
+2016/09/29 02:24:31 [alert] 11714#0: unlink() "/run/nginx.pid" failed (2: No such file or directory)
+2016/09/29 02:32:52 [error] 12827#0: *3 connect() to unix:/var/www/demoapp/demoapp_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/var/www/demoapp/demoapp_uwsgi.sock:", host: "localhost"
+2016/09/29 02:33:01 [error] 12827#0: *3 connect() to unix:/var/www/demoapp/demoapp_uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://unix:/var/www/demoapp/demoapp_uwsgi.sock:", host: "localhost"
+2016/09/29 02:54:22 [emerg] 13072#0: unknown directive "/var/www/demoapp/static/sorryimlate.mp4" in /etc/nginx/conf.d/demoapp_nginx.conf:14
+2016/09/29 02:57:10 [error] 13137#0: *1 open() "/var/www/demoapp/static/video/video" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /video HTTP/1.1", host: "localhost"
+2016/09/29 02:57:48 [error] 13137#0: *1 open() "/var/www/demoapp/static/video/video" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /video HTTP/1.1", host: "localhost"
+2016/09/29 02:57:50 [error] 13137#0: *1 "/var/www/demoapp/static/video/video/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /video/ HTTP/1.1", host: "localhost"
+2016/09/29 03:00:17 [emerg] 13179#0: invalid number of arguments in "try_files" directive in /etc/nginx/conf.d/demoapp_nginx.conf:15

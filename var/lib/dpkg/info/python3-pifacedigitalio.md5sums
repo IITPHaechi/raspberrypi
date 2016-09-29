@@ -1,0 +1,16 @@
+5f2a111b3f02161be7397d37b2bb0d60  usr/lib/python3/dist-packages/pifacedigitalio-3.1.0.egg-info
+1456b0de007197b6ef20176b625bc334  usr/lib/python3/dist-packages/pifacedigitalio/__init__.py
+f7e37f0dc5607e89f81210d7a9ff9fd3  usr/lib/python3/dist-packages/pifacedigitalio/core.py
+8b9b8cc9fb0e52e6712af3a43ee04d9e  usr/lib/python3/dist-packages/pifacedigitalio/version.py
+2a9906a83ded29a9ae84d6ce1974bf67  usr/share/doc/python3-pifacedigitalio/changelog.Debian.gz
+1e007fa34c41146ffad979ad7fba0ad3  usr/share/doc/python3-pifacedigitalio/copyright
+7165b1df480e901f816a82ea892b4172  usr/share/doc/python3-pifacedigitalio/documentation/example.rst
+76ce6c60ab2734f0d193a26235e9df42  usr/share/doc/python3-pifacedigitalio/documentation/index.rst
+e8d696f31f638446cfcbdf4ded54d9ff  usr/share/doc/python3-pifacedigitalio/documentation/installation.rst
+21b69b9df2bc95d20d82e28a51f4226f  usr/share/doc/python3-pifacedigitalio/documentation/pifacedigital.rst
+7126735f34362c4d7f595429b8a28b21  usr/share/doc/python3-pifacedigitalio/documentation/reference.rst
+c383b73a0ca0d1179c3c4d8aae060449  usr/share/doc/python3-pifacedigitalio/documentation/simplewebcontrol.rst
+50493d76f5652c693ab3d79b74ca1de7  usr/share/doc/python3-pifacedigitalio/examples/blink.py
+b62ab08f0b5349eb603caf230a6c5f00  usr/share/doc/python3-pifacedigitalio/examples/presslights.py
+71a6d51ae952ac01d586da40144a6f34  usr/share/doc/python3-pifacedigitalio/examples/simplewebcontrol.py
+a286cacd996922de661f477f495d8ced  usr/share/doc/python3-pifacedigitalio/examples/whackamole.py

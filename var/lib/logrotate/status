@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/var/log/syslog" 2016-9-28-6:25:4
+"/var/log/dpkg.log" 2016-9-23-6:0:0
+"/var/log/auth.log" 2016-9-25-6:25:6
+"/var/log/apt/term.log" 2016-9-23-6:0:0
+"/var/log/apt/history.log" 2016-9-23-6:0:0
+"/var/log/alternatives.log" 2016-9-23-6:0:0
+"/var/log/mail.log" 2016-9-23-6:0:0
+"/var/log/debug" 2016-9-25-6:25:6
+"/var/log/kern.log" 2016-9-25-6:25:6
+"/var/log/aptitude" 2016-9-23-6:0:0
+"/var/log/daemon.log" 2016-9-25-6:25:6
+"/var/log/wtmp" 2016-9-23-6:0:0
+"/var/log/mail.warn" 2016-9-23-6:0:0
+"/var/log/btmp" 2016-9-23-6:0:0
+"/var/log/mail.err" 2016-9-23-6:0:0
+"/var/log/lpr.log" 2016-9-23-6:0:0
+"/var/log/user.log" 2016-9-25-6:25:6
+"/var/log/mail.info" 2016-9-23-6:0:0
+"/var/log/cron.log" 2016-9-23-6:0:0
+"/var/log/messages" 2016-9-25-6:25:6

@@ -1,0 +1,56 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/iceweaselrc 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/pref/iceweasel.js 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/bookmarks.html 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/localstore.rdf 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/chrome/userChrome-example.css 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/chrome/userContent-example.css 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/mimeTypes.rdf 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/profile/prefs.js 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/common/debsearch.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/common/duckduckgo.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/amazondotcom.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/bing.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/ddg.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/eBay.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/google.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/twitter.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/wikipedia.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb
+dpkg-maintscript-helper rm_conffile /etc/iceweasel/searchplugins/locale/en-US/yahoo.xml 45.0esr-2~ iceweasel -- "$@"
+# End automatically added section

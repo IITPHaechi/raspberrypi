@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+if [ "$1" = "upgrade" ]; then
+  update-alternatives --remove gem /usr/bin/gem1.9.1 || true
+  update-alternatives --remove ruby /usr/bin/ruby1.9.1 || true
+fi
+
+

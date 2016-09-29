@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/gtk-2.0
+/usr/lib/arm-linux-gnueabihf/gtk-2.0/2.10.0
+/usr/lib/arm-linux-gnueabihf/gtk-2.0/2.10.0/engines
+/usr/lib/arm-linux-gnueabihf/gtk-2.0/2.10.0/engines/libclearlookspix.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/gtk2-engines-clearlookspix
+/usr/share/doc/gtk2-engines-clearlookspix/AUTHORS
+/usr/share/doc/gtk2-engines-clearlookspix/NEWS.gz
+/usr/share/doc/gtk2-engines-clearlookspix/README
+/usr/share/doc/gtk2-engines-clearlookspix/changelog.gz
+/usr/share/doc/gtk2-engines-clearlookspix/copyright

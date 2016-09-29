@@ -1,0 +1,12 @@
+1+0 records in
+1+0 records out
+4096 bytes (4.1 kB) copied, 0.041923 s, 97.7 kB/s
+Synchronizing state for ssh.service with sysvinit using update-rc.d...
+Executing /usr/sbin/update-rc.d ssh defaults
+insserv: warning: current start runlevel(s) (empty) of script `ssh' overrides LSB defaults (2 3 4 5).
+insserv: warning: current stop runlevel(s) (2 3 4 5) of script `ssh' overrides LSB defaults (empty).
+insserv: can not remove(../rc2.d/S01apply_noobs_os_config): No such file or directory
+Executing /usr/sbin/update-rc.d ssh enable
+Created symlink from /etc/systemd/system/sshd.service to /lib/systemd/system/ssh.service.
+
+finished

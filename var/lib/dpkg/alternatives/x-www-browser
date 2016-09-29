@@ -1,0 +1,15 @@
+auto
+/usr/bin/x-www-browser
+x-www-browser.1.gz
+/usr/share/man/man1/x-www-browser.1.gz
+
+/usr/bin/dillo
+50
+/usr/share/man/man1/dillo.1.gz
+/usr/bin/epiphany-browser
+85
+/usr/share/man/man1/epiphany-browser.1.gz
+/usr/bin/firefox-esr
+70
+/usr/share/man/man1/firefox-esr.1.gz
+

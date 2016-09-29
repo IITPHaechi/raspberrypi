@@ -1,0 +1,1092 @@
+Sep 28 06:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 06:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 06:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:17:01 raspberrypi CRON[5903]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 07:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 07:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:17:01 raspberrypi CRON[5926]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 08:19:42 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 28 08:19:42 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16 android-1ebd820236cea9f3
+Sep 28 08:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 08:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:17:01 raspberrypi CRON[5948]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 09:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 09:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:17:01 raspberrypi CRON[5970]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 10:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 10:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:17:01 raspberrypi CRON[5993]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 11:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 11:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:03:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:17:01 raspberrypi CRON[6017]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 12:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 12:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:17:01 raspberrypi CRON[6063]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 13:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 13:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:07:25 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 28 14:07:25 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16 android-1ebd820236cea9f3
+Sep 28 14:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:17:01 raspberrypi CRON[6090]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 14:23:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:33:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 14:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:03:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:17:01 raspberrypi CRON[6118]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 15:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 15:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:03:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:13:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:17:02 raspberrypi CRON[6144]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 16:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 16:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:03:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:13:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:17:01 raspberrypi CRON[6174]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 17:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:33:49 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 17:53:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:03:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:13:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:17:01 raspberrypi CRON[6202]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 18:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:43:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 18:53:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:03:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:13:48 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:17:01 raspberrypi CRON[6366]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 19:20:45 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 IEEE 802.11: associated
+Sep 28 19:20:45 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 RADIUS: starting accounting session 57E89009-00000012
+Sep 28 19:20:45 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: pairwise key handshake completed (RSN)
+Sep 28 19:20:48 raspberrypi dnsmasq-dhcp[2265]: DHCPDISCOVER(wlan0) a4:84:31:f6:d2:b8
+Sep 28 19:20:48 raspberrypi dnsmasq-dhcp[2265]: DHCPOFFER(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8
+Sep 28 19:20:48 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8
+Sep 28 19:20:48 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8 android-5d26007d322eb141
+Sep 28 19:23:47 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 28 19:23:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:33:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:33:51 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 IEEE 802.11: disassociated
+Sep 28 19:33:55 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 IEEE 802.11: associated
+Sep 28 19:33:55 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 RADIUS: starting accounting session 57E89009-00000013
+Sep 28 19:33:55 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: pairwise key handshake completed (RSN)
+Sep 28 19:33:55 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8
+Sep 28 19:33:55 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8 android-5d26007d322eb141
+Sep 28 19:41:28 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: associated
+Sep 28 19:41:28 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 RADIUS: starting accounting session 57E89009-00000014
+Sep 28 19:41:28 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: pairwise key handshake completed (RSN)
+Sep 28 19:41:31 raspberrypi dnsmasq-dhcp[2265]: DHCPDISCOVER(wlan0) e4:f8:9c:c0:78:f8
+Sep 28 19:41:31 raspberrypi dnsmasq-dhcp[2265]: DHCPOFFER(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8
+Sep 28 19:41:31 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8
+Sep 28 19:41:31 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8 DESKTOP-0RU3EJU
+Sep 28 19:43:47 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 19:43:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:43:48 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 28 19:53:01 raspberrypi dnsmasq-dhcp[2265]: DHCPREQUEST(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 28 19:53:01 raspberrypi dnsmasq-dhcp[2265]: DHCPACK(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16 android-1ebd820236cea9f3
+Sep 28 19:53:47 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 19:53:47 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 19:53:48 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 28 19:53:50 raspberrypi systemd[1]: Started Turns off Raspberry Pi display backlight on shutdown/reboot.
+Sep 28 19:53:50 raspberrypi systemd[1]: Started Synchronise Hardware Clock to System Clock.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Session c2 of user pi.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Bluetooth.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopped target Bluetooth.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Session c1 of user pi.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping system-ifup.slice.
+Sep 28 19:53:50 raspberrypi systemd[1]: Removed slice system-ifup.slice.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Sound Card.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopped target Sound Card.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping system-systemd\x2dfsck.slice.
+Sep 28 19:53:50 raspberrypi systemd[1]: Removed slice system-systemd\x2dfsck.slice.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Disk Manager...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping RealtimeKit Scheduling Policy Service...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Authenticate and Authorize Users to Run Privileged Tasks...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping User Manager for UID 1000...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Bluetooth service...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Graphical Interface.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopped target Graphical Interface.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Light Display Manager...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Multi-User System.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopped target Multi-User System.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Regular background program processing daemon...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Login Prompts.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopped target Login Prompts.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping Getty on tty1...
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping LSB: Autogenerate and use a swap file...
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopping Default.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopped target Default.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopping Basic System.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopped target Basic System.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopping Paths.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopped target Paths.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopping Timers.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping LSB: triggerhappy hotkey daemon...
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopped target Timers.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopping Sockets.
+Sep 28 19:53:50 raspberrypi systemd[660]: Stopped target Sockets.
+Sep 28 19:53:50 raspberrypi systemd[1]: Stopping LSB: Start NTP daemon...
+Sep 28 19:53:50 raspberrypi systemd[660]: Starting Shutdown.
+Sep 28 19:53:50 raspberrypi rsyslogd: [origin software="rsyslogd" swVersion="8.4.2" x-pid="503" x-info="http://www.rsyslog.com"] exiting on signal 15.
+Sep 28 19:53:55 raspberrypi rsyslogd: [origin software="rsyslogd" swVersion="8.4.2" x-pid="504" x-info="http://www.rsyslog.com"] start
+Sep 28 19:53:55 raspberrypi systemd-modules-load[110]: Inserted module 'fuse'
+Sep 28 19:53:55 raspberrypi systemd-modules-load[110]: Inserted module 'i2c_dev'
+Sep 28 19:53:55 raspberrypi systemd[1]: Mounted FUSE Control File System.
+Sep 28 19:53:55 raspberrypi systemd[1]: Mounted Configuration File System.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Apply Kernel Variables.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Create Static Device Nodes in /dev.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting udev Kernel Device Manager...
+Sep 28 19:53:55 raspberrypi systemd-fsck[101]: e2fsck 1.42.12 (29-Aug-2014)
+Sep 28 19:53:55 raspberrypi systemd-fsck[101]: /dev/mmcblk0p2: clean, 141542/957712 files, 1055817/3872384 blocks
+Sep 28 19:53:55 raspberrypi fake-hwclock[104]: Wed 28 Sep 19:53:52 UTC 2016
+Sep 28 19:53:55 raspberrypi systemd[1]: Started udev Kernel Device Manager.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Copy rules generated while the root was ro...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Set preliminary keymap...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Tune IDE hard disks...
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Copy rules generated while the root was ro.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Booting Linux on physical CPU 0x0
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Initializing cgroup subsys cpuset
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Initializing cgroup subsys cpu
+Sep 28 19:53:55 raspberrypi hdparm[142]: Setting parameters of disc: (none).
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Linux version 4.4.13-v7+ (dc4@dc4-XPS13-9333) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611) ) #894 SMP Mon Jun 13 13:13:27 BST 2016
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Tune IDE hard disks.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] CPU: ARMv7 Processor [410fd034] revision 4 (ARMv7), cr=10c5383d
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Machine model: Raspberry Pi 3 Model B Rev 1.2
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] cma: Reserved 8 MiB at 0x3a800000
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Memory policy: Data cache writealloc
+Sep 28 19:53:55 raspberrypi systemd-udevd[199]: failed to execute '/lib/udev/mtp-probe' 'mtp-probe /sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3 1 4': No such file or directory
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] On node 0 totalpages: 241664
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 808c0e00, node_mem_map b9fa6000
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 2124 pages used for memmap
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Sep 28 19:53:55 raspberrypi systemd-udevd[205]: failed to execute '/lib/udev/mtp-probe' 'mtp-probe /sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.5 1 5': No such file or directory
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]   Normal zone: 241664 pages, LIFO batch:31
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] [bcm2709_smp_init_cpus] enter (9520->f3003010)
+Sep 28 19:53:55 raspberrypi keyboard-setup[140]: Setting preliminary keymap...done.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] [bcm2709_smp_init_cpus] ncores=4
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] PERCPU: Embedded 13 pages/cpu @b9f62000 s22592 r8192 d22464 u53248
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] pcpu-alloc: s22592 r8192 d22464 u53248 alloc=13*4096
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 239540
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Set preliminary keymap.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Kernel command line: 8250.nr_uarts=0 dma.dmachans=0x7f35 bcm2708_fb.fbwidth=1360 bcm2708_fb.fbheight=768 bcm2709.boardrev=0xa22082 bcm2709.serial=0x7c45a1d8 smsc95xx.macaddr=B8:27:EB:45:A1:D8 bcm2708_fb.fbswap=1 bcm2709.uart_clock=48000000 vc_mem.mem_base=0x3dc00000 vc_mem.mem_size=0x3f000000  dwc_otg.lpm_enable=0 console=ttyS0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Show Plymouth Boot Screen.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] PID hash table entries: 4096 (order: 2, 16384 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Memory: 939080K/966656K available (6344K kernel code, 432K rwdata, 1712K rodata, 476K init, 764K bss, 19384K reserved, 8192K cma-reserved)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Virtual kernel memory layout:
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Forward Password Requests to Plymouth Directory Watch.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]     fixmap  : 0xffc00000 - 0xfff00000   (3072 kB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]     vmalloc : 0xbb800000 - 0xff800000   (1088 MB)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Dispatch Password Requests to Console Directory Watch.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]     lowmem  : 0x80000000 - 0xbb000000   ( 944 MB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]     modules : 0x7f000000 - 0x80000000   (  16 MB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]       .text : 0x80008000 - 0x807e6470   (8058 kB)
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]       .init : 0x807e7000 - 0x8085e000   ( 476 kB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]       .data : 0x8085e000 - 0x808ca108   ( 433 kB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000]        .bss : 0x808cd000 - 0x8098c1ac   ( 765 kB)
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Paths.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Hierarchical RCU implementation.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 32.
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Paths.
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] NR_IRQS:16 nr_irqs:16 16
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] Architected cp15 timer(s) running at 19.20MHz (phys).
+Sep 28 19:53:55 raspberrypi kernel: [    0.000000] clocksource: arch_sys_counter: mask: 0xffffffffffffff max_cycles: 0x46d987e47, max_idle_ns: 440795202767 ns
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Remount Root and Kernel File Systems...
+Sep 28 19:53:55 raspberrypi kernel: [    0.000008] sched_clock: 56 bits at 19MHz, resolution 52ns, wraps every 4398046511078ns
+Sep 28 19:53:55 raspberrypi kernel: [    0.000025] Switching to timer-based delay loop, resolution 52ns
+Sep 28 19:53:55 raspberrypi kernel: [    0.000287] Console: colour dummy device 80x30
+Sep 28 19:53:55 raspberrypi kernel: [    0.001338] console [tty1] enabled
+Sep 28 19:53:55 raspberrypi systemd-udevd[219]: failed to execute '/lib/udev/mtp-probe' 'mtp-probe /sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.1 1 3': No such file or directory
+Sep 28 19:53:55 raspberrypi kernel: [    0.001383] Calibrating delay loop (skipped), value calculated using timer frequency.. 38.40 BogoMIPS (lpj=192000)
+Sep 28 19:53:55 raspberrypi kernel: [    0.001451] pid_max: default: 32768 minimum: 301
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Remount Root and Kernel File Systems.
+Sep 28 19:53:55 raspberrypi kernel: [    0.001790] Mount-cache hash table entries: 2048 (order: 1, 8192 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.001832] Mountpoint-cache hash table entries: 2048 (order: 1, 8192 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.002785] Disabling cpuset control group subsystem
+Sep 28 19:53:55 raspberrypi kernel: [    0.002842] Initializing cgroup subsys io
+Sep 28 19:53:55 raspberrypi kernel: [    0.002893] Initializing cgroup subsys memory
+Sep 28 19:53:55 raspberrypi systemd-udevd[228]: failed to execute '/lib/udev/mtp-probe' 'mtp-probe /sys/devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3 1 4': No such file or directory
+Sep 28 19:53:55 raspberrypi kernel: [    0.002953] Initializing cgroup subsys devices
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Various fixups to make systemd work better on Debian.
+Sep 28 19:53:55 raspberrypi kernel: [    0.002996] Initializing cgroup subsys freezer
+Sep 28 19:53:55 raspberrypi kernel: [    0.003039] Initializing cgroup subsys net_cls
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Load/Save Random Seed...
+Sep 28 19:53:55 raspberrypi kernel: [    0.003111] CPU: Testing write buffer coherency: ok
+Sep 28 19:53:55 raspberrypi kernel: [    0.003198] ftrace: allocating 21209 entries in 63 pages
+Sep 28 19:53:55 raspberrypi kernel: [    0.053765] CPU0: update cpu_capacity 1024
+Sep 28 19:53:55 raspberrypi kernel: [    0.053829] CPU0: thread -1, cpu 0, socket 0, mpidr 80000000
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Local File Systems (Pre).
+Sep 28 19:53:55 raspberrypi kernel: [    0.053861] [bcm2709_smp_prepare_cpus] enter
+Sep 28 19:53:55 raspberrypi kernel: [    0.054019] Setting up static identity map for 0x8240 - 0x8274
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Local File Systems (Pre).
+Sep 28 19:53:55 raspberrypi kernel: [    0.055672] [bcm2709_boot_secondary] cpu:1 started (0) 18
+Sep 28 19:53:55 raspberrypi kernel: [    0.056001] [bcm2709_secondary_init] enter cpu:1
+Sep 28 19:53:55 raspberrypi kernel: [    0.056044] CPU1: update cpu_capacity 1024
+Sep 28 19:53:55 raspberrypi kernel: [    0.056050] CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Sound Card.
+Sep 28 19:53:55 raspberrypi kernel: [    0.056423] [bcm2709_boot_secondary] cpu:2 started (0) 17
+Sep 28 19:53:55 raspberrypi kernel: [    0.056682] [bcm2709_secondary_init] enter cpu:2
+Sep 28 19:53:55 raspberrypi kernel: [    0.056702] CPU2: update cpu_capacity 1024
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Sound Card.
+Sep 28 19:53:55 raspberrypi kernel: [    0.056709] CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+Sep 28 19:53:55 raspberrypi kernel: [    0.057067] [bcm2709_boot_secondary] cpu:3 started (0) 18
+Sep 28 19:53:55 raspberrypi kernel: [    0.057249] [bcm2709_secondary_init] enter cpu:3
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Load/Save Random Seed.
+Sep 28 19:53:55 raspberrypi kernel: [    0.057269] CPU3: update cpu_capacity 1024
+Sep 28 19:53:55 raspberrypi kernel: [    0.057275] CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+Sep 28 19:53:55 raspberrypi kernel: [    0.057337] Brought up 4 CPUs
+Sep 28 19:53:55 raspberrypi kernel: [    0.057436] SMP: Total of 4 processors activated (153.60 BogoMIPS).
+Sep 28 19:53:55 raspberrypi systemd[1]: Found device /dev/mmcblk0p1.
+Sep 28 19:53:55 raspberrypi kernel: [    0.057465] CPU: All CPU(s) started in HYP mode.
+Sep 28 19:53:55 raspberrypi kernel: [    0.057491] CPU: Virtualization extensions available.
+Sep 28 19:53:55 raspberrypi kernel: [    0.058133] devtmpfs: initialized
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting File System Check on /dev/mmcblk0p1...
+Sep 28 19:53:55 raspberrypi kernel: [    0.068238] VFP support v0.3: implementor 41 architecture 3 part 40 variant 3 rev 4
+Sep 28 19:53:55 raspberrypi kernel: [    0.068595] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 19112604462750000 ns
+Sep 28 19:53:55 raspberrypi systemd-fsck[251]: fsck.fat 3.0.27 (2014-11-12)
+Sep 28 19:53:55 raspberrypi kernel: [    0.069334] pinctrl core: initialized pinctrl subsystem
+Sep 28 19:53:55 raspberrypi kernel: [    0.069886] NET: Registered protocol family 16
+Sep 28 19:53:55 raspberrypi kernel: [    0.075067] DMA: preallocated 4096 KiB pool for atomic coherent allocations
+Sep 28 19:53:55 raspberrypi kernel: [    0.081935] hw-breakpoint: found 5 (+1 reserved) breakpoint and 4 watchpoint registers.
+Sep 28 19:53:55 raspberrypi systemd-fsck[251]: /dev/mmcblk0p1: 110 files, 2629/8057 clusters
+Sep 28 19:53:55 raspberrypi kernel: [    0.081984] hw-breakpoint: maximum watchpoint size is 8 bytes.
+Sep 28 19:53:55 raspberrypi kernel: [    0.082164] Serial: AMBA PL011 UART driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Started File System Check on /dev/mmcblk0p1.
+Sep 28 19:53:55 raspberrypi kernel: [    0.082323] uart-pl011 3f201000.uart: could not find pctldev for node /soc/gpio@7e200000/uart0_pins, deferring probe
+Sep 28 19:53:55 raspberrypi kernel: [    0.082530] bcm2835-mbox 3f00b880.mailbox: mailbox enabled
+Sep 28 19:53:55 raspberrypi kernel: [    0.145886] bcm2835-dma 3f007000.dma: DMA legacy API manager at f3007000, dmachans=0x1
+Sep 28 19:53:55 raspberrypi systemd[1]: Mounting /boot...
+Sep 28 19:53:55 raspberrypi kernel: [    0.146483] SCSI subsystem initialized
+Sep 28 19:53:55 raspberrypi kernel: [    0.146680] usbcore: registered new interface driver usbfs
+Sep 28 19:53:55 raspberrypi kernel: [    0.146790] usbcore: registered new interface driver hub
+Sep 28 19:53:55 raspberrypi kernel: [    0.146909] usbcore: registered new device driver usb
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting system-systemd\x2drfkill.slice.
+Sep 28 19:53:55 raspberrypi kernel: [    0.153309] raspberrypi-firmware soc:firmware: Attached to firmware from 2016-06-20 18:13
+Sep 28 19:53:55 raspberrypi kernel: [    0.180525] clocksource: Switched to clocksource arch_sys_counter
+Sep 28 19:53:55 raspberrypi kernel: [    0.225258] FS-Cache: Loaded
+Sep 28 19:53:55 raspberrypi systemd[1]: Created slice system-systemd\x2drfkill.slice.
+Sep 28 19:53:55 raspberrypi kernel: [    0.225549] CacheFiles: Loaded
+Sep 28 19:53:55 raspberrypi kernel: [    0.237848] NET: Registered protocol family 2
+Sep 28 19:53:55 raspberrypi kernel: [    0.238725] TCP established hash table entries: 8192 (order: 3, 32768 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.238863] TCP bind hash table entries: 8192 (order: 4, 65536 bytes)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Load/Save RF Kill Switch Status of rfkill0...
+Sep 28 19:53:55 raspberrypi kernel: [    0.239073] TCP: Hash tables configured (established 8192 bind 8192)
+Sep 28 19:53:55 raspberrypi kernel: [    0.239187] UDP hash table entries: 512 (order: 2, 16384 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    0.239255] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+Sep 28 19:53:55 raspberrypi systemd[1]: Mounted /boot.
+Sep 28 19:53:55 raspberrypi kernel: [    0.239508] NET: Registered protocol family 1
+Sep 28 19:53:55 raspberrypi kernel: [    0.239846] RPC: Registered named UNIX socket transport module.
+Sep 28 19:53:55 raspberrypi kernel: [    0.239878] RPC: Registered udp transport module.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Local File Systems.
+Sep 28 19:53:55 raspberrypi kernel: [    0.239906] RPC: Registered tcp transport module.
+Sep 28 19:53:55 raspberrypi kernel: [    0.239934] RPC: Registered tcp NFSv4.1 backchannel transport module.
+Sep 28 19:53:55 raspberrypi kernel: [    0.241027] hw perfevents: enabled with armv7_cortex_a7 PMU driver, 7 counters available
+Sep 28 19:53:55 raspberrypi kernel: [    0.242359] futex hash table entries: 1024 (order: 4, 65536 bytes)
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Local File Systems.
+Sep 28 19:53:55 raspberrypi kernel: [    0.255676] VFS: Disk quotas dquot_6.6.0
+Sep 28 19:53:55 raspberrypi kernel: [    0.256009] VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Sep 28 19:53:55 raspberrypi kernel: [    0.258311] FS-Cache: Netfs 'nfs' registered for caching
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Create Volatile Files and Directories...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Raise network interfaces....
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Remote File Systems.
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Remote File Systems.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Trigger Flushing of Journal to Persistent Storage...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Prepare console...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Switch to ondemand cpu governor (unless shift key is pressed)...
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Load/Save RF Kill Switch Status of rfkill0.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Create Volatile Files and Directories.
+Sep 28 19:53:55 raspberrypi kbd[278]: Setting console screen modes.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Trigger Flushing of Journal to Persistent Storage.
+Sep 28 19:53:55 raspberrypi kbd[278]: setterm: $TERM is not defined.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Prepare console.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Set console font and keymap...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting system-ifup.slice.
+Sep 28 19:53:55 raspberrypi systemd[1]: Created slice system-ifup.slice.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Sep 28 19:53:55 raspberrypi console-setup[321]: Setting up console font and keymap...done.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Set console font and keymap.
+Sep 28 19:53:55 raspberrypi networking[274]: Configuring network interfaces...done.
+Sep 28 19:53:55 raspberrypi kernel: [    0.259225] NFS: Registering the id_resolver key type
+Sep 28 19:53:55 raspberrypi kernel: [    0.259293] Key type id_resolver registered
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Raise network interfaces..
+Sep 28 19:53:55 raspberrypi kernel: [    0.259322] Key type id_legacy registered
+Sep 28 19:53:55 raspberrypi kernel: [    0.261667] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+Sep 28 19:53:55 raspberrypi kernel: [    0.261849] io scheduler noop registered
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting ifup for wlan0...
+Sep 28 19:53:55 raspberrypi kernel: [    0.261888] io scheduler deadline registered (default)
+Sep 28 19:53:55 raspberrypi kernel: [    0.261963] io scheduler cfq registered
+Sep 28 19:53:55 raspberrypi systemd[1]: Started ifup for wlan0.
+Sep 28 19:53:55 raspberrypi kernel: [    0.264491] BCM2708FB: allocated DMA memory fac00000
+Sep 28 19:53:55 raspberrypi kernel: [    0.264537] BCM2708FB: allocated DMA channel 0 @ f3007000
+Sep 28 19:53:55 raspberrypi kernel: [    0.280586] Console: switching to colour frame buffer device 170x48
+Sep 28 19:53:55 raspberrypi kernel: [    1.169198] bcm2835-rng 3f104000.rng: hwrng registered
+Sep 28 19:53:55 raspberrypi raspi-config[280]: Checking if shift key is held down: No. Switching to ondemand scaling governor.
+Sep 28 19:53:55 raspberrypi kernel: [    1.169462] vc-cma: Videocore CMA driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Switch to ondemand cpu governor (unless shift key is pressed).
+Sep 28 19:53:55 raspberrypi kernel: [    1.169544] vc-cma: vc_cma_base      = 0x00000000
+Sep 28 19:53:55 raspberrypi kernel: [    1.169626] vc-cma: vc_cma_size      = 0x00000000 (0 MiB)
+Sep 28 19:53:55 raspberrypi kernel: [    1.169716] vc-cma: vc_cma_initial   = 0x00000000 (0 MiB)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting System Initialization.
+Sep 28 19:53:55 raspberrypi kernel: [    1.170058] vc-mem: phys_addr:0x00000000 mem_base=0x3dc00000 mem_size:0x3f000000(1008 MiB)
+Sep 28 19:53:55 raspberrypi kernel: [    1.184833] brd: module loaded
+Sep 28 19:53:55 raspberrypi kernel: [    1.193538] loop: module loaded
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target System Initialization.
+Sep 28 19:53:55 raspberrypi kernel: [    1.194518] vchiq: vchiq_init_state: slot_zero = 0xbac80000, is_master = 0
+Sep 28 19:53:55 raspberrypi kernel: [    1.196077] Loading iSCSI transport class v2.0-870.
+Sep 28 19:53:55 raspberrypi kernel: [    1.196786] usbcore: registered new interface driver smsc95xx
+Sep 28 19:53:55 raspberrypi kernel: [    1.196923] dwc_otg: version 3.00a 10-AUG-2012 (platform bus)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Avahi mDNS/DNS-SD Stack Activation Socket.
+Sep 28 19:53:55 raspberrypi kernel: [    1.397260] Core Release: 2.80a
+Sep 28 19:53:55 raspberrypi kernel: [    1.400226] Setting default values for core params
+Sep 28 19:53:55 raspberrypi systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+Sep 28 19:53:55 raspberrypi kernel: [    1.403255] Finished setting default values for core params
+Sep 28 19:53:55 raspberrypi kernel: [    1.606613] Using Buffer DMA mode
+Sep 28 19:53:55 raspberrypi kernel: [    1.609573] Periodic Transfer Interrupt Enhancement - disabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.612569] Multiprocessor Interrupt Enhancement - disabled
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting D-Bus System Message Bus Socket.
+Sep 28 19:53:55 raspberrypi kernel: [    1.615542] OTG VER PARAM: 0, OTG VER FLAG: 0
+Sep 28 19:53:55 raspberrypi kernel: [    1.618497] Dedicated Tx FIFOs mode
+Sep 28 19:53:55 raspberrypi kernel: [    1.621737] WARN::dwc_otg_hcd_init:1047: FIQ DMA bounce buffers: virt = 0xbac14000 dma = 0xfac14000 len=9024
+Sep 28 19:53:55 raspberrypi systemd[1]: Listening on D-Bus System Message Bus Socket.
+Sep 28 19:53:55 raspberrypi kernel: [    1.624811] FIQ FSM acceleration enabled for :
+Sep 28 19:53:55 raspberrypi kernel: [    1.624811] Non-periodic Split Transactions
+Sep 28 19:53:55 raspberrypi kernel: [    1.624811] Periodic Split Transactions
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Sockets.
+Sep 28 19:53:55 raspberrypi kernel: [    1.624811] High-Speed Isochronous Endpoints
+Sep 28 19:53:55 raspberrypi kernel: [    1.624811] Interrupt/Control Split Transaction hack enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.639999] dwc_otg: Microframe scheduler enabled
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Sockets.
+Sep 28 19:53:55 raspberrypi kernel: [    1.640052] WARN::hcd_init_fiq:413: FIQ on core 1 at 0x80446a60
+Sep 28 19:53:55 raspberrypi kernel: [    1.643095] WARN::hcd_init_fiq:414: FIQ ASM at 0x80446dd0 length 36
+Sep 28 19:53:55 raspberrypi kernel: [    1.646092] WARN::hcd_init_fiq:439: MPHI regs_base at 0xbc09a000
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Daily Cleanup of Temporary Directories.
+Sep 28 19:53:55 raspberrypi kernel: [    1.649107] dwc_otg 3f980000.usb: DWC OTG Controller
+Sep 28 19:53:55 raspberrypi kernel: [    1.652097] dwc_otg 3f980000.usb: new USB bus registered, assigned bus number 1
+Sep 28 19:53:55 raspberrypi kernel: [    1.655079] dwc_otg 3f980000.usb: irq 62, io mem 0x00000000
+Sep 28 19:53:55 raspberrypi kernel: [    1.658049] Init: Port Power? op_state=1
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Daily Cleanup of Temporary Directories.
+Sep 28 19:53:55 raspberrypi kernel: [    1.660980] Init: Power Port (0)
+Sep 28 19:53:55 raspberrypi kernel: [    1.664084] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+Sep 28 19:53:55 raspberrypi kernel: [    1.667042] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Sep 28 19:53:55 raspberrypi kernel: [    1.669962] usb usb1: Product: DWC OTG Controller
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Timers.
+Sep 28 19:53:55 raspberrypi kernel: [    1.672882] usb usb1: Manufacturer: Linux 4.4.13-v7+ dwc_otg_hcd
+Sep 28 19:53:55 raspberrypi kernel: [    1.675822] usb usb1: SerialNumber: 3f980000.usb
+Sep 28 19:53:55 raspberrypi kernel: [    1.679555] hub 1-0:1.0: USB hub found
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Timers.
+Sep 28 19:53:55 raspberrypi kernel: [    1.682523] hub 1-0:1.0: 1 port detected
+Sep 28 19:53:55 raspberrypi kernel: [    1.686025] dwc_otg: FIQ enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686034] dwc_otg: NAK holdoff enabled
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Manage Sound Card State (restore and store).
+Sep 28 19:53:55 raspberrypi kernel: [    1.686043] dwc_otg: FIQ split-transaction FSM enabled
+Sep 28 19:53:55 raspberrypi kernel: [    1.686081] Module dwc_common_port init
+Sep 28 19:53:55 raspberrypi kernel: [    1.686342] usbcore: registered new interface driver usb-storage
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Restore Sound Card State...
+Sep 28 19:53:55 raspberrypi kernel: [    1.689552] mousedev: PS/2 mouse device common for all mice
+Sep 28 19:53:55 raspberrypi kernel: [    1.693208] bcm2835-cpufreq: min=600000 max=1200000
+Sep 28 19:53:55 raspberrypi kernel: [    1.696415] sdhci: Secure Digital Host Controller Interface driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Basic System.
+Sep 28 19:53:55 raspberrypi kernel: [    1.699382] sdhci: Copyright(c) Pierre Ossman
+Sep 28 19:53:55 raspberrypi kernel: [    1.702697] sdhost: log_buf @ bac13000 (fac13000)
+Sep 28 19:53:55 raspberrypi kernel: [    1.780654] mmc0: sdhost-bcm2835 loaded - DMA enabled (>1)
+Sep 28 19:53:55 raspberrypi kernel: [    1.785915] mmc-bcm2835 3f300000.mmc: mmc_debug:0 mmc_debug2:0
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Basic System.
+Sep 28 19:53:55 raspberrypi kernel: [    1.788891] mmc-bcm2835 3f300000.mmc: DMA channel allocated
+Sep 28 19:53:55 raspberrypi kernel: [    1.840637] sdhci-pltfm: SDHCI platform and OF driver helper
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting dhcpcd on all interfaces...
+Sep 28 19:53:55 raspberrypi kernel: [    1.844004] ledtrig-cpu: registered to indicate activity on CPUs
+Sep 28 19:53:55 raspberrypi kernel: [    1.847074] hidraw: raw HID events driver (C) Jiri Kosina
+Sep 28 19:53:55 raspberrypi kernel: [    1.850191] usbcore: registered new interface driver usbhid
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Regular background program processing daemon...
+Sep 28 19:53:55 raspberrypi kernel: [    1.853154] usbhid: USB HID core driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Regular background program processing daemon.
+Sep 28 19:53:55 raspberrypi kernel: [    1.856598] Initializing XFRM netlink socket
+Sep 28 19:53:55 raspberrypi kernel: [    1.859541] NET: Registered protocol family 17
+Sep 28 19:53:55 raspberrypi kernel: [    1.862582] Key type dns_resolver registered
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Configure Bluetooth Modems connected by UART...
+Sep 28 19:53:55 raspberrypi kernel: [    1.865959] Registering SWP/SWPB emulation handler
+Sep 28 19:53:55 raspberrypi kernel: [    1.869626] registered taskstats version 1
+Sep 28 19:53:55 raspberrypi kernel: [    1.872664] vc-sm: Videocore shared memory driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Started getty on tty2-tty6 if dbus and logind are not available.
+Sep 28 19:53:55 raspberrypi kernel: [    1.875510] [vc_sm_connected_init]: start
+Sep 28 19:53:55 raspberrypi kernel: [    1.879818] [vc_sm_connected_init]: end - returning 0
+Sep 28 19:53:55 raspberrypi kernel: [    1.882051] mmc0: host does not support reading read-only switch, assuming write-enable
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Login Service...
+Sep 28 19:53:55 raspberrypi kernel: [    1.884445] mmc0: new high speed SDHC card at address aaaa
+Sep 28 19:53:55 raspberrypi kernel: [    1.885006] mmcblk0: mmc0:aaaa SL16G 14.8 GiB
+Sep 28 19:53:55 raspberrypi kernel: [    1.889907]  mmcblk0: p1 p2
+Sep 28 19:53:55 raspberrypi cron[459]: (CRON) INFO (pidfile fd = 3)
+Sep 28 19:53:55 raspberrypi kernel: [    1.893898] Indeed it is in host mode hprt0 = 00021501
+Sep 28 19:53:55 raspberrypi kernel: [    1.898222] 3f201000.uart: ttyAMA0 at MMIO 0x3f201000 (irq = 87, base_baud = 0) is a PL011 rev2
+Sep 28 19:53:55 raspberrypi kernel: [    1.901530] of_cfs_init
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Autogenerate and use a swap file...
+Sep 28 19:53:55 raspberrypi kernel: [    1.904540] of_cfs_init: OK
+Sep 28 19:53:55 raspberrypi kernel: [    1.913396] mmc1: queuing unknown CIS tuple 0x80 (2 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    1.917868] mmc1: queuing unknown CIS tuple 0x80 (3 bytes)
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: triggerhappy hotkey daemon...
+Sep 28 19:53:55 raspberrypi kernel: [    1.922275] mmc1: queuing unknown CIS tuple 0x80 (3 bytes)
+Sep 28 19:53:55 raspberrypi kernel: [    1.927928] mmc1: queuing unknown CIS tuple 0x80 (7 bytes)
+Sep 28 19:53:55 raspberrypi dhcpcd[458]: version 6.7.1 starting
+Sep 28 19:53:55 raspberrypi kernel: [    1.930151] EXT4-fs (mmcblk0p2): mounted filesystem with ordered data mode. Opts: (null)
+Sep 28 19:53:55 raspberrypi kernel: [    1.930194] VFS: Mounted root (ext4 filesystem) readonly on device 179:2.
+Sep 28 19:53:55 raspberrypi kernel: [    1.933629] devtmpfs: mounted
+Sep 28 19:53:55 raspberrypi kernel: [    1.934392] Freeing unused kernel memory: 476K (807e7000 - 8085e000)
+Sep 28 19:53:55 raspberrypi kernel: [    2.032976] mmc1: new high speed SDIO card at address 0001
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting dnsmasq - A lightweight DHCP and caching DNS server...
+Sep 28 19:53:55 raspberrypi kernel: [    2.070553] usb 1-1: new high-speed USB device number 2 using dwc_otg
+Sep 28 19:53:55 raspberrypi kernel: [    2.073574] Indeed it is in host mode hprt0 = 00001101
+Sep 28 19:53:55 raspberrypi kernel: [    2.211416] random: systemd urandom read with 33 bits of entropy available
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Avahi mDNS/DNS-SD Stack...
+Sep 28 19:53:55 raspberrypi kernel: [    2.270867] usb 1-1: New USB device found, idVendor=0424, idProduct=9514
+Sep 28 19:53:55 raspberrypi kernel: [    2.274056] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Sep 28 19:53:55 raspberrypi kernel: [    2.277987] hub 1-1:1.0: USB hub found
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting D-Bus System Message Bus...
+Sep 28 19:53:55 raspberrypi kernel: [    2.281225] hub 1-1:1.0: 5 ports detected
+Sep 28 19:53:55 raspberrypi kernel: [    2.342365] NET: Registered protocol family 10
+Sep 28 19:53:55 raspberrypi systemd[1]: Started D-Bus System Message Bus.
+Sep 28 19:53:55 raspberrypi kernel: [    2.560570] usb 1-1.1: new high-speed USB device number 3 using dwc_otg
+Sep 28 19:53:55 raspberrypi kernel: [    2.660898] usb 1-1.1: New USB device found, idVendor=0424, idProduct=ec00
+Sep 28 19:53:55 raspberrypi kernel: [    2.664072] usb 1-1.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Sep 28 19:53:55 raspberrypi dhcpcd[458]: dev: loaded udev
+Sep 28 19:53:55 raspberrypi kernel: [    2.670116] smsc95xx v1.0.4
+Sep 28 19:53:55 raspberrypi kernel: [    2.734201] smsc95xx 1-1.1:1.0 eth0: register 'smsc95xx' at usb-3f980000.usb-1.1, smsc95xx USB 2.0 Ethernet, b8:27:eb:45:a1:d8
+Sep 28 19:53:55 raspberrypi dphys-swapfile[463]: Starting dphys-swapfile swapfile setup ...
+Sep 28 19:53:55 raspberrypi kernel: [    2.830576] usb 1-1.3: new low-speed USB device number 4 using dwc_otg
+Sep 28 19:53:55 raspberrypi dhcpcd[458]: eth0: adding address fe80::f28c:7798:9f00:f089
+Sep 28 19:53:55 raspberrypi dhcpcd[458]: forked to background, child pid 472
+Sep 28 19:53:55 raspberrypi cron[459]: (CRON) INFO (Running @reboot jobs)
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Found user 'avahi' (UID 105) and group 'avahi' (GID 110).
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Successfully dropped root privileges.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: avahi-daemon 0.6.31 starting up.
+Sep 28 19:53:55 raspberrypi dphys-swapfile[463]: want /var/swap=100MByte, checking existing: keeping it
+Sep 28 19:53:55 raspberrypi dnsmasq[466]: dnsmasq: syntax check OK.
+Sep 28 19:53:55 raspberrypi dphys-swapfile[463]: done.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Successfully called chroot().
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Successfully dropped remaining capabilities.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Loading service file /services/udisks.service.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting System Logging Service...
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Joining mDNS multicast group on interface wlan0.IPv4 with address 172.24.1.1.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: New relevant interface wlan0.IPv4 for mDNS.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Network interface enumeration completed.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Registering new address record for 172.24.1.1 on wlan0.IPv4.
+Sep 28 19:53:55 raspberrypi avahi-daemon[468]: Registering HINFO record with values 'ARMV7L'/'LINUX'.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Restore Sound Card State.
+Sep 28 19:53:55 raspberrypi kernel: [    2.974412] usb 1-1.3: New USB device found, idVendor=04f2, idProduct=0841
+Sep 28 19:53:55 raspberrypi kernel: [    2.977743] usb 1-1.3: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep 28 19:53:55 raspberrypi kernel: [    2.981023] usb 1-1.3: Product: HP USB Multimedia Keyboard
+Sep 28 19:53:55 raspberrypi systemd[1]: Started dhcpcd on all interfaces.
+Sep 28 19:53:55 raspberrypi kernel: [    2.984213] usb 1-1.3: Manufacturer: CHICONY
+Sep 28 19:53:55 raspberrypi kernel: [    3.000547] input: CHICONY HP USB Multimedia Keyboard as /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3/1-1.3:1.0/0003:04F2:0841.0001/input/input0
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Autogenerate and use a swap file.
+Sep 28 19:53:55 raspberrypi kernel: [    3.061406] hid-generic 0003:04F2:0841.0001: input,hidraw0: USB HID v1.11 Keyboard [CHICONY HP USB Multimedia Keyboard] on usb-3f980000.usb-1.3/input0
+Sep 28 19:53:55 raspberrypi kernel: [    3.083810] input: CHICONY HP USB Multimedia Keyboard as /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.3/1-1.3:1.1/0003:04F2:0841.0002/input/input1
+Sep 28 19:53:55 raspberrypi kernel: [    3.141193] hid-generic 0003:04F2:0841.0002: input,hiddev0,hidraw1: USB HID v1.11 Device [CHICONY HP USB Multimedia Keyboard] on usb-3f980000.usb-1.3/input1
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: triggerhappy hotkey daemon.
+Sep 28 19:53:55 raspberrypi kernel: [    3.225558] fuse init (API version 7.23)
+Sep 28 19:53:55 raspberrypi kernel: [    3.240641] usb 1-1.5: new low-speed USB device number 5 using dwc_otg
+Sep 28 19:53:55 raspberrypi kernel: [    3.292764] i2c /dev entries driver
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Network.
+Sep 28 19:53:55 raspberrypi kernel: [    3.371418] usb 1-1.5: New USB device found, idVendor=413c, idProduct=3010
+Sep 28 19:53:55 raspberrypi kernel: [    3.375462] usb 1-1.5: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Sep 28 19:53:55 raspberrypi kernel: [    3.386115] input: HID 413c:3010 as /devices/platform/soc/3f980000.usb/usb1/1-1/1-1.5/1-1.5:1.0/0003:413C:3010.0003/input/input2
+Sep 28 19:53:55 raspberrypi kernel: [    3.386620] hid-generic 0003:413C:3010.0003: input,hidraw2: USB HID v1.00 Mouse [HID 413c:3010] on usb-3f980000.usb-1.5/input0
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Network.
+Sep 28 19:53:55 raspberrypi kernel: [    4.337083] bcm2835-wdt 3f100000.watchdog: Broadcom BCM2835 watchdog timer
+Sep 28 19:53:55 raspberrypi kernel: [    4.347656] gpiomem-bcm2835 3f200000.gpiomem: Initialised: Registers at 0x3f200000
+Sep 28 19:53:55 raspberrypi kernel: [    4.465620] EXT4-fs (mmcblk0p2): re-mounted. Opts: (null)
+Sep 28 19:53:55 raspberrypi kernel: [    4.620496] usbcore: registered new interface driver brcmfmac
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 28 19:53:55 raspberrypi kernel: [    4.689693] random: nonblocking pool is initialized
+Sep 28 19:53:55 raspberrypi kernel: [    4.753668] brcmfmac: brcmf_c_preinit_dcmds: Firmware version = wl0: May 27 2016 00:13:38 version 7.45.41.26 (r640327) FWID 01-df77e4a7
+Sep 28 19:53:55 raspberrypi kernel: [    4.775835] brcmfmac: brcmf_cfg80211_reg_notifier: not a ISO3166 code
+Sep 28 19:53:55 raspberrypi kernel: [    4.850072] brcmfmac: brcmf_cfg80211_reg_notifier: not a ISO3166 code
+Sep 28 19:53:55 raspberrypi kernel: [    4.850101] cfg80211: World regulatory domain updated:
+Sep 28 19:53:55 raspberrypi kernel: [    4.850110] cfg80211:  DFS Master region: unset
+Sep 28 19:53:55 raspberrypi kernel: [    4.850119] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850137] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850150] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850162] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850176] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850190] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850203] cfg80211:   (5490000 KHz - 5730000 KHz @ 160000 KHz), (N/A, 2000 mBm), (0 s)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850215] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    4.850231] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    5.942155] brcmfmac: brcmf_add_if: ERROR: netdev:wlan0 already exists
+Sep 28 19:53:55 raspberrypi kernel: [    5.942180] brcmfmac: brcmf_add_if: ignore IF event
+Sep 28 19:53:55 raspberrypi kernel: [    5.947007] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+Sep 28 19:53:55 raspberrypi kernel: [    5.947130] brcmfmac: power management disabled
+Sep 28 19:53:55 raspberrypi kernel: [    6.464389] uart-pl011 3f201000.uart: no DMA platform data
+Sep 28 19:53:55 raspberrypi kernel: [    6.707738] ip_tables: (C) 2000-2006 Netfilter Core Team
+Sep 28 19:53:55 raspberrypi kernel: [    6.730099] Adding 102396k swap on /var/swap.  Priority:-1 extents:1 across:102396k SSFS
+Sep 28 19:53:55 raspberrypi kernel: [    6.745197] nf_conntrack version 0.5.0 (14808 buckets, 59232 max)
+Sep 28 19:53:55 raspberrypi dnsmasq[556]: started, version 2.72 cachesize 150
+Sep 28 19:53:55 raspberrypi dnsmasq[556]: compile time options: IPv6 GNU-getopt DBus i18n IDN DHCP DHCPv6 no-Lua TFTP conntrack ipset auth DNSSEC loop-detect
+Sep 28 19:53:55 raspberrypi dnsmasq-dhcp[556]: DHCP, IP range 172.24.1.50 -- 172.24.1.150, lease time 12h
+Sep 28 19:53:55 raspberrypi dnsmasq-dhcp[556]: DHCP, sockets bound exclusively to interface wlan0
+Sep 28 19:53:55 raspberrypi dnsmasq[556]: using nameserver 8.8.8.8#53
+Sep 28 19:53:55 raspberrypi dnsmasq[556]: no servers found in /var/run/dnsmasq/resolv.conf, will retry
+Sep 28 19:53:55 raspberrypi dnsmasq[556]: read /etc/hosts - 5 addresses
+Sep 28 19:53:55 raspberrypi systemd[1]: Started OpenBSD Secure Shell server.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting /etc/rc.local Compatibility...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Network is Online.
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Network is Online.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Advanced IEEE 802.11 management daemon...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting LSB: Start NTP daemon...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Permit User Sessions...
+Sep 28 19:53:55 raspberrypi systemd[1]: Started System Logging Service.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started /etc/rc.local Compatibility.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Login Service.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Permit User Sessions.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Light Display Manager...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Terminate Plymouth Boot Screen...
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Wait for Plymouth Boot Screen to Quit...
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Wait for Plymouth Boot Screen to Quit.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Terminate Plymouth Boot Screen.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Getty on tty1...
+Sep 28 19:53:55 raspberrypi ntpd[603]: ntpd 4.2.6p5@1.2349-o Mon Jul 25 22:35:28 UTC 2016 (1)
+Sep 28 19:53:55 raspberrypi ntpd[667]: proto: precision = 0.521 usec
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listen and drop on 0 v4wildcard 0.0.0.0 UDP 123
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listen and drop on 1 v6wildcard :: UDP 123
+Sep 28 19:53:55 raspberrypi systemd[1]: Started Getty on tty1.
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Login Prompts.
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Login Prompts.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Start NTP daemon.
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listen normally on 2 lo 127.0.0.1 UDP 123
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listen normally on 3 wlan0 172.24.1.1 UDP 123
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listen normally on 4 lo ::1 UDP 123
+Sep 28 19:53:55 raspberrypi ntpd[667]: peers refreshed
+Sep 28 19:53:55 raspberrypi ntpd[667]: Listening on routing socket on fd #21 for interface updates
+Sep 28 19:53:55 raspberrypi systemd[1]: Started LSB: Advanced IEEE 802.11 management daemon.
+Sep 28 19:53:55 raspberrypi ntp[569]: Starting NTP server: ntpd.
+Sep 28 19:53:55 raspberrypi hostapd[566]: Starting advanced IEEE 802.11 management: hostapd.
+Sep 28 19:53:55 raspberrypi systemd[1]: Started dnsmasq - A lightweight DHCP and caching DNS server.
+Sep 28 19:53:55 raspberrypi kernel: [    7.199731] cfg80211: Regulatory domain changed to country: US
+Sep 28 19:53:55 raspberrypi kernel: [    7.199745] cfg80211:  DFS Master region: FCC
+Sep 28 19:53:55 raspberrypi kernel: [    7.199750] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+Sep 28 19:53:55 raspberrypi kernel: [    7.199757] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 3000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    7.199766] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 1700 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    7.199773] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2300 mBm), (0 s)
+Sep 28 19:53:55 raspberrypi kernel: [    7.199780] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 3000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi kernel: [    7.199786] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 4000 mBm), (N/A)
+Sep 28 19:53:55 raspberrypi ntpd[667]: Deferring DNS for 0.debian.pool.ntp.org 1
+Sep 28 19:53:55 raspberrypi systemd[1]: Starting Host and Network Name Lookups.
+Sep 28 19:53:55 raspberrypi systemd[1]: Reached target Host and Network Name Lookups.
+Sep 28 19:53:56 raspberrypi systemd[1]: Starting LSB: DHCP server...
+Sep 28 19:53:56 raspberrypi ntpd[667]: Deferring DNS for 1.debian.pool.ntp.org 1
+Sep 28 19:53:56 raspberrypi ntpd[667]: Deferring DNS for 2.debian.pool.ntp.org 1
+Sep 28 19:53:56 raspberrypi ntpd[667]: Deferring DNS for 3.debian.pool.ntp.org 1
+Sep 28 19:53:56 raspberrypi ntpd[694]: signal_no_reset: signal 17 had flags 4000000
+Sep 28 19:53:56 raspberrypi dhcpcd[472]: eth0: waiting for carrier
+Sep 28 19:53:56 raspberrypi avahi-daemon[468]: Joining mDNS multicast group on interface eth0.IPv6 with address fe80::f28c:7798:9f00:f089.
+Sep 28 19:53:56 raspberrypi avahi-daemon[468]: New relevant interface eth0.IPv6 for mDNS.
+Sep 28 19:53:56 raspberrypi avahi-daemon[468]: Registering new address record for fe80::f28c:7798:9f00:f089 on eth0.*.
+Sep 28 19:53:56 raspberrypi kernel: [    7.331867] smsc95xx 1-1.1:1.0 eth0: hardware isn't capable of remote wakeup
+Sep 28 19:53:56 raspberrypi kernel: [    7.332024] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Sep 28 19:53:56 raspberrypi kernel: [    7.397814] brcmfmac: brcmf_add_if: ERROR: netdev:wlan0 already exists
+Sep 28 19:53:56 raspberrypi kernel: [    7.397832] brcmfmac: brcmf_add_if: ignore IF event
+Sep 28 19:53:56 raspberrypi dhcpd: /etc/dhcp/dhcpd.conf line 118: semicolon expected.
+Sep 28 19:53:56 raspberrypi dhcpd: option
+Sep 28 19:53:56 raspberrypi dhcpd:  ^
+Sep 28 19:53:56 raspberrypi dhcpd: Configuration file errors encountered -- exiting
+Sep 28 19:53:56 raspberrypi dhcpd: 
+Sep 28 19:53:56 raspberrypi dhcpd: If you think you have received this message due to a bug rather
+Sep 28 19:53:56 raspberrypi dhcpd: than a configuration issue please read the section on submitting
+Sep 28 19:53:56 raspberrypi dhcpd: bugs on either our web page at www.isc.org or in the README file
+Sep 28 19:53:56 raspberrypi dhcpd: before submitting a bug.  These pages explain the proper
+Sep 28 19:53:56 raspberrypi dhcpd: process and the information we find helpful for debugging..
+Sep 28 19:53:56 raspberrypi dhcpd: 
+Sep 28 19:53:56 raspberrypi dhcpd: exiting.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: dhcpd self-test failed. Please fix /etc/dhcp/dhcpd.conf.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: The error was:
+Sep 28 19:53:56 raspberrypi kernel: [    7.458781] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+Sep 28 19:53:56 raspberrypi dhcpd: Internet Systems Consortium DHCP Server 4.3.1
+Sep 28 19:53:56 raspberrypi dhcpd: Copyright 2004-2014 Internet Systems Consortium.
+Sep 28 19:53:56 raspberrypi dhcpd: All rights reserved.
+Sep 28 19:53:56 raspberrypi dhcpd: For info, please visit https://www.isc.org/software/dhcp/
+Sep 28 19:53:56 raspberrypi dhcpd: Config file: /etc/dhcp/dhcpd.conf
+Sep 28 19:53:56 raspberrypi dhcpd: Database file: /var/lib/dhcp/dhcpd.leases
+Sep 28 19:53:56 raspberrypi dhcpd: PID file: /var/run/dhcpd.pid
+Sep 28 19:53:56 raspberrypi dhcpd: /etc/dhcp/dhcpd.conf line 118: semicolon expected.
+Sep 28 19:53:56 raspberrypi dhcpd: option
+Sep 28 19:53:56 raspberrypi dhcpd:  ^
+Sep 28 19:53:56 raspberrypi dhcpd: Configuration file errors encountered -- exiting
+Sep 28 19:53:56 raspberrypi dhcpd: 
+Sep 28 19:53:56 raspberrypi dhcpd: If you think you have received this message due to a bug rather
+Sep 28 19:53:56 raspberrypi dhcpd: than a configuration issue please read the section on submitting
+Sep 28 19:53:56 raspberrypi dhcpd: bugs on either our web page at www.isc.org or in the README file
+Sep 28 19:53:56 raspberrypi dhcpd: before submitting a bug.  These pages explain the proper
+Sep 28 19:53:56 raspberrypi dhcpd: process and the information we find helpful for debugging..
+Sep 28 19:53:56 raspberrypi dhcpd: 
+Sep 28 19:53:56 raspberrypi dhcpd: exiting.
+Sep 28 19:53:56 raspberrypi systemd[1]: isc-dhcp-server.service: control process exited, code=exited status=1
+Sep 28 19:53:56 raspberrypi systemd[1]: Failed to start LSB: DHCP server.
+Sep 28 19:53:56 raspberrypi systemd[1]: Unit isc-dhcp-server.service entered failed state.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: Internet Systems Consortium DHCP Server 4.3.1
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: Copyright 2004-2014 Internet Systems Consortium.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: All rights reserved.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: For info, please visit https://www.isc.org/software/dhcp/
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: Config file: /etc/dhcp/dhcpd.conf
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: Database file: /var/lib/dhcp/dhcpd.leases
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: PID file: /var/run/dhcpd.pid
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: /etc/dhcp/dhcpd.conf line 118: semicolon expected.
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: option
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: ^
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: Configuration file errors encountered -- exiting
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: If you think you have received this message due to a bug rather
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: than a configuration issue please read the section on submitting
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: bugs on either our web page at www.isc.org or in the README file
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: before submitting a bug.  These pages explain the proper
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: process and the information we find helpful for debugging..
+Sep 28 19:53:56 raspberrypi isc-dhcp-server[690]: exiting.
+Sep 28 19:53:56 raspberrypi lightdm[631]: ** (lightdm:631): WARNING **: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Sep 28 19:53:56 raspberrypi systemd[1]: Started Light Display Manager.
+Sep 28 19:53:57 raspberrypi avahi-daemon[468]: Server startup complete. Host name is raspberrypi.local. Local service cookie is 2951663165.
+Sep 28 19:53:57 raspberrypi avahi-daemon[468]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::ba27:ebff:fe10:f48d.
+Sep 28 19:53:57 raspberrypi avahi-daemon[468]: New relevant interface wlan0.IPv6 for mDNS.
+Sep 28 19:53:57 raspberrypi avahi-daemon[468]: Registering new address record for fe80::ba27:ebff:fe10:f48d on wlan0.*.
+Sep 28 19:53:57 raspberrypi kernel: [    8.950408] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+Sep 28 19:53:57 raspberrypi dhcpcd[472]: eth0: carrier acquired
+Sep 28 19:53:57 raspberrypi kernel: [    8.951122] smsc95xx 1-1.1:1.0 eth0: link up, 100Mbps, full-duplex, lpa 0xC1E1
+Sep 28 19:53:57 raspberrypi dhcpcd[472]: DUID 00:01:00:01:1e:da:f2:ae:00:c0:ca:59:07:94
+Sep 28 19:53:57 raspberrypi dhcpcd[472]: eth0: IAID eb:45:a1:d8
+Sep 28 19:53:57 raspberrypi lightdm[631]: ** (process:723): WARNING **: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Sep 28 19:53:57 raspberrypi ntpd_intres[694]: host name not found: 0.debian.pool.ntp.org
+Sep 28 19:53:57 raspberrypi systemd[1]: Starting user-1000.slice.
+Sep 28 19:53:57 raspberrypi systemd[1]: Created slice user-1000.slice.
+Sep 28 19:53:57 raspberrypi ntpd_intres[694]: host name not found: 1.debian.pool.ntp.org
+Sep 28 19:53:57 raspberrypi ntpd_intres[694]: host name not found: 2.debian.pool.ntp.org
+Sep 28 19:53:57 raspberrypi ntpd_intres[694]: host name not found: 3.debian.pool.ntp.org
+Sep 28 19:53:58 raspberrypi systemd[1]: Starting User Manager for UID 1000...
+Sep 28 19:53:58 raspberrypi systemd[1]: Starting Session c1 of user pi.
+Sep 28 19:53:58 raspberrypi systemd[1]: Started Session c1 of user pi.
+Sep 28 19:53:58 raspberrypi systemd[731]: Starting Paths.
+Sep 28 19:53:58 raspberrypi systemd[731]: Reached target Paths.
+Sep 28 19:53:58 raspberrypi systemd[731]: Starting Timers.
+Sep 28 19:53:58 raspberrypi systemd[731]: Reached target Timers.
+Sep 28 19:53:58 raspberrypi systemd[731]: Starting Sockets.
+Sep 28 19:53:58 raspberrypi systemd[731]: Reached target Sockets.
+Sep 28 19:53:58 raspberrypi systemd[731]: Starting Basic System.
+Sep 28 19:53:58 raspberrypi systemd[731]: Reached target Basic System.
+Sep 28 19:53:58 raspberrypi systemd[731]: Starting Default.
+Sep 28 19:53:58 raspberrypi systemd[731]: Reached target Default.
+Sep 28 19:53:58 raspberrypi systemd[731]: Startup finished in 47ms.
+Sep 28 19:53:58 raspberrypi systemd[1]: Started User Manager for UID 1000.
+Sep 28 19:53:58 raspberrypi dhcpcd[472]: eth0: rebinding lease of 192.168.128.27
+Sep 28 19:53:58 raspberrypi dhcpcd[472]: eth0: soliciting an IPv6 router
+Sep 28 19:53:58 raspberrypi avahi-daemon[468]: Service "raspberrypi" (/services/udisks.service) successfully established.
+Sep 28 19:53:59 raspberrypi kernel: [   11.045482] Bluetooth: Core ver 2.21
+Sep 28 19:53:59 raspberrypi kernel: [   11.045567] NET: Registered protocol family 31
+Sep 28 19:53:59 raspberrypi kernel: [   11.045577] Bluetooth: HCI device and connection manager initialized
+Sep 28 19:53:59 raspberrypi kernel: [   11.045600] Bluetooth: HCI socket layer initialized
+Sep 28 19:53:59 raspberrypi kernel: [   11.045617] Bluetooth: L2CAP socket layer initialized
+Sep 28 19:53:59 raspberrypi kernel: [   11.045655] Bluetooth: SCO socket layer initialized
+Sep 28 19:53:59 raspberrypi hciattach[460]: bcm43xx_init
+Sep 28 19:53:59 raspberrypi hciattach[460]: Flash firmware /lib/firmware/BCM43430A1.hcd
+Sep 28 19:53:59 raspberrypi kernel: [   11.055411] Bluetooth: HCI UART driver ver 2.3
+Sep 28 19:53:59 raspberrypi kernel: [   11.055434] Bluetooth: HCI UART protocol H4 registered
+Sep 28 19:53:59 raspberrypi kernel: [   11.055444] Bluetooth: HCI UART protocol Three-wire (H5) registered
+Sep 28 19:53:59 raspberrypi kernel: [   11.055642] Bluetooth: HCI UART protocol BCM registered
+Sep 28 19:53:59 raspberrypi hciattach[460]: Set Controller UART speed to 921600 bit/s
+Sep 28 19:53:59 raspberrypi hciattach[460]: Device setup complete
+Sep 28 19:53:59 raspberrypi systemd[1]: Started Configure Bluetooth Modems connected by UART.
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Multi-User System.
+Sep 28 19:53:59 raspberrypi systemd[1]: Reached target Multi-User System.
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Graphical Interface.
+Sep 28 19:53:59 raspberrypi systemd[1]: Reached target Graphical Interface.
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Sep 28 19:53:59 raspberrypi ntpd[667]: Listen normally on 5 eth0 fe80::f28c:7798:9f00:f089 UDP 123
+Sep 28 19:53:59 raspberrypi ntpd[667]: Listen normally on 6 wlan0 fe80::ba27:ebff:fe10:f48d UDP 123
+Sep 28 19:53:59 raspberrypi ntpd[667]: peers refreshed
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Load/Save RF Kill Switch Status of rfkill1...
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Bluetooth service...
+Sep 28 19:53:59 raspberrypi systemd[1]: Started Load/Save RF Kill Switch Status of rfkill1.
+Sep 28 19:53:59 raspberrypi systemd[1]: Started Update UTMP about System Runlevel Changes.
+Sep 28 19:53:59 raspberrypi bluetoothd[787]: Bluetooth daemon 5.23
+Sep 28 19:53:59 raspberrypi systemd[1]: Started Bluetooth service.
+Sep 28 19:53:59 raspberrypi systemd[1]: Starting Bluetooth.
+Sep 28 19:53:59 raspberrypi systemd[1]: Reached target Bluetooth.
+Sep 28 19:54:00 raspberrypi systemd[1]: Startup finished in 2.157s (kernel) + 9.053s (userspace) = 11.211s.
+Sep 28 19:54:00 raspberrypi bluetoothd[787]: Starting SDP server
+Sep 28 19:54:00 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 19:54:30 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 19:54:00 raspberrypi kernel: [   11.303457] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Sep 28 19:54:00 raspberrypi kernel: [   11.303480] Bluetooth: BNEP filters: protocol multicast
+Sep 28 19:54:00 raspberrypi kernel: [   11.303506] Bluetooth: BNEP socket layer initialized
+Sep 28 19:54:00 raspberrypi dbus[470]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep 28 19:54:00 raspberrypi bluetoothd[787]: Bluetooth management interface 1.10 initialized
+Sep 28 19:54:00 raspberrypi bluetoothd[787]: Sap driver initialization failed.
+Sep 28 19:54:00 raspberrypi bluetoothd[787]: sap-server: Operation not permitted (1)
+Sep 28 19:54:00 raspberrypi systemd[1]: Starting Hostname Service...
+Sep 28 19:54:00 raspberrypi systemd-hostnamed[798]: Warning: nss-myhostname is not installed. Changing the local hostname might make it unresolveable. Please install nss-myhostname!
+Sep 28 19:54:00 raspberrypi dbus[470]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep 28 19:54:00 raspberrypi systemd[1]: Started Hostname Service.
+Sep 28 19:54:00 raspberrypi systemd[1]: Starting Session c2 of user pi.
+Sep 28 19:54:00 raspberrypi systemd[1]: Started Session c2 of user pi.
+Sep 28 19:54:00 raspberrypi dbus[470]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkitd.service'
+Sep 28 19:54:00 raspberrypi systemd[1]: Starting Authenticate and Authorize Users to Run Privileged Tasks...
+Sep 28 19:54:01 raspberrypi polkitd[839]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Sep 28 19:54:01 raspberrypi dbus[470]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Sep 28 19:54:01 raspberrypi systemd[1]: Started Authenticate and Authorize Users to Run Privileged Tasks.
+Sep 28 19:54:01 raspberrypi dbus[470]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service'
+Sep 28 19:54:01 raspberrypi systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+Sep 28 19:54:01 raspberrypi dbus[470]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully called chroot.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully dropped privileges.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully limited resources.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Running.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Canary thread running.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Watchdog thread running.
+Sep 28 19:54:01 raspberrypi systemd[1]: Started RealtimeKit Scheduling Policy Service.
+Sep 28 19:54:01 raspberrypi dbus[470]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service'
+Sep 28 19:54:01 raspberrypi systemd[1]: Starting Disk Manager...
+Sep 28 19:54:01 raspberrypi udisksd[874]: udisks daemon version 2.1.3 starting
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Successfully made thread 858 of process 858 (/usr/bin/pulseaudio) owned by '1000' high priority at nice level -11.
+Sep 28 19:54:01 raspberrypi rtkit-daemon[863]: Supervising 1 threads of 1 processes of 1 users.
+Sep 28 19:54:01 raspberrypi ntpd_intres[694]: host name not found: 0.debian.pool.ntp.org
+Sep 28 19:54:01 raspberrypi ntpd_intres[694]: host name not found: 1.debian.pool.ntp.org
+Sep 28 19:54:01 raspberrypi ntpd_intres[694]: host name not found: 2.debian.pool.ntp.org
+Sep 28 19:54:01 raspberrypi ntpd_intres[694]: host name not found: 3.debian.pool.ntp.org
+Sep 28 19:54:02 raspberrypi dbus[470]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+Sep 28 19:54:02 raspberrypi systemd[1]: Started Disk Manager.
+Sep 28 19:54:02 raspberrypi udisksd[874]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Sep 28 19:54:02 raspberrypi pulseaudio[858]: org.bluez.Manager.GetProperties() failed: org.freedesktop.DBus.Error.UnknownMethod: Method "GetProperties" with signature "" on interface "org.bluez.Manager" doesn't exist
+Sep 28 19:54:02 raspberrypi bluetoothd[787]: Endpoint registered: sender=:1.15 path=/MediaEndpoint/A2DPSource
+Sep 28 19:54:02 raspberrypi bluetoothd[787]: Endpoint registered: sender=:1.15 path=/MediaEndpoint/A2DPSink
+Sep 28 19:54:02 raspberrypi org.gtk.Private.AfcVolumeMonitor[765]: Volume monitor alive
+Sep 28 19:54:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: associated
+Sep 28 19:54:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: disassociated
+Sep 28 19:54:03 raspberrypi dhcpcd[472]: eth0: probing for an IPv4LL address
+Sep 28 19:54:03 raspberrypi dhcpcd[472]: eth0: DHCP lease expired
+Sep 28 19:54:03 raspberrypi dhcpcd[472]: eth0: soliciting a DHCP lease
+Sep 28 19:54:03 raspberrypi bluetoothd[787]: Endpoint unregistered: sender=:1.15 path=/MediaEndpoint/A2DPSource
+Sep 28 19:54:03 raspberrypi bluetoothd[787]: Endpoint unregistered: sender=:1.15 path=/MediaEndpoint/A2DPSink
+Sep 28 19:54:04 raspberrypi dhcpcd[472]: eth0: offered 192.168.128.27 from 192.168.128.1
+Sep 28 19:54:08 raspberrypi dhcpcd[472]: eth0: using IPv4LL address 169.254.31.21
+Sep 28 19:54:08 raspberrypi dhcpcd[472]: eth0: adding route to 169.254.0.0/16
+Sep 28 19:54:08 raspberrypi avahi-daemon[468]: Joining mDNS multicast group on interface eth0.IPv4 with address 169.254.31.21.
+Sep 28 19:54:08 raspberrypi avahi-daemon[468]: New relevant interface eth0.IPv4 for mDNS.
+Sep 28 19:54:08 raspberrypi avahi-daemon[468]: Registering new address record for 169.254.31.21 on eth0.IPv4.
+Sep 28 19:54:09 raspberrypi dhcpcd[472]: eth0: leased 192.168.128.27 for 86400 seconds
+Sep 28 19:54:09 raspberrypi avahi-daemon[468]: Registering new address record for 192.168.128.27 on eth0.IPv4.
+Sep 28 19:54:09 raspberrypi avahi-daemon[468]: Withdrawing address record for 169.254.31.21 on eth0.
+Sep 28 19:54:09 raspberrypi avahi-daemon[468]: Leaving mDNS multicast group on interface eth0.IPv4 with address 169.254.31.21.
+Sep 28 19:54:09 raspberrypi dhcpcd[472]: eth0: adding route to 192.168.128.0/24
+Sep 28 19:54:09 raspberrypi dhcpcd[472]: eth0: adding default route via 192.168.128.1
+Sep 28 19:54:09 raspberrypi dhcpcd[472]: eth0: deleting route to 169.254.0.0/16
+Sep 28 19:54:09 raspberrypi avahi-daemon[468]: Joining mDNS multicast group on interface eth0.IPv4 with address 192.168.128.27.
+Sep 28 19:54:10 raspberrypi dhcpcd[472]: eth0: no IPv6 Routers available
+Sep 28 19:54:10 raspberrypi ntpd[667]: Listen normally on 7 eth0 192.168.128.27 UDP 123
+Sep 28 19:54:10 raspberrypi ntpd[667]: peers refreshed
+Sep 28 19:54:12 raspberrypi dnsmasq[556]: reading /var/run/dnsmasq/resolv.conf
+Sep 28 19:54:12 raspberrypi dnsmasq[556]: using nameserver 8.8.8.8#53
+Sep 28 19:54:12 raspberrypi dnsmasq[556]: using nameserver 192.168.128.1#53
+Sep 28 19:54:12 raspberrypi ntpd_intres[694]: DNS 0.debian.pool.ntp.org -> 45.56.105.98
+Sep 28 19:54:13 raspberrypi ntpd_intres[694]: DNS 1.debian.pool.ntp.org -> 207.196.240.30
+Sep 28 19:54:13 raspberrypi ntpd_intres[694]: DNS 2.debian.pool.ntp.org -> 199.102.46.78
+Sep 28 19:54:13 raspberrypi ntpd_intres[694]: DNS 3.debian.pool.ntp.org -> 67.18.187.111
+Sep 28 19:54:27 raspberrypi systemd[731]: Time has been changed
+Sep 28 19:54:27 raspberrypi systemd[1]: Time has been changed
+Sep 28 19:57:23 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 19:57:53 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 19:57:43 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: associated
+Sep 28 19:57:44 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 RADIUS: starting accounting session 57EC1FD4-00000001
+Sep 28 19:57:44 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: pairwise key handshake completed (RSN)
+Sep 28 19:57:44 raspberrypi dnsmasq-dhcp[556]: DHCPREQUEST(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8
+Sep 28 19:57:44 raspberrypi dnsmasq-dhcp[556]: DHCPACK(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8 DESKTOP-0RU3EJU
+Sep 28 19:57:45 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: disassociated
+Sep 28 19:57:45 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: disassociated
+Sep 28 19:58:19 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: associated
+Sep 28 19:58:19 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 19:58:49 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 19:58:19 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 RADIUS: starting accounting session 57EC1FD4-00000002
+Sep 28 19:58:19 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: pairwise key handshake completed (RSN)
+Sep 28 19:58:19 raspberrypi dnsmasq-dhcp[556]: DHCPREQUEST(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8
+Sep 28 19:58:19 raspberrypi dnsmasq-dhcp[556]: DHCPACK(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8 DESKTOP-0RU3EJU
+Sep 28 20:04:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:04:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:04:33 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:09:03 raspberrypi systemd[1]: Starting Cleanup of Temporary Directories...
+Sep 28 20:09:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:09:33 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:09:03 raspberrypi systemd[1]: Started Cleanup of Temporary Directories.
+Sep 28 20:14:00 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: associated
+Sep 28 20:14:00 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:14:30 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:14:00 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 RADIUS: starting accounting session 57EC1FD4-00000003
+Sep 28 20:14:00 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: pairwise key handshake completed (RSN)
+Sep 28 20:14:01 raspberrypi dnsmasq-dhcp[556]: DHCPREQUEST(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 28 20:14:01 raspberrypi dnsmasq-dhcp[556]: DHCPACK(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16 android-1ebd820236cea9f3
+Sep 28 20:14:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:14:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 20:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:17:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:17:01 raspberrypi CRON[2981]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 20:24:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:24:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:24:33 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:24:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 20:34:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:34:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:34:33 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:34:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 20:40:39 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:41:09 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:41:23 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:42:23 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:44:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:44:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:45:03 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:44:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 20:47:57 raspberrypi dbus[470]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service'
+Sep 28 20:47:57 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:48:57 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:47:57 raspberrypi systemd[1]: Starting PackageKit Daemon...
+Sep 28 20:47:57 raspberrypi PackageKit: daemon start
+Sep 28 20:47:57 raspberrypi dbus[470]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep 28 20:47:57 raspberrypi systemd[1]: Started PackageKit Daemon.
+Sep 28 20:53:23 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 20:54:23 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 20:54:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 20:54:03 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 21:04:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 21:04:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:05:03 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:04:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 28 21:13:26 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: disassociated
+Sep 28 21:13:26 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:14:26 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:13:26 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: disassociated
+Sep 28 21:14:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 21:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:18:01 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:17:01 raspberrypi CRON[3995]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 21:24:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 21:24:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:25:03 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:34:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 21:34:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:35:03 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:38:44 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:39:44 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:42:00 raspberrypi kernel: [ 6484.041153] gpiomem-bcm2835 3f200000.gpiomem: gpiomem device opened.
+Sep 28 21:42:00 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:43:30 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:44:03 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 28 21:44:03 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 21:45:33 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 21:45:10 raspberrypi systemd[1]: Stopping Host and Network Name Lookups.
+Sep 28 21:45:10 raspberrypi systemd[1]: Stopping dnsmasq - A lightweight DHCP and caching DNS server...
+Sep 28 21:45:10 raspberrypi dnsmasq[556]: exiting on receipt of SIGTERM
+Sep 28 21:45:10 raspberrypi systemd[1]: Starting dnsmasq - A lightweight DHCP and caching DNS server...
+Sep 28 21:45:10 raspberrypi dnsmasq[4189]: dnsmasq: syntax check OK.
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: started, version 2.72 cachesize 150
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: compile time options: IPv6 GNU-getopt DBus i18n IDN DHCP DHCPv6 no-Lua TFTP conntrack ipset auth DNSSEC loop-detect
+Sep 28 21:45:10 raspberrypi dnsmasq-dhcp[4201]: DHCP, IP range 172.24.1.50 -- 172.24.1.150, lease time 12h
+Sep 28 21:45:10 raspberrypi dnsmasq-dhcp[4201]: DHCP, sockets bound exclusively to interface wlan0
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: using nameserver 8.8.8.8#53
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: reading /var/run/dnsmasq/resolv.conf
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: using nameserver 8.8.8.8#53
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: using nameserver 192.168.128.1#53
+Sep 28 21:45:10 raspberrypi dnsmasq[4201]: read /etc/hosts - 5 addresses
+Sep 28 21:45:11 raspberrypi systemd[1]: Started dnsmasq - A lightweight DHCP and caching DNS server.
+Sep 28 21:45:11 raspberrypi systemd[1]: Starting Host and Network Name Lookups.
+Sep 28 21:45:11 raspberrypi systemd[1]: Reached target Host and Network Name Lookups.
+Sep 28 21:45:14 raspberrypi systemd[1]: Stopping LSB: Advanced IEEE 802.11 management daemon...
+Sep 28 21:45:14 raspberrypi hostapd[4270]: Stopping advanced IEEE 802.11 management: hostapd.
+Sep 28 21:45:14 raspberrypi systemd[1]: Starting LSB: Advanced IEEE 802.11 management daemon...
+Sep 28 21:45:14 raspberrypi hostapd[4276]: Starting advanced IEEE 802.11 management: hostapd.
+Sep 28 21:45:14 raspberrypi systemd[1]: Started LSB: Advanced IEEE 802.11 management daemon.
+Sep 28 21:45:15 raspberrypi kernel: [ 6678.980108] brcmfmac: brcmf_add_if: ERROR: netdev:wlan0 already exists
+Sep 28 21:45:15 raspberrypi kernel: [ 6678.980130] brcmfmac: brcmf_add_if: ignore IF event
+Sep 28 22:12:48 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 22:14:18 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 22:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 22:18:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 22:17:01 raspberrypi CRON[4614]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 23:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:18:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:17:01 raspberrypi CRON[4678]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 28 23:33:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:34:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:33:54 raspberrypi dbus[470]: [system] Reloaded configuration
+Sep 28 23:33:54 raspberrypi dbus[470]: [system] Reloaded configuration
+Sep 28 23:33:56 raspberrypi systemd[1]: Reloading.
+Sep 28 23:33:56 raspberrypi dbus[470]: [system] Reloaded configuration
+Sep 28 23:34:00 raspberrypi systemd[1]: Reloading.
+Sep 28 23:34:02 raspberrypi dbus[470]: [system] Reloaded configuration
+Sep 28 23:34:03 raspberrypi systemd[1]: Reloading.
+Sep 28 23:34:03 raspberrypi dbus[470]: [system] Reloaded configuration
+Sep 28 23:34:58 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:36:28 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:35:11 raspberrypi systemd[1]: Reloading.
+Sep 28 23:35:13 raspberrypi systemd[1]: Reloading.
+Sep 28 23:35:13 raspberrypi systemd[1]: Reloading.
+Sep 28 23:35:13 raspberrypi systemd[1]: Reloading.
+Sep 28 23:35:14 raspberrypi systemd[1]: Starting A high performance web server and a reverse proxy server...
+Sep 28 23:35:15 raspberrypi systemd[1]: Started A high performance web server and a reverse proxy server.
+Sep 28 23:35:15 raspberrypi systemd[1]: Reloading.
+Sep 28 23:45:16 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:46:46 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:47:19 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:48:49 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:48:04 raspberrypi systemd[1]: Stopping LSB: Advanced IEEE 802.11 management daemon...
+Sep 28 23:48:04 raspberrypi hostapd[7436]: Stopping advanced IEEE 802.11 management: hostapd.
+Sep 28 23:48:04 raspberrypi systemd[1]: Starting LSB: Advanced IEEE 802.11 management daemon...
+Sep 28 23:48:04 raspberrypi kernel: [14048.253092] brcmfmac: brcmf_add_if: ERROR: netdev:wlan0 already exists
+Sep 28 23:48:04 raspberrypi kernel: [14048.253120] brcmfmac: brcmf_add_if: ignore IF event
+Sep 28 23:48:04 raspberrypi hostapd[7443]: Starting advanced IEEE 802.11 management: hostapd.
+Sep 28 23:48:04 raspberrypi systemd[1]: Started LSB: Advanced IEEE 802.11 management daemon.
+Sep 28 23:48:08 raspberrypi systemd[1]: Stopping Host and Network Name Lookups.
+Sep 28 23:48:08 raspberrypi systemd[1]: Stopping dnsmasq - A lightweight DHCP and caching DNS server...
+Sep 28 23:48:08 raspberrypi dnsmasq[4201]: exiting on receipt of SIGTERM
+Sep 28 23:48:08 raspberrypi systemd[1]: Starting dnsmasq - A lightweight DHCP and caching DNS server...
+Sep 28 23:48:08 raspberrypi dnsmasq[7515]: dnsmasq: syntax check OK.
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: started, version 2.72 cachesize 150
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: compile time options: IPv6 GNU-getopt DBus i18n IDN DHCP DHCPv6 no-Lua TFTP conntrack ipset auth DNSSEC loop-detect
+Sep 28 23:48:08 raspberrypi dnsmasq-dhcp[7527]: DHCP, IP range 172.24.1.50 -- 172.24.1.150, lease time 12h
+Sep 28 23:48:08 raspberrypi dnsmasq-dhcp[7527]: DHCP, sockets bound exclusively to interface wlan0
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: using nameserver 8.8.8.8#53
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: reading /var/run/dnsmasq/resolv.conf
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: using nameserver 8.8.8.8#53
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: using nameserver 192.168.128.1#53
+Sep 28 23:48:08 raspberrypi dnsmasq[7527]: read /etc/hosts - 5 addresses
+Sep 28 23:48:08 raspberrypi systemd[1]: Started dnsmasq - A lightweight DHCP and caching DNS server.
+Sep 28 23:48:08 raspberrypi systemd[1]: Starting Host and Network Name Lookups.
+Sep 28 23:48:08 raspberrypi systemd[1]: Reached target Host and Network Name Lookups.
+Sep 28 23:48:21 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 IEEE 802.11: associated
+Sep 28 23:48:21 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 RADIUS: starting accounting session 57EC56B4-00000000
+Sep 28 23:48:21 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: pairwise key handshake completed (RSN)
+Sep 28 23:48:21 raspberrypi dnsmasq-dhcp[7527]: DHCPDISCOVER(wlan0) a4:84:31:f6:d2:b8
+Sep 28 23:48:21 raspberrypi dnsmasq-dhcp[7527]: DHCPOFFER(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8
+Sep 28 23:48:21 raspberrypi dnsmasq-dhcp[7527]: DHCPREQUEST(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8
+Sep 28 23:48:21 raspberrypi dnsmasq-dhcp[7527]: DHCPACK(wlan0) 172.24.1.86 a4:84:31:f6:d2:b8 android-5d26007d322eb141
+Sep 28 23:49:54 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:51:24 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 28 23:58:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 28 23:58:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Wed Sep 28 23:59:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:08:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:08:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:09:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:11:06 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:12:36 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:18:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:17:01 raspberrypi CRON[8367]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 00:18:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:25:41 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:27:11 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:28:05 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:28:05 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:29:35 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:29:44 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:31:14 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:32:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:33:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:38:05 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:38:05 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:39:35 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:41:27 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:42:57 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:48:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:48:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:49:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:51:37 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:53:07 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:53:14 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:54:44 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:56:44 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 00:58:14 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 00:58:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 00:58:34 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:00:04 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:01:05 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:02:35 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:08:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 01:08:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:09:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:18:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:17:01 raspberrypi CRON[9111]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 01:18:05 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 01:28:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 01:28:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:29:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:38:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 01:38:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:39:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:48:05 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 01:48:05 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:49:35 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:57:37 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 01:59:07 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 01:58:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:01:44 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:03:14 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:03:37 raspberrypi systemd[1]: Reloading.
+Sep 29 02:03:37 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:05:07 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:04:59 raspberrypi systemd[1]: Reloading.
+Sep 29 02:05:05 raspberrypi systemd[1]: Reloading.
+Sep 29 02:06:41 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:08:11 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:08:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:12:11 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:13:41 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:13:46 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:15:16 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:14:02 raspberrypi systemd[1]: Starting A high performance web server and a reverse proxy server...
+Sep 29 02:14:02 raspberrypi systemd[1]: Started A high performance web server and a reverse proxy server.
+Sep 29 02:15:35 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:17:05 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:17:01 raspberrypi CRON[11809]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 02:18:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:18:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:19:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:21:22 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:22:52 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:24:11 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:25:41 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:28:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:28:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:29:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:29:50 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:31:20 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:33:43 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:35:13 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:38:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:38:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:39:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:47:52 raspberrypi kernel: [24836.784281] gpiomem-bcm2835 3f200000.gpiomem: gpiomem device opened.
+Sep 29 02:47:52 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:49:22 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:48:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 02:54:05 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:55:35 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:56:48 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 02:58:18 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 02:58:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 03:02:50 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 IEEE 802.11: associated
+Sep 29 03:02:50 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:04:20 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:02:50 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 RADIUS: starting accounting session 57EC56B4-00000001
+Sep 29 03:02:50 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: pairwise key handshake completed (RSN)
+Sep 29 03:02:51 raspberrypi dnsmasq-dhcp[7527]: DHCPREQUEST(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8
+Sep 29 03:02:51 raspberrypi dnsmasq-dhcp[7527]: DHCPACK(wlan0) 172.24.1.122 e4:f8:9c:c0:78:f8 DESKTOP-0RU3EJU
+Sep 29 03:08:04 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 29 03:08:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:09:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:08:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 03:13:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 IEEE 802.11: associated
+Sep 29 03:13:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:14:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:13:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 RADIUS: starting accounting session 57EC56B4-00000002
+Sep 29 03:13:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: pairwise key handshake completed (RSN)
+Sep 29 03:13:05 raspberrypi dnsmasq-dhcp[7527]: DHCPREQUEST(wlan0) 192.168.20.118 a0:cb:fd:ed:39:16
+Sep 29 03:13:05 raspberrypi dnsmasq-dhcp[7527]: DHCPNAK(wlan0) 192.168.20.118 a0:cb:fd:ed:39:16 wrong address
+Sep 29 03:13:06 raspberrypi dnsmasq-dhcp[7527]: DHCPDISCOVER(wlan0) a0:cb:fd:ed:39:16
+Sep 29 03:13:06 raspberrypi dnsmasq-dhcp[7527]: DHCPOFFER(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 29 03:13:06 raspberrypi dnsmasq-dhcp[7527]: DHCPREQUEST(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16
+Sep 29 03:13:06 raspberrypi dnsmasq-dhcp[7527]: DHCPACK(wlan0) 172.24.1.94 a0:cb:fd:ed:39:16 android-1ebd820236cea9f3
+Sep 29 03:15:24 raspberrypi hostapd: wlan0: STA 04:c2:3e:51:ea:48 IEEE 802.11: associated
+Sep 29 03:15:24 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:16:54 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:15:24 raspberrypi hostapd: wlan0: STA 04:c2:3e:51:ea:48 RADIUS: starting accounting session 57EC56B4-00000003
+Sep 29 03:15:24 raspberrypi hostapd: wlan0: STA 04:c2:3e:51:ea:48 WPA: pairwise key handshake completed (RSN)
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPDISCOVER(wlan0) 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPOFFER(wlan0) 172.24.1.72 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPDISCOVER(wlan0) 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPOFFER(wlan0) 172.24.1.72 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPDISCOVER(wlan0) 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPOFFER(wlan0) 172.24.1.72 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPREQUEST(wlan0) 172.24.1.72 04:c2:3e:51:ea:48
+Sep 29 03:15:34 raspberrypi dnsmasq-dhcp[7527]: DHCPACK(wlan0) 172.24.1.72 04:c2:3e:51:ea:48 android-6b43e39edccab1dd
+Sep 29 03:16:30 raspberrypi hostapd: wlan0: STA 04:c2:3e:51:ea:48 IEEE 802.11: disassociated
+Sep 29 03:16:30 raspberrypi hostapd: wlan0: STA 04:c2:3e:51:ea:48 IEEE 802.11: disassociated
+Sep 29 03:17:01 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:18:31 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:17:01 raspberrypi CRON[13298]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Sep 29 03:18:04 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 29 03:18:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 29 03:18:04 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)
+Sep 29 03:19:24 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:20:54 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:24:27 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:25:57 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:28:04 raspberrypi hostapd: wlan0: STA e4:f8:9c:c0:78:f8 WPA: group key handshake completed (RSN)
+Sep 29 03:28:04 raspberrypi rsyslogd-2007: action 'action 17' suspended, next retry is Thu Sep 29 03:29:34 2016 [try http://www.rsyslog.com/e/2007 ]
+Sep 29 03:28:04 raspberrypi hostapd: wlan0: STA a0:cb:fd:ed:39:16 WPA: group key handshake completed (RSN)
+Sep 29 03:28:05 raspberrypi hostapd: wlan0: STA a4:84:31:f6:d2:b8 WPA: group key handshake completed (RSN)

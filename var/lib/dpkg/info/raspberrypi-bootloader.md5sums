@@ -1,0 +1,12 @@
+4a4d169737c0786fb9482bb6d30401d1  boot/LICENCE.broadcom
+5bbb5f25dfe16f2871d5defcc48ac9ff  boot/bootcode.bin
+7ca6062ea0eab2be6c9f01513b837210  boot/fixup.dat
+68991ebf7be469f7e4ced226b11b1f37  boot/fixup_cd.dat
+aad7a3c26a8f70e1629d55aadbe8d42c  boot/fixup_db.dat
+5e90da54c2d72bdd3e2d8b3757b900a9  boot/fixup_x.dat
+1c778e0bb532c8c40d9ba76cc322385c  boot/start.elf
+d76efd213ce04f13d9a69f4441520ea1  boot/start_cd.elf
+a3f0a18720ca2ecb9289bc726e63ee14  boot/start_db.elf
+bdc8df056a238bb7b43393b847764810  boot/start_x.elf
+49ad6c6e5bb5c73a1e44e37ab7e7a3e6  usr/share/doc/raspberrypi-bootloader/changelog.Debian.gz
+61b2b927ded1b31f913f496150efef5d  usr/share/doc/raspberrypi-bootloader/copyright

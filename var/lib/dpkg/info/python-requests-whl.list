@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/python-wheels
+/usr/share/python-wheels/requests-2.4.3-py2.py3-none-any.whl
+/usr/share/doc
+/usr/share/doc/python-requests-whl
+/usr/share/doc/python-requests-whl/copyright
+/usr/share/doc/python-requests-whl/changelog.Debian.gz
+/usr/share/doc/python-requests-whl/changelog.gz

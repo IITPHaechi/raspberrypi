@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-distlib-whl
+/usr/share/doc/python-distlib-whl/copyright
+/usr/share/doc/python-distlib-whl/changelog.Debian.gz
+/usr/share/python-wheels
+/usr/share/python-wheels/distlib-0.1.9-py2.py3-none-any.whl

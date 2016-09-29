@@ -1,0 +1,13 @@
+5bc03fc7ec0df267dfa014530e2d7f11  usr/lib/python2.6/dist-packages/xklavier.so
+4647452bcde61651b257979def1792d2  usr/lib/python2.7/dist-packages/xklavier.so
+5cca51e8a7f14a67183f5fa7299dc44c  usr/share/doc/python-xklavier/AUTHORS
+1b3d57acb515bc822e72bea97ff6febe  usr/share/doc/python-xklavier/buildinfo.gz
+f82beadb154b28efbb9a11f31f010566  usr/share/doc/python-xklavier/changelog.Debian.gz
+24658d73dbf13d0bc665b54099effa24  usr/share/doc/python-xklavier/changelog.gz
+bf0ec767de7aa45e1016f444874a4d00  usr/share/doc/python-xklavier/copyright
+db25dbe5a06d7e6dd56ece5de2e43200  usr/share/doc/python-xklavier/examples/get_country_variants.py
+2d3fb55355cf40e42782c64a50d1b35c  usr/share/doc/python-xklavier/examples/get_current_config.py
+937e719f6d1966dee7d5476e8d8525b1  usr/share/doc/python-xklavier/examples/get_language_variants.py
+1b1e0be4b5cc70f272ab37a626715e73  usr/share/doc/python-xklavier/examples/get_layout_variants.py
+ee32348418f0337f33e1e3ef9c37107d  usr/share/doc/python-xklavier/examples/get_models.py
+fce6e45269c32866c1f18a0fa87d2280  usr/share/doc/python-xklavier/examples/get_options.py

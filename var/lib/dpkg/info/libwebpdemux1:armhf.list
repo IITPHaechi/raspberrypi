@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libwebpdemux.so.1.0.1
+/usr/share
+/usr/share/doc
+/usr/share/doc/libwebpdemux1
+/usr/share/doc/libwebpdemux1/copyright
+/usr/share/doc/libwebpdemux1/changelog.Debian.gz
+/usr/share/doc/libwebpdemux1/changelog.gz
+/usr/lib/arm-linux-gnueabihf/libwebpdemux.so.1

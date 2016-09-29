@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/RTIMU.arm-linux-gnueabihf.so
+/usr/lib/python2.7/dist-packages/RTIMULib-7.2.1.egg-info
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-rtimulib
+/usr/share/doc/python-rtimulib/copyright
+/usr/share/doc/python-rtimulib/changelog.Debian.gz

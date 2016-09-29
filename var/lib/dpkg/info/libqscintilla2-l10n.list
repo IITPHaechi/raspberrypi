@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/qt4
+/usr/share/qt4/translations
+/usr/share/qt4/translations/qscintilla_de.qm
+/usr/share/qt4/translations/qscintilla_cs.qm
+/usr/share/qt4/translations/qscintilla_pt_br.qm
+/usr/share/qt4/translations/qscintilla_es.qm
+/usr/share/qt4/translations/qscintilla_fr.qm
+/usr/share/doc
+/usr/share/doc/libqscintilla2-l10n
+/usr/share/doc/libqscintilla2-l10n/copyright
+/usr/share/doc/libqscintilla2-l10n/changelog.Debian.gz
+/usr/share/doc/libqscintilla2-l10n/changelog.gz

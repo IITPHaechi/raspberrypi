@@ -1,0 +1,9 @@
+auto
+/usr/bin/tnameserv
+tnameserv.1.gz
+/usr/share/man/man1/tnameserv.1.gz
+
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/tnameserv
+318
+/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/tnameserv.1.gz
+

@@ -1,0 +1,14 @@
+8d41d5107c18e0a1e4510eab79526907  usr/bin/rc_gui
+aa37cec6f387c431d54a2337c8886ca5  usr/share/applications/rc_gui.desktop
+bd22e5ef4d4ad10baf7c712e146666e5  usr/share/doc/rc-gui/changelog.Debian.gz
+8ded13edf8d403e51c5a4156032d1a61  usr/share/doc/rc-gui/copyright
+a080ec28b052852d084d092023a8abd7  usr/share/icons/hicolor/32x32/apps/rpi.png
+6245c33a79be2cfdf206f3257959a8fc  usr/share/locale/de/LC_MESSAGES/rc_gui.mo
+93cc18b1a38bf2cf7b4d4e31948a118e  usr/share/locale/en_GB/LC_MESSAGES/rc_gui.mo
+53e8c6e7e8faf51e56b0e4fadeb9beef  usr/share/locale/es/LC_MESSAGES/rc_gui.mo
+e0d5894f2e8ad5cdff99411fa11fab2b  usr/share/locale/fr/LC_MESSAGES/rc_gui.mo
+e02c018ac263053b6bc47ad1d00dc5c3  usr/share/locale/id_ID/LC_MESSAGES/rc_gui.mo
+12e9f30279581791ff1c307bd13f56bd  usr/share/locale/ja/LC_MESSAGES/rc_gui.mo
+f5b91d4848b1e3a98d68505612fda707  usr/share/locale/nl/LC_MESSAGES/rc_gui.mo
+7f403b20c8e02e5ee9b71380d949847d  usr/share/locale/zh_TW/LC_MESSAGES/rc_gui.mo
+e2ea368c8156edb42e71056e32b7ce39  usr/share/rc_gui/rc_gui.ui
